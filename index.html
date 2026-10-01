@@ -3,32 +3,32 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TUA — F60.8 | Multimodale Werkanalyse & Psychogramm</title>
+  <title>TUA — F60.8 | Multimodale Album-Dekonstruktion & Psychogramm</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
   <style>
     :root {
       /* Basis-Oberflächen (Darkmode Luxus / Pitchfork / The Quietus Standard) */
-      --bg: #09090c;
-      --bg-surface: #121217;
+      --bg: #0a0a0d;
+      --bg-surface: #131318;
       --bg-elevated: #1a1a22;
       --text: #ffffff;
-      --text-muted: #8b8b94;
-      --text-dim: #5c5c66;
+      --text-muted: #8e8e98;
+      --text-dim: #5c5c68;
 
-      /* Künstler- & Thema-spezifische Akzentfarben (Ibiza-Neon & Toxisches Narzissmus-Cyan/Magenta) */
-      --accent: #ff2a70;
-      --accent-dim: rgba(255, 42, 112, 0.12);
-      --accent-glow: rgba(255, 42, 112, 0.35);
-      --accent-cyan: #00f2fe;
-      --accent-cyan-dim: rgba(0, 242, 254, 0.12);
+      /* Künstler- & Thema-spezifische Akzentfarben (Ibiza Neon Pink & Cyan) */
+      --accent: #ff007a;
+      --accent-dim: rgba(255, 0, 122, 0.12);
+      --accent-glow: rgba(255, 0, 122, 0.35);
+      --accent-cyan: #00e5ff;
+      --accent-cyan-dim: rgba(0, 229, 255, 0.12);
 
       /* Typografie & Borders */
       --font-main: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       --font-mono: 'JetBrains Mono', monospace;
       --border-subtle: rgba(255, 255, 255, 0.08);
-      --border-focus: rgba(255, 42, 112, 0.4);
+      --border-focus: rgba(255, 0, 122, 0.45);
     }
 
     * {
@@ -56,7 +56,7 @@
     body[data-lang="de"] .lang-en { display: none !important; }
     body[data-lang="en"] .lang-de { display: none !important; }
 
-    /* 35mm Analogfilm-Korn Canvas */
+    /* Animierter 35mm Analogfilm-Korn Canvas */
     #grainCanvas {
       position: fixed;
       top: 0;
@@ -65,7 +65,7 @@
       height: 100vh;
       pointer-events: none;
       z-index: 9999;
-      opacity: 0.045;
+      opacity: 0.05;
       mix-blend-mode: screen;
     }
 
@@ -74,14 +74,14 @@
       color: #ffffff;
     }
 
-    /* Minimalistische Sticky Navbar */
+    /* Sticky Navbar */
     .navbar {
       position: fixed;
       top: 0;
       left: 0;
       width: 100%;
       height: 64px;
-      background: rgba(9, 9, 12, 0.85);
+      background: rgba(10, 10, 13, 0.85);
       backdrop-filter: blur(24px);
       -webkit-backdrop-filter: blur(24px);
       display: grid;
@@ -101,8 +101,8 @@
       display: flex;
       flex-direction: column;
       justify-content: space-between;
-      width: 22px;
-      height: 15px;
+      width: 24px;
+      height: 16px;
       padding: 0;
     }
 
@@ -124,9 +124,9 @@
     }
 
     .brand-title {
-      font-size: 1.1rem;
+      font-size: 1.15rem;
       font-weight: 900;
-      letter-spacing: 0.3em;
+      letter-spacing: 0.28em;
       color: #ffffff;
       text-transform: uppercase;
       line-height: 1;
@@ -189,7 +189,7 @@
       left: -360px;
       width: min(340px, 85vw);
       height: 100vh;
-      background-color: #0f0f14;
+      background-color: #111116;
       border-right: 1px solid var(--border-subtle);
       z-index: 1200;
       padding: 24px 32px;
@@ -204,7 +204,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      margin-bottom: 32px;
+      margin-bottom: 28px;
       padding-bottom: 16px;
       border-bottom: 1px solid var(--border-subtle);
     }
@@ -234,19 +234,18 @@
       list-style: none;
       display: flex;
       flex-direction: column;
-      gap: 12px;
+      gap: 10px;
     }
 
     .drawer-nav a {
       color: var(--text-muted);
       text-decoration: none;
-      font-size: 0.92rem;
+      font-size: 0.9rem;
       font-weight: 600;
       display: block;
-      padding: 6px 0;
+      padding: 6px 0 6px 8px;
       transition: all 0.2s;
       border-left: 2px solid transparent;
-      padding-left: 8px;
     }
 
     .drawer-nav a:hover {
@@ -255,41 +254,64 @@
       padding-left: 14px;
     }
 
-    /* Hero Section: Full Bleed Visual & Diagnostic Header */
+    /* Full-Bleed Hero Section mit Cover Art */
     .hero-container {
       margin-top: 64px;
       position: relative;
       width: 100%;
-      min-height: 60vh;
+      min-height: 75vh;
       display: flex;
       align-items: center;
       justify-content: center;
-      background: radial-gradient(circle at center, #1b1022 0%, #09090c 70%);
+      background: #000000;
       overflow: hidden;
       border-bottom: 1px solid var(--border-subtle);
-      padding: 80px 24px;
+      padding: 60px 24px;
     }
 
-    .hero-glow-sphere {
+    .hero-bg-cover {
       position: absolute;
-      width: 500px;
-      height: 500px;
-      background: radial-gradient(circle, rgba(255, 42, 112, 0.18) 0%, rgba(0, 242, 254, 0.05) 40%, transparent 70%);
-      filter: blur(60px);
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 0.28;
+      filter: blur(28px) saturate(1.4);
+      transform: scale(1.1);
       pointer-events: none;
-      animation: pulseGlow 8s infinite alternate ease-in-out;
-    }
-
-    @keyframes pulseGlow {
-      0% { transform: scale(0.9) translate(-20px, -10px); opacity: 0.6; }
-      100% { transform: scale(1.15) translate(20px, 15px); opacity: 1; }
     }
 
     .hero-content {
       position: relative;
       z-index: 2;
       text-align: center;
-      max-width: 900px;
+      max-width: 960px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .hero-artwork-card {
+      width: 220px;
+      height: 220px;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.85), 0 0 30px var(--accent-glow);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      margin-bottom: 28px;
+      transition: transform 0.3s ease;
+    }
+
+    .hero-artwork-card:hover {
+      transform: scale(1.03) rotate(-1deg);
+    }
+
+    .hero-artwork-card img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
     }
 
     .icd-code-badge {
@@ -297,43 +319,43 @@
       align-items: center;
       gap: 8px;
       font-family: var(--font-mono);
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       font-weight: 700;
       letter-spacing: 0.15em;
       color: var(--accent);
       background: var(--accent-dim);
-      border: 1px solid rgba(255, 42, 112, 0.3);
-      padding: 6px 16px;
+      border: 1px solid rgba(255, 0, 122, 0.3);
+      padding: 5px 14px;
       border-radius: 20px;
       text-transform: uppercase;
-      margin-bottom: 24px;
+      margin-bottom: 18px;
     }
 
     .album-main-title {
-      font-size: clamp(3rem, 8vw, 6rem);
+      font-size: clamp(3.2rem, 8vw, 6.2rem);
       font-weight: 900;
       letter-spacing: -0.03em;
       line-height: 1;
       margin-bottom: 16px;
       text-transform: uppercase;
-      background: linear-gradient(180deg, #ffffff 40%, rgba(255, 255, 255, 0.55) 100%);
+      background: linear-gradient(180deg, #ffffff 40%, rgba(255, 255, 255, 0.5) 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
 
     .album-lead {
-      font-size: 1.25rem;
-      color: #e1e1e6;
+      font-size: 1.22rem;
+      color: #e5e5eb;
       font-weight: 500;
-      max-width: 740px;
-      margin: 0 auto 20px auto;
+      max-width: 760px;
+      margin: 0 auto 18px auto;
       line-height: 1.55;
     }
 
     .album-context-text {
-      font-size: 0.95rem;
+      font-size: 0.94rem;
       color: var(--text-muted);
-      max-width: 700px;
+      max-width: 720px;
       margin: 0 auto;
       line-height: 1.7;
     }
@@ -352,7 +374,7 @@
     }
 
     .track-header-bar {
-      margin-bottom: 40px;
+      margin-bottom: 36px;
       padding-bottom: 20px;
       border-bottom: 1px solid var(--border-subtle);
       display: flex;
@@ -376,7 +398,7 @@
     }
 
     .track-heading {
-      font-size: clamp(1.8rem, 4vw, 2.6rem);
+      font-size: clamp(1.8rem, 4vw, 2.5rem);
       font-weight: 900;
       letter-spacing: -0.02em;
       color: #ffffff;
@@ -409,11 +431,11 @@
     .track-audio-btn.playing {
       color: #ffffff;
       border-color: var(--accent);
-      background: rgba(255, 42, 112, 0.25);
+      background: rgba(255, 0, 122, 0.25);
       box-shadow: 0 0 15px var(--accent-glow);
     }
 
-    /* 2-Spalten Grid */
+    /* 2-Spalten Genius Grid */
     .track-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -433,13 +455,13 @@
     .lyrics-col {
       display: flex;
       flex-direction: column;
-      gap: 32px;
+      gap: 28px;
     }
 
     .stanza {
       display: flex;
       flex-direction: column;
-      gap: 10px;
+      gap: 8px;
     }
 
     .stanza-title {
@@ -453,7 +475,7 @@
     }
 
     .lyric-line {
-      font-size: 1.08rem;
+      font-size: 1.06rem;
       font-weight: 500;
       color: rgba(255, 255, 255, 0.78);
       line-height: 1.7;
@@ -462,7 +484,7 @@
     .lyric-trigger {
       display: inline-block;
       color: #ffffff;
-      border-bottom: 2px solid rgba(255, 42, 112, 0.4);
+      border-bottom: 2px solid rgba(255, 0, 122, 0.4);
       padding: 1px 4px;
       margin: 0 -4px;
       border-radius: 3px;
@@ -485,7 +507,7 @@
       box-shadow: 0 0 18px var(--accent-glow);
     }
 
-    /* Rechte Spalte: Analyse & Kartendeck */
+    /* Rechte Spalte: Review & Deck */
     .analysis-col {
       display: flex;
       flex-direction: column;
@@ -514,7 +536,7 @@
       padding: 1px 7px;
       border-radius: 4px;
       font-weight: 600;
-      border: 1px solid rgba(255, 42, 112, 0.25);
+      border: 1px solid rgba(255, 0, 122, 0.25);
     }
 
     .narrative-review strong,
@@ -725,7 +747,7 @@
       background: var(--accent-dim);
       padding: 3px 8px;
       border-radius: 4px;
-      border: 1px solid rgba(255, 42, 112, 0.3);
+      border: 1px solid rgba(255, 0, 122, 0.3);
     }
 
     @media (max-width: 768px) {
@@ -776,7 +798,7 @@
     <ul class="drawer-nav">
       <li><a href="#track-01">01 — 1996</a></li>
       <li><a href="#track-02">02 — Wiedersehen</a></li>
-      <li><a href="#track-03">03 — GluiV (Glaub ich verlier)</a></li>
+      <li><a href="#track-03">03 — GluiV</a></li>
       <li><a href="#track-04">04 — Dachterrasse</a></li>
       <li><a href="#track-05">05 — Für mich</a></li>
       <li><a href="#track-06">06 — Rette mich nicht</a></li>
@@ -784,24 +806,28 @@
       <li><a href="#track-08">08 — Höhenflug + Tiefenrausch</a></li>
       <li><a href="#track-09">09 — Dopamin Spike</a></li>
       <li><a href="#track-10">10 — Amnesia</a></li>
+      <li><a href="#track-11">11 — Kaputt</a></li>
     </ul>
   </div>
 
-  <!-- Hero Section -->
+  <!-- Full-Bleed Hero Section mit Original Cover Art -->
   <header class="hero-container">
-    <div class="hero-glow-sphere"></div>
+    <img src="cover.png" alt="Tua F60.8 Cover Art" class="hero-bg-cover">
     <div class="hero-content">
+      <div class="hero-artwork-card">
+        <img src="cover.png" alt="Tua F60.8 Album Cover">
+      </div>
       <div class="icd-code-badge">
-        <span>ICD-10 CLASSIFICATION: F60.8</span>
+        <span>ICD-10 DIAGNOSE: F60.8 (NARZISSTISCHE PERSÖNLICHKEITSSTÖRUNG)</span>
       </div>
       <h1 class="album-main-title">F60.8</h1>
       <p class="album-lead">
-        <span class="lang-de">Eine psychoanalytische und literarische Dekonstruktion über Narzissmus, Rausch, emotionale Staffage und den unausweichlichen Ikarus-Absturz.</span>
-        <span class="lang-en">A psychoanalytic and literary deconstruction of narcissism, intoxication, emotional stage-setting, and the inevitable Icarus descent.</span>
+        <span class="lang-de">Eine literarische und psychoanalytische Dekonstruktion über Größenwahn, Ibiza-Hedonismus, emotionale Ausbeutung und den unausweichlichen Ikarus-Absturz.</span>
+        <span class="lang-en">A literary and psychoanalytic deconstruction of grandiosity, Ibiza hedonism, emotional exploitation, and the inevitable Icarus descent.</span>
       </p>
       <p class="album-context-text">
-        <span class="lang-de">Mit <em>F60.8</em> erschafft Tua eine fiktionale Charakterstudie vor der flirrenden Kulisse Ibizas. Zwischen UK Garage, Lo-Fi-House und bittersüßer Melancholie wird das Scheitern wahrer menschlicher Verbindung im Zeitalter der Selbstinszenierung seziert.</span>
-        <span class="lang-en">With <em>F60.8</em>, Tua constructs a fictional character study set against the shimmering backdrop of Ibiza. Navigating UK Garage, Lo-Fi House, and melancholic depths, it dissects the failure of genuine human connection in an era of pure self-staging.</span>
+        <span class="lang-de">Auf <em>F60.8</em> schlüpft Tua in die Perspektive einer narzisstisch fragmentierten Kunstfigur. Eingerahmt von den Einspielern von <em>Ego FM Ibiza</em>, flirrenden Balearen-House-Grooves und UK Garage seziert das Mixtape das Scheitern von Intimität im Zeitalter digitaler Selbstinszenierung.</span>
+        <span class="lang-en">On <em>F60.8</em>, Tua inhabits a narcissistically fragmented persona. Framed by snippets of <em>Ego FM Ibiza</em>, shimmering Balearic house grooves, and UK Garage, the project dissects the collapse of intimacy in an era of digital self-staging.</span>
       </p>
     </div>
   </header>
@@ -823,26 +849,20 @@
           </button>
         </div>
         <div class="track-grid">
-          <!-- Lyrics Col -->
           <div class="lyrics-col">
             <div class="stanza">
-              <div class="stanza-title">[Intro & Strophe 1]</div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="01" data-target-card="0">Raus aus dem Kaff, 1996</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="01" data-target-card="0">Blick in den Rückspiegel, alles brennt weg</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="01" data-target-card="1">Ich wollte fliegen wie Ikarus, höher als ihr</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="01" data-target-card="1">Niemals zurück in das kalte Revier</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="01" data-target-card="2">Jeder Beat schlägt wie mein pochender Puls</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="01" data-target-card="2">Keine Reue, kein Halt, keine Schuld</span></div>
+              <div class="stanza-title">[Intro & Soundscape Exposition]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="01" data-target-card="0">[Radio Tuning: Ego FM Ibiza — Sesenta punto ocho]</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="01" data-target-card="1">1996... Der Beginn des Ikarus-Höhenflugs</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="01" data-target-card="2">[Atmosphärisches Anschwellen von Synths & Breakbeats]</span></div>
             </div>
           </div>
-          <!-- Analysis Col -->
           <div class="analysis-col">
-            <!-- German -->
             <div class="lang-block lang-de">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-01-de">
-                  <p>Das Album eröffnet mit einem archaischen Bruch: <strong>„1996“</strong> fungiert als Exposition und biografische Sollbruchstelle. Es markiert den radikalen Ausbruch aus der provinziellen Enge und die Geburt einer Kunstfigur, die ihre eigene Verwundbarkeit durch unerbittlichen Ehrgeiz abgetötet hat.</p>
-                  <p>Mit der expliziten Beschwörung des <span class="lyric-quote-highlight">Ikarus-Mythos</span> etabliert Tua das zentrale Leitmotiv des gesamten Albums: Der Höhenflug ist kein Zufall, sondern eine manische Notwendigkeit. Die Verbrennung der Vergangenheit im Rückspiegel ist der klassische psychoanalytische Abwehrmechanismus der Verleugnung (<span class="lyric-quote-highlight">Denial</span>). Nähe und Herkunft werden als Bedrohung der eigenen Autonomie empfunden.</p>
+                  <p><strong>„1996“</strong> fungiert als atmosphärische Ouvertüre und Ursprungsmythos. Der Track verankert das Narrativ im Spannungsfeld zwischen provinzieller Herkunft und dem Drang nach totaler Neuerfindung.</p>
+                  <p>Die fiktive Radiofrequenz <span class="lyric-quote-highlight">Ego FM Ibiza</span> etabliert sofort den Schauplatz: Eine Insel der hemmungslosen Selbstbespiegelung, auf der der Ikarus-Flug seinen Anfang nimmt.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-01-de" style="display: none;">
                   <div class="analysis-card" id="card-01-de-0">
@@ -850,9 +870,9 @@
                       <button class="card-back-btn" data-track-num="01">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 1 / 3</span>
                     </div>
-                    <span class="card-quote">Raus aus dem Kaff / Blick in den Rückspiegel, alles brennt weg</span>
+                    <span class="card-quote">Ego FM Ibiza / Die Frequenz der Persona</span>
                     <div class="card-body">
-                      <p><strong>Die tabula-rasa-Verdrängung:</strong> Die Vergangenheit wird nicht betrauert oder integriert, sondern symbolisch vernichtet („alles brennt weg“). Das lyrische Ich kappt alle emotionalen Wurzeln, um die Illusion vollkommener Selbsterschaffung aufrechtzuerhalten.</p>
+                      <p><strong>Die mediale Rahmung:</strong> Das Radio fungiert als akustische Barriere zur Außenwelt. Der Sendername „Ego FM“ markiert das geschlossene psychologische System des Narzissten.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-01-de-1">
@@ -860,9 +880,9 @@
                       <button class="card-back-btn" data-track-num="01">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 2 / 3</span>
                     </div>
-                    <span class="card-quote">Fliegen wie Ikarus, höher als ihr / Niemals zurück</span>
+                    <span class="card-quote">1996 / Die biografische Bruchlinie</span>
                     <div class="card-body">
-                      <p><strong>Die Hybris der Ikarus-Figur:</strong> Das Streben nach Höhe ist hier keine gesunde Selbstverwirklichung, sondern die Flucht vor dem Bodenkontakt. Der Ikarus-Mythos trägt den Untergang bereits in seiner DNA: Die Sonne, die den Aufstieg ermöglicht, wird das Wachs der Flügel schmelzen.</p>
+                      <p><strong>Die Genesis des Narzissmus:</strong> Die Jahreszahl verweist auf den Moment, in dem die ursprüngliche Verwundbarkeit durch den Panzer des Ehrgeizes ersetzt wurde.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-01-de-2">
@@ -870,20 +890,18 @@
                       <button class="card-back-btn" data-track-num="01">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 3 / 3</span>
                     </div>
-                    <span class="card-quote">Keine Reue, kein Halt, keine Schuld / Der Puls</span>
+                    <span class="card-quote">Breakbeats & Synths / Der beschleunigte Puls</span>
                     <div class="card-body">
-                      <p><strong>Die narzisstische Anästhesie:</strong> Das Über-Ich und jegliche moralische Hemmung werden suspendiert („keine Schuld“). Der pochende Puls wird mit dem elektronischen Beat synchronisiert – der Körper funktioniert nur noch als Taktgeber im Rausch.</p>
+                      <p><strong>Die kinetische Abwehr:</strong> Die ansteigende Geschwindigkeit der Musik verhindert das Aufkommen von Melancholie im Keim.</p>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <!-- English -->
             <div class="lang-block lang-en">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-01-en">
-                  <p>The album opens with a radical rupture: <strong>“1996”</strong> functions as both exposition and psychological fault line. It marks the escape from provincial claustrophobia and the inception of a persona that has numbed its own vulnerability through ruthless grandiosity.</p>
-                  <p>By summoning the <span class="lyric-quote-highlight">Icarus myth</span>, Tua establishes the core thematic anchor: ascent is not an organic ambition, but a manic defense against emotional dependency.</p>
+                  <p><strong>“1996”</strong> operates as the sonic prologue and origin myth. It anchors the album in the psychological tension between provincial roots and ruthless reinvention.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-01-en" style="display: none;">
                   <div class="analysis-card" id="card-01-en-0">
@@ -891,9 +909,9 @@
                       <button class="card-back-btn" data-track-num="01">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 1 / 3</span>
                     </div>
-                    <span class="card-quote">Out of the village / Everything burns behind in the mirror</span>
+                    <span class="card-quote">Ego FM Ibiza / The Frequency of Persona</span>
                     <div class="card-body">
-                      <p><strong>Tabula Rasa Repression:</strong> The past is incinerated rather than mourned. Emotional ties are severed to safeguard the fantasy of absolute self-generation.</p>
+                      <p><strong>Acoustic Enclosure:</strong> The radio broadcast establishes the solipsistic world where empathy cannot enter.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-01-en-1">
@@ -901,9 +919,9 @@
                       <button class="card-back-btn" data-track-num="01">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 2 / 3</span>
                     </div>
-                    <span class="card-quote">Flying like Icarus, higher than all of you</span>
+                    <span class="card-quote">1996 / The Origin Myth</span>
                     <div class="card-body">
-                      <p><strong>Icarus Hubris:</strong> Grandiosity serves as an escape from gravity. The tragic doom is embedded from line one.</p>
+                      <p><strong>Genesis of Defense:</strong> A temporal marker where vulnerability was replaced by compensatory grandiosity.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-01-en-2">
@@ -911,9 +929,9 @@
                       <button class="card-back-btn" data-track-num="01">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 3 / 3</span>
                     </div>
-                    <span class="card-quote">No regret, no boundary, no guilt</span>
+                    <span class="card-quote">Breakbeats & Rising Synths</span>
                     <div class="card-body">
-                      <p><strong>Narcissistic Anesthesia:</strong> Guilt and accountability are completely deactivated in favor of mechanical momentum.</p>
+                      <p><strong>Kinetic Escape:</strong> Rhythm operates as kinetic insulation against self-doubt.</p>
                     </div>
                   </div>
                 </div>
@@ -938,21 +956,24 @@
         <div class="track-grid">
           <div class="lyrics-col">
             <div class="stanza">
-              <div class="stanza-title">[Strophe & Hook]</div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="0">Sag mir nicht, dass du mich vermisst</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="0">Weil du nur dein altes Bild von mir küsst</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="1">Ein kurzes Winken aus dem fahrenden Wagen</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="1">Ich hab keine Zeit für deine offenen Fragen</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="2">Wir sehen uns wieder, wenn die Lichter ausgehn</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="2">Oder nie wieder, lass es einfach geschehn</span></div>
+              <div class="stanza-title">[Bridge]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="0">Die Welt gehört denen, die sie sich nehmen</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="0">Die Welt gehört denen, die sie sich nehmen</span></div>
+            </div>
+            <div class="stanza">
+              <div class="stanza-title">[Outro]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="1">Ich steh' auf einer Fähre übers Mittelmeer</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="1">Seh' der weißen Spur im Wasser hinterher</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="2">Selig sind die Diebe</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="02" data-target-card="2">Ich nehme, was ich kriege</span></div>
             </div>
           </div>
           <div class="analysis-col">
             <div class="lang-block lang-de">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-02-de">
-                  <p>In <strong>„Wiedersehen“</strong> prallen alte Verbindungen auf die neue, unnahbare Persona. Der Abschied wird nicht sentimental verhandelt, sondern mit schneidender Entwertung abserviert: Die Sehnsucht des Gegenübers wird sofort als sentimentale Projektion enttarnt (<span class="lyric-quote-highlight">„nur dein altes Bild“</span>).</p>
-                  <p>Tua fängt hier den zynischen Mechanismus des Narzissten ein, der Beziehungen nur solange duldet, wie sie seinem aktuellen Selbstbild dienen. Das flüchtige Winken aus dem fahrenden Auto ist ein kraftvolles Symbol für Geschwindigkeit als Schutzpanzer gegen Intimität.</p>
+                  <p>In <strong>„Wiedersehen“</strong> wird der physische und moralische Abschied vollzogen. Auf der Fähre übers Mittelmeer blickt das lyrische Ich auf das Kielwasser zurück – eine weiße Spur, die sich im Meer auflöst wie die verlassenen Beziehungen.</p>
+                  <p>Die zynische Seligpreisung <span class="lyric-quote-highlight">„Selig sind die Diebe / Ich nehme, was ich kriege“</span> pervertiert biblische Bergpredigt-Motive zur Philosophie rücksichtsloser Aneignung.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-02-de" style="display: none;">
                   <div class="analysis-card" id="card-02-de-0">
@@ -960,9 +981,9 @@
                       <button class="card-back-btn" data-track-num="02">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 1 / 3</span>
                     </div>
-                    <span class="card-quote">Sag mir nicht, dass du mich vermisst / Dein altes Bild</span>
+                    <span class="card-quote">Die Welt gehört denen, die sie sich nehmen</span>
                     <div class="card-body">
-                      <p><strong>Die Abwehr von Fremdbildern:</strong> Der Protagonist verweigert dem Gegenüber jede emotionale Deutungshoheit. Wer ihn vermisst, wird herabgestuft, da er die neue, makellose Fassade noch nicht anerkannt hat.</p>
+                      <p><strong>Die darwinistische Selbstlegitimation:</strong> Das Ich rechtfertigt seine Skrupellosigkeit als Naturgesetz. Wer nicht nimmt, wird übergangen.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-02-de-1">
@@ -970,9 +991,9 @@
                       <button class="card-back-btn" data-track-num="02">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 2 / 3</span>
                     </div>
-                    <span class="card-quote">Winken aus dem fahrenden Wagen / Keine Zeit</span>
+                    <span class="card-quote">Fähre übers Mittelmeer / Weiße Spur im Wasser</span>
                     <div class="card-body">
-                      <p><strong>Beschleunigung als Bindungsvermeidung:</strong> Das Verharren im Stillstand würde Reflexion erzwingen. Die ständige Vorwärtsbewegung (Auto, Flugzeug, Beat) verhindert jede tiefere Konfrontation.</p>
+                      <p><strong>Das dissipative Leitmotiv:</strong> Die weiße Spur im Wasser symbolisiert die Kurzlebigkeit aller Bindungen: Kaum gezogen, vergeht sie spurlos.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-02-de-2">
@@ -980,9 +1001,9 @@
                       <button class="card-back-btn" data-track-num="02">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 3 / 3</span>
                     </div>
-                    <span class="card-quote">Wir sehen uns wieder / Oder nie wieder</span>
+                    <span class="card-quote">Selig sind die Diebe / Ich nehme, was ich kriege</span>
                     <div class="card-body">
-                      <p><strong>Die Gleichgültigkeit als Machtdemonstration:</strong> Das Schicksal der Bindung wird in die Beliebigkeit entlassen. Wer keine Verbindlichkeit zulässt, kann nicht verlassen werden.</p>
+                      <p><strong>Die Sakralisierung des Egoismus:</strong> Die Umdeutung von Schuld in einen Zustand der „Seligkeit“ ist der finale Schritt zur empathischen Taubheit.</p>
                     </div>
                   </div>
                 </div>
@@ -991,8 +1012,7 @@
             <div class="lang-block lang-en">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-02-en">
-                  <p>In <strong>“Wiedersehen”</strong> (Reunion), old bonds collide with the polished armor of the protagonist. Farewells are stripped of sentimentality, dismissed with razor-sharp devaluations.</p>
-                  <p>Tua captures the cynical detachment of a persona that weaponizes velocity against intimacy.</p>
+                  <p>In <strong>“Wiedersehen”</strong>, moral ties are severed aboard the Mediterranean ferry. The vanishing wake behind the ship mirrors discarded connections.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-02-en" style="display: none;">
                   <div class="analysis-card" id="card-02-en-0">
@@ -1000,9 +1020,9 @@
                       <button class="card-back-btn" data-track-num="02">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 1 / 3</span>
                     </div>
-                    <span class="card-quote">Do not tell me you miss me / You only kiss an old picture</span>
+                    <span class="card-quote">The world belongs to those who take it</span>
                     <div class="card-body">
-                      <p><strong>Rejection of Emotional Projection:</strong> The speaker invalidates the partner's grief by reducing it to nostalgic delusion.</p>
+                      <p><strong>Darwinian Rationalization:</strong> Ruthlessness is framed as existential necessity.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-02-en-1">
@@ -1010,9 +1030,9 @@
                       <button class="card-back-btn" data-track-num="02">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 2 / 3</span>
                     </div>
-                    <span class="card-quote">A wave from the moving car / No time for questions</span>
+                    <span class="card-quote">Ferry across the sea / White wake fading</span>
                     <div class="card-body">
-                      <p><strong>Velocity as Armor:</strong> Immobility invites vulnerability. Constant speed shields against self-reflection.</p>
+                      <p><strong>Transient Dissolution:</strong> Attachment vanishes like foam in maritime transit.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-02-en-2">
@@ -1020,9 +1040,9 @@
                       <button class="card-back-btn" data-track-num="02">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 3 / 3</span>
                     </div>
-                    <span class="card-quote">See you when lights go out / Or never again</span>
+                    <span class="card-quote">Blessed are the thieves / I take what I get</span>
                     <div class="card-body">
-                      <p><strong>Performative Indifference:</strong> Feigned apathy ensures immunity against rejection.</p>
+                      <p><strong>Sanctified Predation:</strong> Inverting biblical beatitudes to legitimize parasitic behavior.</p>
                     </div>
                   </div>
                 </div>
@@ -1037,7 +1057,7 @@
         <div class="track-header-bar">
           <div class="track-title-wrap">
             <span class="track-num-badge">03</span>
-            <h2 class="track-heading">GluiV (Glaub ich verlier)</h2>
+            <h2 class="track-heading">GluiV</h2>
           </div>
           <button class="track-audio-btn" data-track-title="03 — GluiV">
             <span class="lang-de">▶ Track Fokus</span>
@@ -1047,21 +1067,30 @@
         <div class="track-grid">
           <div class="lyrics-col">
             <div class="stanza">
-              <div class="stanza-title">[Refrain & Pre-Hook]</div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="0">Glaub ich verlier langsam den Verstand</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="0">Alles dreht sich, kaltes Glas in der Hand</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="1">Ich seh mich doppelt im Spiegel an der Bar</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="1">Wer von uns beiden war eigentlich real?</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="2">Bass vibriert tief in den Knochen drin</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="2">Ich weiß nicht mehr, wo ich gestern noch ging</span></div>
+              <div class="stanza-title">[Hook]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="0">Bauchtasche, Kokain, ich fick' alle</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="0">G, Louis V, Bauchtasche, Kokain, ich fick' alle</span></div>
+            </div>
+            <div class="stanza">
+              <div class="stanza-title">[Part 2]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="1">Marmorfliesen im Airbnb / Ihr Leihparadies</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="1">Riecht nach OP Summer Breeze, sie ist im One Piece</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="1">Indigoblau, Tropic of C, Alkohol fließt</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="1">Ihre mollige Freundin findet mich mies, und ich seh', sie sieht's</span></div>
+            </div>
+            <div class="stanza">
+              <div class="stanza-title">[Pre-Hook]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="2">Sonne im Zenit, ballert den Kopf weg</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="2">Pool türkis wie bei David Hockney</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="03" data-target-card="2">Bluetoothbox spielt Britney – „Toxic“</span></div>
             </div>
           </div>
           <div class="analysis-col">
             <div class="lang-block lang-de">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-03-de">
-                  <p>In <strong>„GluiV“</strong> (Akronym für <em>Glaub ich verlier</em>) bricht die strahlende Allmachtsphantasie erstmals auf. Die Club-Atmosphäre wandelt sich vom Schauplatz des Triumphs zum klaustrophobischen Raum der Dissoziation.</p>
-                  <p>Das Spiegelmotiv an der Bar offenbart die fundamentale Spaltung des narzisstischen Selbst: Auf der einen Seite steht das überhöhte Ideal-Ich, auf der anderen das zerrüttete, leere reale Ich. Der Song markiert den Übergang von kontrollierter Euphorie zur drohenden Psychose.</p>
+                  <p>In <strong>„GluiV“</strong> (G, Louis V) inszeniert Tua den Höhepunkt der hedonistischen Maskerade. Das Setting ist ein bis ins Detail ausbuchstabiertes Luxus-Stillleben: Airbnb-Marmor, <em>David Hockney</em>-Swimmingpools, Designer-Badeanzüge und Britney Spears' <em>Toxic</em>.</p>
+                  <p>Die aggressive Monotonie der Hook (<span class="lyric-quote-highlight">„Bauchtasche, Kokain, ich fick' alle“</span>) entlarvt die Verzweiflung hinter der Fassade: Nur durch permanente Allmachtserklärungen kann der Zusammenbruch des Selbstwertgefühls abgewehrt werden.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-03-de" style="display: none;">
                   <div class="analysis-card" id="card-03-de-0">
@@ -1069,9 +1098,9 @@
                       <button class="card-back-btn" data-track-num="03">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 1 / 3</span>
                     </div>
-                    <span class="card-quote">Glaub ich verlier langsam den Verstand / Kaltes Glas</span>
+                    <span class="card-quote">Bauchtasche, Kokain, ich fick' alle / G, Louis V</span>
                     <div class="card-body">
-                      <p><strong>Die somatische Vorwarnung:</strong> Das kalte Glas in der Hand fungiert als einziger haptischer Anker in einer Umwelt, die zunehmend entgleitet.</p>
+                      <p><strong>Die manische Schutzmauer:</strong> Statussymbole (Louis Vuitton) und Substanzen verschmelzen zum kognitiven Abwehrpanzer gegen jegliche Selbstreflexion.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-03-de-1">
@@ -1079,9 +1108,9 @@
                       <button class="card-back-btn" data-track-num="03">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 2 / 3</span>
                     </div>
-                    <span class="card-quote">Ich seh mich doppelt im Spiegel / Wer war real?</span>
+                    <span class="card-quote">Marmorfliesen / Ihr Leihparadies / Tropic of C</span>
                     <div class="card-body">
-                      <p><strong>Depersonalisation & Doppelgängermotiv:</strong> Der Blick in den Spiegel erzeugt keinen Stolz mehr, sondern existenzielle Entfremdung. Die Identität zerfällt in Kunstfigur und Schatten.</p>
+                      <p><strong>Die Ästhetik des Vorübergehenden:</strong> Alles ist gemietet („Leihparadies Airbnb“). Der Narzisst besitzt nichts Echtes; er bewohnt fremde Traumwelten.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-03-de-2">
@@ -1089,9 +1118,9 @@
                       <button class="card-back-btn" data-track-num="03">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 3 / 3</span>
                     </div>
-                    <span class="card-quote">Bass vibriert tief in den Knochen / Erinnerungsverlust</span>
+                    <span class="card-quote">Pool türkis wie bei David Hockney / Britney – „Toxic“</span>
                     <div class="card-body">
-                      <p><strong>Akustische Betäubung:</strong> Der Bass ersetzt die innere Stimme. Die Amnesie setzt schleichend ein.</p>
+                      <p><strong>Popkulturelle Ikonografie:</strong> Die Referenz auf David Hockney beschwört die sterile Schönheit kalifornisch-mediterraner Leere. Britney Spears liefert den Soundtrack des toxischen Spiels.</p>
                     </div>
                   </div>
                 </div>
@@ -1100,8 +1129,7 @@
             <div class="lang-block lang-en">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-03-en">
-                  <p>In <strong>“GluiV”</strong> (I think I'm losing), the invincible armor suffers its first major fractures. The club transforms from a triumphal stage into a claustrophobic site of dissociation.</p>
-                  <p>The mirror motif introduces depersonalization: the idealized ego can no longer maintain cohesion against reality.</p>
+                  <p>In <strong>“GluiV”</strong>, hedonic pageantry reaches its zenith. Airbnb marble, Hockney turquoise pools, and Britney's <em>Toxic</em> construct a hyper-stylized illusion.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-03-en" style="display: none;">
                   <div class="analysis-card" id="card-03-en-0">
@@ -1109,9 +1137,9 @@
                       <button class="card-back-btn" data-track-num="03">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 1 / 3</span>
                     </div>
-                    <span class="card-quote">Losing my mind / Cold glass in hand</span>
+                    <span class="card-quote">Fanny pack, cocaine / G, Louis V</span>
                     <div class="card-body">
-                      <p><strong>Somatic Grounding:</strong> Cold glass provides the final tactile anchor as sensory perception destabilizes.</p>
+                      <p><strong>Manic Armor:</strong> Luxury brands and chemical armor ward off existential dread.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-03-en-1">
@@ -1119,9 +1147,9 @@
                       <button class="card-back-btn" data-track-num="03">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 2 / 3</span>
                     </div>
-                    <span class="card-quote">Seeing myself doubled in the mirror</span>
+                    <span class="card-quote">Rented Paradise / Airbnb Marble</span>
                     <div class="card-body">
-                      <p><strong>Depersonalization:</strong> The persona fractures into constructed image vs. hollow core.</p>
+                      <p><strong>Rented Identity:</strong> The narcissist owns nothing authentic, residing merely in temporary stages.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-03-en-2">
@@ -1129,9 +1157,9 @@
                       <button class="card-back-btn" data-track-num="03">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 3 / 3</span>
                     </div>
-                    <span class="card-quote">Bass vibrating in the bones</span>
+                    <span class="card-quote">David Hockney Pool / Britney's Toxic</span>
                     <div class="card-body">
-                      <p><strong>Acoustic Oblivion:</strong> Sub-frequencies drown out cognitive awareness.</p>
+                      <p><strong>Sterile Pop Iconography:</strong> Hockney's pristine swimming pools symbolize glossy, untouchable desolation.</p>
                     </div>
                   </div>
                 </div>
@@ -1156,21 +1184,23 @@
         <div class="track-grid">
           <div class="lyrics-col">
             <div class="stanza">
-              <div class="stanza-title">[Strophe & Hook]</div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="04" data-target-card="0">Steh auf der Dachterrasse, schau auf das Meer</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="04" data-target-card="0">Die Lichter der Insel so klein und so leer</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="04" data-target-card="1">Champagner wird warm in der salzigen Luft</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="04" data-target-card="1">Du liegst da drinnen, vernebelt im Duft</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="04" data-target-card="2">Ich hab alles gewollt und jetzt steh ich hier oben</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="04" data-target-card="2">Und spüre gar nichts, der Himmel betrogen</span></div>
+              <div class="stanza-title">[Hook]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="04" data-target-card="0">Man muss aufhör'n, wenn's am besten ist</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="04" data-target-card="0">Aufhör'n, wenn's am besten ist</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="04" data-target-card="0">Man muss aufhör'n, wenn's am besten ist</span></div>
+            </div>
+            <div class="stanza">
+              <div class="stanza-title">[Outro]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="04" data-target-card="1">Man muss aufhör'n, wenn's am besten ist</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="04" data-target-card="2">Denn mit der Zeit wird alles lächerlich</span></div>
             </div>
           </div>
           <div class="analysis-col">
             <div class="lang-block lang-de">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-04-de">
-                  <p><strong>„Dachterrasse“</strong> ist das symbolische Zentrum des Albums. Die vertikale Architektur – hoch über den Dächern Ibizas, erhaben über dem Meer – spiegelt die seelische Isolation des Narzissten in perfekter räumlicher Metaphorik wider.</p>
-                  <p>Das Erreichen des Gipfels erzeugt keine Erfüllung, sondern schlägt in absolute <span class="lyric-quote-highlight">Anhedonie</span> um: Alles, wofür gekämpft wurde (Luxus, Status, Macht), verliert im Moment des Besitzes jeglichen Wert. Der Partner im Zimmer wird nicht geliebt, sondern als austauschbare Kulisse („Staffage“) degradiert.</p>
+                  <p>In <strong>„Dachterrasse“</strong> wird das fundamentale Dilemma der Vergänglichkeit verhandelt. Die repetitive Maxime <span class="lyric-quote-highlight">„Man muss aufhör'n, wenn's am besten ist“</span> wirkt wie ein Mantra gegen die Entzauberung.</p>
+                  <p>Die Schlusspointe <span class="lyric-quote-highlight">„Denn mit der Zeit wird alles lächerlich“</span> offenbart die tief sitzende Angst des Narzissten vor dem Verfall: Jede Vertiefung, jedes Altern und jedes Verweilen in einer Beziehung entlarvt die Banalität der menschlichen Existenz.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-04-de" style="display: none;">
                   <div class="analysis-card" id="card-04-de-0">
@@ -1178,9 +1208,9 @@
                       <button class="card-back-btn" data-track-num="04">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 1 / 3</span>
                     </div>
-                    <span class="card-quote">Steh auf der Dachterrasse / Lichter der Insel so leer</span>
+                    <span class="card-quote">Aufhör'n, wenn's am besten ist / Der Abbruch-Reflex</span>
                     <div class="card-body">
-                      <p><strong>Die vertikale Einsamkeit:</strong> Der Panoramablick über die Welt erzeugt keine Verbindung, sondern bestätigt die unüberbrückbare Distanz zu den Mitmenschen.</p>
+                      <p><strong>Die Flucht vor dem Verblassen:</strong> Beziehungen werden auf dem Höhepunkt sabotiert, um niemals die Phase der Alltäglichkeit und Ernüchterung ertragen zu müssen.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-04-de-1">
@@ -1188,9 +1218,9 @@
                       <button class="card-back-btn" data-track-num="04">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 2 / 3</span>
                     </div>
-                    <span class="card-quote">Champagner wird warm / Du liegst da drinnen</span>
+                    <span class="card-quote">Die Dachterrasse / Der Panoramablick</span>
                     <div class="card-body">
-                      <p><strong>Die Verdinglichung des Anderen:</strong> Das Gegenüber wird zum konsumierbaren Requisit im inszenierten Luxusleben, während der Champagner absteht.</p>
+                      <p><strong>Die räumliche Überlegenheit:</strong> Der erhöhte Standort signalisiert Kontrolle, trennt den Protagonisten jedoch vollständig von echter Berührung.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-04-de-2">
@@ -1198,9 +1228,9 @@
                       <button class="card-back-btn" data-track-num="04">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 3 / 3</span>
                     </div>
-                    <span class="card-quote">Alles gewollt und spüre gar nichts</span>
+                    <span class="card-quote">Denn mit der Zeit wird alles lächerlich</span>
                     <div class="card-body">
-                      <p><strong>Der Nullpunkt des Narzissmus:</strong> Die Erreichung aller äußeren Ziele demaskiert die innere Leere. Der Triumph schmeckt nach Asche.</p>
+                      <p><strong>Der Zynismus als Schutzschild:</strong> Indem alles Zukünftige als „lächerlich“ abgewertet wird, schützt sich das Ego vor der eigenen Bedeutungslosigkeit.</p>
                     </div>
                   </div>
                 </div>
@@ -1209,8 +1239,7 @@
             <div class="lang-block lang-en">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-04-en">
-                  <p><strong>“Dachterrasse”</strong> (Rooftop Terrace) stands as the symbolic architectural center. High above Ibiza, the protagonist occupies a physical summit that reflects utter psychological desolation.</p>
-                  <p>Success manifests as profound <span class="lyric-quote-highlight">anhedonia</span>: total achievement yields only complete numbness.</p>
+                  <p>In <strong>“Dachterrasse”</strong> (Rooftop Terrace), fear of decay manifests as premature abandonment. The mantra to exit at the peak shields the ego against inevitable disillusionment.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-04-en" style="display: none;">
                   <div class="analysis-card" id="card-04-en-0">
@@ -1218,9 +1247,9 @@
                       <button class="card-back-btn" data-track-num="04">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 1 / 3</span>
                     </div>
-                    <span class="card-quote">Standing on the rooftop / Island lights so empty</span>
+                    <span class="card-quote">Stop when it is at its best</span>
                     <div class="card-body">
-                      <p><strong>Vertical Isolation:</strong> Elevated positioning accentuates total disconnection from human empathy.</p>
+                      <p><strong>Preemptive Sabotage:</strong> Bonds are terminated at their peak to avoid mundane reality.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-04-en-1">
@@ -1228,9 +1257,9 @@
                       <button class="card-back-btn" data-track-num="04">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 2 / 3</span>
                     </div>
-                    <span class="card-quote">Warm champagne / You lying inside</span>
+                    <span class="card-quote">The Rooftop / Sovereign Distance</span>
                     <div class="card-body">
-                      <p><strong>Objectification of the Partner:</strong> The other person is reduced to mere atmospheric décor.</p>
+                      <p><strong>Spatial Hierarchy:</strong> Elevation provides illusion of safety while guaranteeing isolation.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-04-en-2">
@@ -1238,9 +1267,9 @@
                       <button class="card-back-btn" data-track-num="04">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 3 / 3</span>
                     </div>
-                    <span class="card-quote">Wanted everything and feeling nothing</span>
+                    <span class="card-quote">Because with time everything turns ridiculous</span>
                     <div class="card-body">
-                      <p><strong>Narcissistic Emptiness:</strong> Triumph converts directly into profound void.</p>
+                      <p><strong>Cynical Defense:</strong> Invalidating longevity neutralizes the terror of aging.</p>
                     </div>
                   </div>
                 </div>
@@ -1265,21 +1294,25 @@
         <div class="track-grid">
           <div class="lyrics-col">
             <div class="stanza">
-              <div class="stanza-title">[Hook & Verse]</div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="0">Alles was du tust, tust du für mich</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="0">Auch wenn du weinst, berührt es mich nicht</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="1">Du bist die schönste Requisite in meim Film</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="1">Solange du funktionierst, kann ich die Schmerzen stilln</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="2">Dein Herz schlägt nur als Scheinwerferlicht</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="2">Ich nehm mir was ich brauch, mehr versprech ich nicht</span></div>
+              <div class="stanza-title">[Part 2]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="0">Wir beide gehör'n zusamm'n</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="0">Wir gehör'n zusamm'n wie Größenwahn und Scheitern</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="1">Lass mich das Größte für dich sein</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="1">Und wenn es alles für mich bleibt, was ich erreicht hab'</span></div>
+            </div>
+            <div class="stanza">
+              <div class="stanza-title">[Hook & Bridge]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="2">Gib dich auf, auf für mich / Geb' mich auf für dich</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="2">Es mag egoistisch sein, doch ich will dich für mich allein</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="05" data-target-card="2">Was ich brauch', ist Sicherheit — Durch null kann man nicht mehr teil'n</span></div>
             </div>
           </div>
           <div class="analysis-col">
             <div class="lang-block lang-de">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-05-de">
-                  <p>In <strong>„Für mich“</strong> wird die relationale Ausbeutung zur offenen Doktrin erhoben. Hier fällt jede romantisierende Verkleidung: Die Bindung wird als reines Transaktionsgeschäft definiert.</p>
-                  <p>Der Begriff der <span class="lyric-quote-highlight">Requisite im Film</span> fasst das Wesen der narzisstischen Persönlichkeit nach ICD-10 F60.8 präzise zusammen: Das Gegenüber besitzt kein Eigenrecht auf Schmerz oder Individualität, sondern existiert ausschließlich als narzisstische Zufuhr (<span class="lyric-quote-highlight">Narcissistic Supply</span>).</p>
+                  <p><strong>„Für mich“</strong> enthält eine der brillantesten lyrischen Formeln des Werks: <span class="lyric-quote-highlight">„Wir gehör'n zusamm'n wie Größenwahn und Scheitern“</span>. Die toxische Symbiose wird als mathematische Unmöglichkeit deklariert (<span class="lyric-quote-highlight">„Durch null kann man nicht mehr teil'n“</span>).</p>
+                  <p>Das Einfordern vollständiger Selbstaufgabe des Partners dient der eigenen existenziellen Beruhigung. Das Ich verlangt bedingungslose Anbetung, um die eigene innere Nullstelle zu überdecken.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-05-de" style="display: none;">
                   <div class="analysis-card" id="card-05-de-0">
@@ -1287,9 +1320,9 @@
                       <button class="card-back-btn" data-track-num="05">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 1 / 3</span>
                     </div>
-                    <span class="card-quote">Alles für mich / Wenn du weinst, berührt es mich nicht</span>
+                    <span class="card-quote">Wie Größenwahn und Scheitern</span>
                     <div class="card-body">
-                      <p><strong>Die pathologische Empathieblockade:</strong> Tränen des Partners werden als lästige Störung der eigenen Inszenierung wahrgenommen, nicht als Zeichen von Leid.</p>
+                      <p><strong>Die dialektische Bindung:</strong> Hybris und Fall bedingen einander. Die toxische Beziehung spiegelt exakt diese psychische Zwangsläufigkeit.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-05-de-1">
@@ -1297,9 +1330,9 @@
                       <button class="card-back-btn" data-track-num="05">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 2 / 3</span>
                     </div>
-                    <span class="card-quote">Schönste Requisite in meim Film / Schmerzen stilln</span>
+                    <span class="card-quote">Lass mich das Größte für dich sein</span>
                     <div class="card-body">
-                      <p><strong>Solipsismus & Kinometaphorik:</strong> Die Welt existiert nur als Kinoleinwand für das eigene Ego. Der Partner dient als Anästhetikum gegen den inneren Zerfall.</p>
+                      <p><strong>Narzisstische Zufuhr als Lebenselixier:</strong> Der Wert des eigenen Lebens existiert nur in den Augen des bewundernden Gegenübers.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-05-de-2">
@@ -1307,9 +1340,9 @@
                       <button class="card-back-btn" data-track-num="05">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 3 / 3</span>
                     </div>
-                    <span class="card-quote">Dein Herz als Scheinwerferlicht</span>
+                    <span class="card-quote">Durch null kann man nicht mehr teil'n</span>
                     <div class="card-body">
-                      <p><strong>Die Umkehrung der Zuneigung:</strong> Liebe wird nicht erwidert, sondern absorbiert, um das eigene Podest auszuleuchten.</p>
+                      <p><strong>Die mathematische Singularität:</strong> Die Seele ist auf den Nullpunkt reduziert; Teilung oder Partnerschaft auf Augenhöhe ist logisch unmöglich.</p>
                     </div>
                   </div>
                 </div>
@@ -1318,8 +1351,7 @@
             <div class="lang-block lang-en">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-05-en">
-                  <p>In <strong>“Für mich”</strong> (For Me), emotional parasitism becomes an explicit manifesto. All romantic pretense is discarded in favor of pure transactional domination.</p>
-                  <p>Describing the partner as a <span class="lyric-quote-highlight">prop in a film</span> clinicalizes the ICD-10 F60.8 diagnosis: others exist solely as narcissistic supply.</p>
+                  <p>In <strong>“Für mich”</strong> (For Me), toxic enmeshment is synthesized into mathematical metaphor: <span class="lyric-quote-highlight">“Division by zero is undefined”</span>.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-05-en" style="display: none;">
                   <div class="analysis-card" id="card-05-en-0">
@@ -1327,9 +1359,9 @@
                       <button class="card-back-btn" data-track-num="05">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 1 / 3</span>
                     </div>
-                    <span class="card-quote">Everything you do is for me / Your tears leave me cold</span>
+                    <span class="card-quote">Like grandiosity and failure</span>
                     <div class="card-body">
-                      <p><strong>Empathy Deactivation:</strong> Partner distress is interpreted as a malfunction rather than human suffering.</p>
+                      <p><strong>Inseparable Dialectic:</strong> Manic ascent and collapse form a singular psychological loop.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-05-en-1">
@@ -1337,9 +1369,9 @@
                       <button class="card-back-btn" data-track-num="05">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 2 / 3</span>
                     </div>
-                    <span class="card-quote">Finest prop in my movie</span>
+                    <span class="card-quote">Let me be the greatest for you</span>
                     <div class="card-body">
-                      <p><strong>Cinematic Solipsism:</strong> Reality is reduced to a scripted vanity project.</p>
+                      <p><strong>Narcissistic Supply:</strong> The self exists solely through partner adoration.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-05-en-2">
@@ -1347,9 +1379,9 @@
                       <button class="card-back-btn" data-track-num="05">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 3 / 3</span>
                     </div>
-                    <span class="card-quote">Your heart as spotlight</span>
+                    <span class="card-quote">Division by zero is impossible</span>
                     <div class="card-body">
-                      <p><strong>Parasitic Illumination:</strong> Devotion is consumed solely to feed the protagonist's self-image.</p>
+                      <p><strong>Mathematical Singularity:</strong> A void cannot be shared or divided.</p>
                     </div>
                   </div>
                 </div>
@@ -1374,21 +1406,25 @@
         <div class="track-grid">
           <div class="lyrics-col">
             <div class="stanza">
-              <div class="stanza-title">[Refrain & Strophe]</div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="0">Komm mir nicht zu nah mit dei'm Heiligenschein</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="0">Ich will nicht gerettet werden, lass mich allein</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="1">Ich verstell mich nicht für deine Therapie</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="1">Mein Abgrund gehört mir, deine Harmonie</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="2">Schlag die Tür zu, bevor du mich siehst</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="2">Wie ich vor mir selber in den Schatten flieh</span></div>
+              <div class="stanza-title">[Part 2]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="0">Go-go-Girls geh'n private, die Dämmerung glüht</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="0">Während du vorm Handy daheim sitzt und überlegst, was du fühlst</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="1">Lass mich einfach sein, wer ich sein will</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="1">Ich bin das Problem und ich weiß es — nur macht es das nicht kleiner, Gianna</span></div>
+            </div>
+            <div class="stanza">
+              <div class="stanza-title">[Hook & Bridge]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="2">Rette mich nicht, ich bin nicht wie die andern</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="2">Ich hass' dich nicht, du bist mir bloß egal</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="06" data-target-card="2">Wie leichte Versprechen auf weißen Tabletten in Zeitraffer-Nächten</span></div>
             </div>
           </div>
           <div class="analysis-col">
             <div class="lang-block lang-de">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-06-de">
-                  <p>In <strong>„Rette mich nicht“</strong> kulminiert die Panik vor echter therapeutischer Berührung. Der Retter-Impuls des Partners wird als feindliche Grenzüberschreitung abgewehrt.</p>
-                  <p>Tua dekonstruiert den erbitterten Stolz des Narzissten, der lieber mit seinem eigenen Abgrund untergeht, als Schwäche einzugestehen (<span class="lyric-quote-highlight">„Mein Abgrund gehört mir“</span>). Die Rettung würde bedeuten, die Illusion der eigenen Unfehlbarkeit aufgeben zu müssen.</p>
+                  <p>In <strong>„Rette mich nicht“</strong> spricht der Protagonist Klartext mit erschütternder Offenheit: <span class="lyric-quote-highlight">„Ich bin das Problem und ich weiß es – nur macht es das nicht kleiner, Gianna“</span>. Die Selbsterkenntnis führt nicht zur Besserung, sondern zur Zementierung des Destruktiven.</p>
+                  <p>Die schonungslose Entwertung <span class="lyric-quote-highlight">„Ich hass' dich nicht, du bist mir bloß egal“</span> schneidet tiefer als Hass, da sie dem Gegenüber jegliche emotionale Bedeutung abspricht.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-06-de" style="display: none;">
                   <div class="analysis-card" id="card-06-de-0">
@@ -1396,9 +1432,9 @@
                       <button class="card-back-btn" data-track-num="06">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 1 / 3</span>
                     </div>
-                    <span class="card-quote">Heiligenschein / Ich will nicht gerettet werden</span>
+                    <span class="card-quote">Go-go-Girls / Während du vorm Handy sitzt</span>
                     <div class="card-body">
-                      <p><strong>Die Entwertung der Fürsorge:</strong> Empathische Rettungsversuche werden als moralische Überheblichkeit („Heiligenschein“) umgedeutet, um sich nicht beugen zu müssen.</p>
+                      <p><strong>Die räumliche Diskrepanz:</strong> Ibiza-Nachtleben gegen heimische Einsamkeit. Der Kontrast verdeutlicht die Kluft zwischen Flucht und Trauer.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-06-de-1">
@@ -1406,9 +1442,9 @@
                       <button class="card-back-btn" data-track-num="06">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 2 / 3</span>
                     </div>
-                    <span class="card-quote">Mein Abgrund gehört mir / Deine Therapie</span>
+                    <span class="card-quote">Ich bin das Problem und ich weiß es / Gianna</span>
                     <div class="card-body">
-                      <p><strong>Die Souveränität des Destruktiven:</strong> Der Zerfall wird zum letzten Refugium absoluter Selbstbestimmung verklärt.</p>
+                      <p><strong>Die luzide Verweigerung:</strong> Einsicht ohne Verhaltensänderung ist das Kennzeichen reifer Persönlichkeitsstörungen. Die Nennung des Namens Gianna bricht die Abstraktion.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-06-de-2">
@@ -1416,9 +1452,9 @@
                       <button class="card-back-btn" data-track-num="06">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 3 / 3</span>
                     </div>
-                    <span class="card-quote">Schlag die Tür zu / Vor mir selber fliehn</span>
+                    <span class="card-quote">Weiße Tabletten in Zeitraffer-Nächten</span>
                     <div class="card-body">
-                      <p><strong>Das Scham-Dilemma:</strong> Hinter der aggressiven Abwehr steht die nackte Angst vor Entlarvung und Beschämung.</p>
+                      <p><strong>Die chemische Beschleunigung:</strong> Sedierung und Stimulanzien komprimieren Zeit, um Schuldgefühle zu überspringen.</p>
                     </div>
                   </div>
                 </div>
@@ -1427,8 +1463,7 @@
             <div class="lang-block lang-en">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-06-en">
-                  <p>In <strong>“Rette mich nicht”</strong> (Do Not Save Me), panic against therapeutic intimacy erupts into overt hostility. The partner's compassion is repelled as a threat to autonomy.</p>
-                  <p>The speaker chooses destruction over vulnerability, guarding their abyss like private property.</p>
+                  <p>In <strong>“Rette mich nicht”</strong> (Do Not Save Me), lucid self-awareness meets hardened refusal: <span class="lyric-quote-highlight">“I am the problem and I know it”</span>.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-06-en" style="display: none;">
                   <div class="analysis-card" id="card-06-en-0">
@@ -1436,9 +1471,9 @@
                       <button class="card-back-btn" data-track-num="06">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 1 / 3</span>
                     </div>
-                    <span class="card-quote">Halo / Do not save me</span>
+                    <span class="card-quote">Go-go Girls / Sitting in front of the phone</span>
                     <div class="card-body">
-                      <p><strong>Defensive Hostility:</strong> Genuine care is rejected as patronizing sanctimony.</p>
+                      <p><strong>Spatial Schism:</strong> Hedonistic simulation contrasted against domestic mourning.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-06-en-1">
@@ -1446,9 +1481,9 @@
                       <button class="card-back-btn" data-track-num="06">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 2 / 3</span>
                     </div>
-                    <span class="card-quote">My abyss belongs to me</span>
+                    <span class="card-quote">I am the problem / Gianna</span>
                     <div class="card-body">
-                      <p><strong>Sovereignty of Ruin:</strong> Self-destruction is guarded as the final zone of uncompromised control.</p>
+                      <p><strong>Lucid Defiance:</strong> Self-insight without repentance characterises entrenched disorder.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-06-en-2">
@@ -1456,9 +1491,9 @@
                       <button class="card-back-btn" data-track-num="06">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 3 / 3</span>
                     </div>
-                    <span class="card-quote">Slam the door / Fleeing from myself</span>
+                    <span class="card-quote">White pills in timelapse nights</span>
                     <div class="card-body">
-                      <p><strong>Terror of Exposure:</strong> Fear of profound shame drives violent isolation.</p>
+                      <p><strong>Pharmacological Speed:</strong> Chemical acceleration dissolves regret in time-lapse sequences.</p>
                     </div>
                   </div>
                 </div>
@@ -1483,21 +1518,25 @@
         <div class="track-grid">
           <div class="lyrics-col">
             <div class="stanza">
-              <div class="stanza-title">[Hook & Verse]</div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="0">Es muss leicht sein, so federleicht</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="0">Kein Ballast, der bis zum Morgen reicht</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="1">Wir tanzen am Rand von der Klippe entlang</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="1">Trink den Rosé, ignorier den Gesang</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="2">Wenn es wehtut, dann war es nicht wahr</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="2">Wir lösen uns auf im Neonlicht, ganz klar</span></div>
+              <div class="stanza-title">[Hook & Bridge]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="0">Mach' es mir leicht, mach' es mir leicht</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="0">Trying to feel alright all the time</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="1">Versuch' die ganze Zeit, mich gut zu fühl'n</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="1">Love, love passing by</span></div>
+            </div>
+            <div class="stanza">
+              <div class="stanza-title">[Outro]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="2">Sie will ballern, ich schenk' ihr ein Gramm</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="2">„Meld dich“, sagt sie, ich denke nicht dran</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="07" data-target-card="2">„Danke für den nicen Abend“, sagt sie / „Ja“, sag' ich und schließ' die Tür von ihr'm Taxi</span></div>
             </div>
           </div>
           <div class="analysis-col">
             <div class="lang-block lang-de">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-07-de">
-                  <p>In <strong>„Leicht“</strong> kleidet Tua die toxische Flucht vor Ernsthaftigkeit in federnde Balearen-House-Grooves. Die demonstrative Schwerelosigkeit ist die reinste Form des Eskapismus.</p>
-                  <p>Der Tanz an der Klippe verdichtet das Todesmutige des hedonistischen Lebensstils: Jede Schwere wird mit Gewalt weggelächelt. Die Maxime <span class="lyric-quote-highlight">„Wenn es wehtut, war es nicht wahr“</span> fasst die kollektive Verdrängungskultur einer Generation zusammen.</p>
+                  <p>In <strong>„Leicht“</strong> wird die Flucht vor Schwere zur Zwangshandlung: <span class="lyric-quote-highlight">„Trying to feel alright all the time“</span>. Die Liebe zieht als Phantasma vorbei (<span class="lyric-quote-highlight">„Love passing by“</span>).</p>
+                  <p>Die beiläufige Grausamkeit im Outro (das Zuschlagen der Taxitür nach einer flüchtigen Nacht) fängt das Wesen des unnahbaren Protagonisten perfekt ein: Höflich an der Oberfläche, aber emotional unberührbar.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-07-de" style="display: none;">
                   <div class="analysis-card" id="card-07-de-0">
@@ -1505,9 +1544,9 @@
                       <button class="card-back-btn" data-track-num="07">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 1 / 3</span>
                     </div>
-                    <span class="card-quote">Federleicht / Kein Ballast bis zum Morgen</span>
+                    <span class="card-quote">Trying to feel alright all the time</span>
                     <div class="card-body">
-                      <p><strong>Die Manie der Schwerelosigkeit:</strong> Jedes reale Problem wird als unästhetischer Ballast diffamiert und über Bord geworfen.</p>
+                      <p><strong>Die Tyrannei des Positiven:</strong> Der Zwang zur ununterbrochenen guten Laune ist die extremste Form der Traumaleugnung.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-07-de-1">
@@ -1515,9 +1554,9 @@
                       <button class="card-back-btn" data-track-num="07">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 2 / 3</span>
                     </div>
-                    <span class="card-quote">Tanzen am Rand der Klippe / Rosé</span>
+                    <span class="card-quote">Love passing by</span>
                     <div class="card-body">
-                      <p><strong>Der Tanz auf dem Vulkan:</strong> Das Verdrängte droht jeden Augenblick einzustürzen; der Rausch muss permanent nachgelegt werden.</p>
+                      <p><strong>Liebe als Vorbeiflug:</strong> Zuneigung wird als ephemeres Naturphänomen wahrgenommen, das man nur aus der Distanz beobachten kann.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-07-de-2">
@@ -1525,9 +1564,9 @@
                       <button class="card-back-btn" data-track-num="07">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 3 / 3</span>
                     </div>
-                    <span class="card-quote">Wenn es wehtut, war es nicht wahr</span>
+                    <span class="card-quote">Schließ' die Tür von ihr'm Taxi</span>
                     <div class="card-body">
-                      <p><strong>Gefühlsverleugnung als Glaubenssatz:</strong> Schmerz wird nicht als Signal verarbeitet, sondern schlichtweg für illegitim erklärt.</p>
+                      <p><strong>Der hermetische Verschluss:</strong> Das Zufallen der Autotür ist der akustische Schlusspunkt jeder menschlichen Begegnung.</p>
                     </div>
                   </div>
                 </div>
@@ -1536,8 +1575,7 @@
             <div class="lang-block lang-en">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-07-en">
-                  <p>In <strong>“Leicht”</strong> (Light / Weightless), forced euphoria is packaged in breezy Balearic house rhythms. Lightness operates as a militant defense mechanism.</p>
-                  <p>Dancing along the cliff edge epitomizes the manic phase: discomfort is outlawed, pain dismissed as untrue.</p>
+                  <p>In <strong>“Leicht”</strong> (Light / Effortless), compulsory good feelings mask acute affective blunting. Closing the taxi door epitomizes surgical detachment.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-07-en" style="display: none;">
                   <div class="analysis-card" id="card-07-en-0">
@@ -1545,9 +1583,9 @@
                       <button class="card-back-btn" data-track-num="07">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 1 / 3</span>
                     </div>
-                    <span class="card-quote">Weightless / No ballast reaching tomorrow</span>
+                    <span class="card-quote">Trying to feel alright all the time</span>
                     <div class="card-body">
-                      <p><strong>Manic Defiance:</strong> Emotional gravity is rejected as aesthetic failure.</p>
+                      <p><strong>Compulsory Euphoria:</strong> Continuous pursuit of superficial pleasure blocks authentic grief.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-07-en-1">
@@ -1555,9 +1593,9 @@
                       <button class="card-back-btn" data-track-num="07">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 2 / 3</span>
                     </div>
-                    <span class="card-quote">Dancing on the cliff edge</span>
+                    <span class="card-quote">Love passing by</span>
                     <div class="card-body">
-                      <p><strong>Brinkmanship:</strong> Constant escalation prevents the return of repressed sorrow.</p>
+                      <p><strong>Ephemeral Intimacy:</strong> Love is observed merely as external scenery.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-07-en-2">
@@ -1565,9 +1603,9 @@
                       <button class="card-back-btn" data-track-num="07">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 3 / 3</span>
                     </div>
-                    <span class="card-quote">If it hurts, it was not real</span>
+                    <span class="card-quote">Slamming the taxi door</span>
                     <div class="card-body">
-                      <p><strong>Radical Denial:</strong> Vulnerability is retroactively invalidated.</p>
+                      <p><strong>Hermetic Sealing:</strong> The physical click of the vehicle door closes off potential attachment.</p>
                     </div>
                   </div>
                 </div>
@@ -1592,21 +1630,25 @@
         <div class="track-grid">
           <div class="lyrics-col">
             <div class="stanza">
-              <div class="stanza-title">[Dualismus & Breakdown]</div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="0">Erst fliegst du im Orbit, die Götter verneigen sich</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="0">Eine Sekunde später zieht der Schlamm dich nach unten</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="1">Höhenflug im Morgengrauen, Tiefenrausch im Pool</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="1">Das Wasser ist warm, doch mein Herz bleibt cool</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="2">Die Synapsen brennen lichterloh</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="2">Wo ist der Kick hin? Wo ist die Show?</span></div>
+              <div class="stanza-title">[Part 2]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="0">Kann mich nicht bewegen, alles klemmt</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="0">Hing nur mit dir rum, weil ich dich so gehasst hab'</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="1">Alkohol macht mich zu einer fetten Schnecke</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="1">Hundert Meter tief in mein'n Augenhöhl'n, lieg' in der Wanne, versuch' mich aufzulösen</span></div>
+            </div>
+            <div class="stanza">
+              <div class="stanza-title">[Hook & Bridge]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="2">Die Couch schluckt mich und spuckt mich nie mehr aus</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="2">Alle Energie verbraucht, falle durch die Welt, bin im Fiebertraum</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="08" data-target-card="2">Hör' jetzt Stimmen schweigen, der Heldensaal ist leer</span></div>
             </div>
           </div>
           <div class="analysis-col">
             <div class="lang-block lang-de">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-08-de">
-                  <p>In <strong>„Höhenflug + Tiefenrausch“</strong> kollidieren Manie und Depression im selben Track. Die Produktion spiegelt diese bipolare Dynamik durch abrupte Tempowechsel und stürzende Synthesizer wider.</p>
-                  <p>Der Text offenbart das Gesetz des narzisstischen Rausches: Auf die göttliche Selbstüberhöhung folgt unausweichlich der Sturz in den somatischen Schlamm. Der Pool wird zum Bild des vergoldeten Gefängnisses.</p>
+                  <p>In <strong>„Höhenflug + Tiefenrausch“</strong> bricht der körperliche und seelische Crash mit voller Wucht herein. Die Zeile <span class="lyric-quote-highlight">„Hing nur mit dir rum, weil ich dich so gehasst hab'“</span> entlarvt den sadomasochistischen Kern toxischer Verstrickung.</p>
+                  <p>Das Bild der Couch, die den Protagonisten verschluckt, und der leere Heldensaal symbolisieren das abrupte Ende des Ikarus-Flugs: Der Mythos ist tot, übrig bleibt nur der nackte Kater.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-08-de" style="display: none;">
                   <div class="analysis-card" id="card-08-de-0">
@@ -1614,9 +1656,9 @@
                       <button class="card-back-btn" data-track-num="08">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 1 / 3</span>
                     </div>
-                    <span class="card-quote">Orbit / Götter verneigen sich / Schlamm</span>
+                    <span class="card-quote">Hing mit dir rum, weil ich dich gehasst hab'</span>
                     <div class="card-body">
-                      <p><strong>Die bipolare Achterbahn:</strong> Der Absturz folgt nicht verzögert, sondern unmittelbar. Das Ich pendelt zwischen Größenwahn und Selbstekel.</p>
+                      <p><strong>Die toxische Projektion:</strong> Hass bindet stärker als Liebe. Der Andere dient als Abladeplatz für den eigenen Selbsthass.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-08-de-1">
@@ -1624,9 +1666,9 @@
                       <button class="card-back-btn" data-track-num="08">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 2 / 3</span>
                     </div>
-                    <span class="card-quote">Wasser warm / Herz bleibt cool</span>
+                    <span class="card-quote">In der Wanne auflösen / Augenhöhlen</span>
                     <div class="card-body">
-                      <p><strong>Thermische Entfremdung:</strong> Äußere Wärme und Luxus können die innere Kälte nicht mehr überdecken.</p>
+                      <p><strong>Die somatische Auflösung:</strong> Der Körper rebelliert gegen den Raubbau. Der Wunsch nach Auflösung ersetzt die Allmachtsphantasie.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-08-de-2">
@@ -1634,9 +1676,9 @@
                       <button class="card-back-btn" data-track-num="08">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 3 / 3</span>
                     </div>
-                    <span class="card-quote">Synapsen brennen / Wo ist die Show?</span>
+                    <span class="card-quote">Der Heldensaal ist leer / Couch schluckt mich</span>
                     <div class="card-body">
-                      <p><strong>Toleranzentwicklung & Leere:</strong> Wenn selbst der stärkste Reiz keine Resonanz mehr erzeugt, bleibt nur noch die Panik vor der Stille.</p>
+                      <p><strong>Der Einsturz des Podests:</strong> Der Heldensaal erweist sich als akustische Täuschung; die Couch wird zum Sarg des Egos.</p>
                     </div>
                   </div>
                 </div>
@@ -1645,8 +1687,7 @@
             <div class="lang-block lang-en">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-08-en">
-                  <p>In <strong>“Höhenflug + Tiefenrausch”</strong> (High Altitude Flight + Deep Intoxication), mania and depressive crash collide head-on. The sonic architecture switches violently between ecstasy and gloom.</p>
-                  <p>Grandiosity inevitably yields to the suction of visceral exhaustion.</p>
+                  <p>In <strong>“Höhenflug + Tiefenrausch”</strong>, somatic collapse follows manic elevation. The empty hall of heroes leaves behind only visceral exhaustion.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-08-en" style="display: none;">
                   <div class="analysis-card" id="card-08-en-0">
@@ -1654,9 +1695,9 @@
                       <button class="card-back-btn" data-track-num="08">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 1 / 3</span>
                     </div>
-                    <span class="card-quote">Orbit / Mud pulls you down</span>
+                    <span class="card-quote">Hung out because I hated you</span>
                     <div class="card-body">
-                      <p><strong>Bipolar Oscillation:</strong> The pendulum swings relentlessly between omnipotence and self-revulsion.</p>
+                      <p><strong>Projective Identification:</strong> Partner proximity is weaponized to externalize self-hatred.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-08-en-1">
@@ -1664,9 +1705,9 @@
                       <button class="card-back-btn" data-track-num="08">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 2 / 3</span>
                     </div>
-                    <span class="card-quote">Warm water / Cold heart</span>
+                    <span class="card-quote">Dissolving in the tub</span>
                     <div class="card-body">
-                      <p><strong>Sensory Dissociation:</strong> Physical comfort fails to penetrate emotional numbness.</p>
+                      <p><strong>Somatic Liquefaction:</strong> The physical organism capitulates under chemical exhaustion.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-08-en-2">
@@ -1674,9 +1715,9 @@
                       <button class="card-back-btn" data-track-num="08">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 3 / 3</span>
                     </div>
-                    <span class="card-quote">Synapses burning / Where is the show?</span>
+                    <span class="card-quote">The hall of heroes is empty</span>
                     <div class="card-body">
-                      <p><strong>Dopaminergic Depletion:</strong> When stimuli cease to register, terror of silence takes over.</p>
+                      <p><strong>Ego Collapse:</strong> The grand stage collapses into solitary paralysis.</p>
                     </div>
                   </div>
                 </div>
@@ -1701,21 +1742,24 @@
         <div class="track-grid">
           <div class="lyrics-col">
             <div class="stanza">
-              <div class="stanza-title">[Strophe & Hook]</div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="0">Nur noch ein kurzer Spike im System</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="0">Um das Beben im Körper nicht mehr zu sehn</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="1">Likes auf dem Screen, Pulver im Glas</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="1">Ich hab vergessen, was Liebe mal war</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="2">Kurve schießt hoch, fällt senkrecht ins Nichts</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="2">Schatten im Flimmern des Morgenlichts</span></div>
+              <div class="stanza-title">[Part 2]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="0">Wartest auf Erlaubnis für all die Dinge, die du nicht mal aussprichst</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="0">High auf Moral, doch ich glaub's nicht</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="1">Denn es ist deine Wahrheit, wegen der du so taub bist / Solang, bis du drauf bist</span></div>
+            </div>
+            <div class="stanza">
+              <div class="stanza-title">[Hook & Outro]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="2">Dann fühlst du es auch — die Schmetterlinge im Bauch</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="2">Und dir ist alles egal, die könn'n lang auf dich warten</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="09" data-target-card="2">Ego FM Ibiza, Yours truly — Trayéndote el fuego</span></div>
             </div>
           </div>
           <div class="analysis-col">
             <div class="lang-block lang-de">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-09-de">
-                  <p>In <strong>„Dopamin Spike“</strong> wird die chemische und digitale Ersatzbefriedigung seziert. Die Seele ist auf biochemische Impulse reduziert: Likes, Applaus und Substanzen verschmelzen zur selben Währung.</p>
-                  <p>Tua verbindet hier die psychologische Diagnose F60.8 mit einer scharfsinnigen Kritik der modernen Aufmerksamkeitsökonomie. Wenn menschliche Resonanz nicht mehr erreichbar ist, wird der künstliche <span class="lyric-quote-highlight">Spike</span> zur letzten Überlebenskrücke.</p>
+                  <p>In <strong>„Dopamin Spike“</strong> dekonstruiert Tua den Zynismus der Enthemmung: Moral wird als spießiges Gefängnis verhöhnt (<span class="lyric-quote-highlight">„High auf Moral, doch ich glaub's nicht“</span>).</p>
+                  <p>Die Schmetterlinge im Bauch sind hier kein Zeichen romantischer Liebe, sondern das neurochemische Produkt des nächsten Kicks. Der Protagonist zwingt sein Umfeld in dieselbe Spirale.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-09-de" style="display: none;">
                   <div class="analysis-card" id="card-09-de-0">
@@ -1723,9 +1767,9 @@
                       <button class="card-back-btn" data-track-num="09">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 1 / 3</span>
                     </div>
-                    <span class="card-quote">Spike im System / Beben im Körper</span>
+                    <span class="card-quote">High auf Moral / Wartest auf Erlaubnis</span>
                     <div class="card-body">
-                      <p><strong>Die neurochemische Kapitulation:</strong> Der Körper signalisiert Notstand; der Geist antwortet mit einer weiteren Dosis Betäubung.</p>
+                      <p><strong>Die Verachtung von Konventionen:</strong> Der Narzisst stilisiert seine Rücksichtslosigkeit zur wahren Freiheit empor.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-09-de-1">
@@ -1733,9 +1777,9 @@
                       <button class="card-back-btn" data-track-num="09">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 2 / 3</span>
                     </div>
-                    <span class="card-quote">Likes auf dem Screen / Was Liebe mal war</span>
+                    <span class="card-quote">Taub bist, solang bis du drauf bist</span>
                     <div class="card-body">
-                      <p><strong>Digitale Substitution:</strong> Parasoziale Bestätigung ersetzt echte Bindungsfähigkeit vollständig.</p>
+                      <p><strong>Die pharmakologische Erlösung:</strong> Gefühle existieren nur noch auf Rezept oder Pulver.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-09-de-2">
@@ -1743,9 +1787,9 @@
                       <button class="card-back-btn" data-track-num="09">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 3 / 3</span>
                     </div>
-                    <span class="card-quote">Kurve schießt hoch, fällt ins Nichts</span>
+                    <span class="card-quote">Schmetterlinge im Bauch / Trayéndote el fuego</span>
                     <div class="card-body">
-                      <p><strong>Die exponentielle Entropie:</strong> Jeder Spike verflacht schneller; das Tal danach wird tiefer.</p>
+                      <p><strong>Die synthetische Romantik:</strong> Liebe wird zur biochemischen Reaktion degradiert, begleitet von spanischen Radio-Jingles.</p>
                     </div>
                   </div>
                 </div>
@@ -1754,8 +1798,7 @@
             <div class="lang-block lang-en">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-09-en">
-                  <p>In <strong>“Dopamin Spike”</strong>, neurochemical and digital substitutes for intimacy are dissected. Consciousness is degraded to immediate reward loops.</p>
-                  <p>Tua fuses the F60.8 diagnosis with cultural critique: digital affirmation and chemical highs become identical currencies.</p>
+                  <p>In <strong>“Dopamin Spike”</strong>, moral restraint is mocked. Butterflies in the stomach are reduced to neurochemical surges.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-09-en" style="display: none;">
                   <div class="analysis-card" id="card-09-en-0">
@@ -1763,9 +1806,9 @@
                       <button class="card-back-btn" data-track-num="09">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 1 / 3</span>
                     </div>
-                    <span class="card-quote">Spike in the system / Shaking body</span>
+                    <span class="card-quote">High on morality</span>
                     <div class="card-body">
-                      <p><strong>Somatic Breakdown:</strong> Physical alarms are silenced with forced stimulation.</p>
+                      <p><strong>Moral Invalidation:</strong> Ethical restraint is dismissed as cowardice.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-09-en-1">
@@ -1773,9 +1816,9 @@
                       <button class="card-back-btn" data-track-num="09">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 2 / 3</span>
                     </div>
-                    <span class="card-quote">Likes on screen / What love used to be</span>
+                    <span class="card-quote">Numb until high</span>
                     <div class="card-body">
-                      <p><strong>Digital Replacement:</strong> Validation algorithms displace genuine attachment capacity.</p>
+                      <p><strong>Chemical Equilibrium:</strong> Emotion is accessible only through neurotransmitter manipulation.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-09-en-2">
@@ -1783,9 +1826,9 @@
                       <button class="card-back-btn" data-track-num="09">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 3 / 3</span>
                     </div>
-                    <span class="card-quote">Spike climbs, drops into the void</span>
+                    <span class="card-quote">Synthetic Butterflies / Bringing the fire</span>
                     <div class="card-body">
-                      <p><strong>Diminishing Returns:</strong> Shorter highs precipitate steeper psychological plunges.</p>
+                      <p><strong>Simulated Euphoria:</strong> Synthetic dopamine replaces genuine relational joy.</p>
                     </div>
                   </div>
                 </div>
@@ -1810,21 +1853,24 @@
         <div class="track-grid">
           <div class="lyrics-col">
             <div class="stanza">
-              <div class="stanza-title">[Outro & Finale]</div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="0">Lösch meinen Namen aus deinem Telefon</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="0">Ich war nur ein Geist, eine Illusion</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="1">Amnesia... der Club leert sich sacht</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="1">Das weiße Rauschen verschlingt diese Nacht</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="2">Kein Schmerz, kein Ich, kein Wiedersehen</span></div>
-              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="2">Lass den Vorhang falln, lass die Musik vergehn</span></div>
+              <div class="stanza-title">[Part 2]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="0">Der Secu ist so breit wie hoch / Hält mich, hält mich fest, währ'nd der mir weiter droht</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="0">Sonn'nbrand-Fresse hinter sein'n beiden Bros / Unter weiß-roten Pyramiden und Kaleidoskop</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="1">Sag' dem Secu: „Tranquilo, I go home“ — Warte auf den Drop und die CO2-Kanon'n</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="1">Kalter Rauch, reiß' mich los und tret' ihm in sein Declan-Rice-Trikot</span></div>
+            </div>
+            <div class="stanza">
+              <div class="stanza-title">[Hook]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="2">Du kommst mir grade recht, Junge, willst du, dass ich dir die Nase brech'?</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="10" data-target-card="2">Du kommst mir grade recht...</span></div>
             </div>
           </div>
           <div class="analysis-col">
             <div class="lang-block lang-de">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-10-de">
-                  <p>Mit <strong>„Amnesia“</strong> schließt sich der hermeneutische Kreis des Albums. Der Titel verweist doppelbödig sowohl auf den legendären Ibiza-Club als auch auf die neurologische und seelische Auslöschung des Erlebten.</p>
-                  <p>Das Album endet nicht in Katharsis oder Reue, sondern in vollendeter <span class="lyric-quote-highlight">Dissoziation</span>. Der Protagonist löst sich selbst als Geist auf. Die Musik verblasst in einem atmosphärischen weißen Rauschen – der Vorhang fällt über einer Existenz, die sich im Glanz ihrer eigenen Inszenierung selbst verzehrt hat.</p>
+                  <p>In <strong>„Amnesia“</strong> schlägt die verdrängte Agonie in rohe physische Gewalt um. Der Club <em>Amnesia</em> wird zum Gladiatorenring: Zwischen CO2-Kanonen, Laserpyramiden und Türstehern bricht der unkontrollierte Furor hervor.</p>
+                  <p>Die Schlägerei gegen den Sicherheitsmann im <em>Declan-Rice-Trikot</em> ist der verzweifelte Versuch, durch Schmerz und Adrenalin noch einmal die eigene Lebendigkeit zu spüren.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-10-de" style="display: none;">
                   <div class="analysis-card" id="card-10-de-0">
@@ -1832,19 +1878,19 @@
                       <button class="card-back-btn" data-track-num="10">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 1 / 3</span>
                     </div>
-                    <span class="card-quote">Lösch meinen Namen / Nur ein Geist</span>
+                    <span class="card-quote">Der Secu / Weiß-rote Pyramiden</span>
                     <div class="card-body">
-                      <p><strong>Die finale Selbstlöschung:</strong> Die Kunstfigur kapituliert vor der Realität und fordert das Vergessenwerden ein, um dem Schmerz der eigenen Bedeutungslosigkeit zuvorzukommen.</p>
+                      <p><strong>Die sensorische Überreizung:</strong> Der Clubraum löst sich in kaleidoskopische Fragmente auf; die Reizüberflutung kippt in Paranoia.</p>
                     </div>
                   </div>
-                  <div class="analysis-card" id="card-10-de-1">
+                  <div class="analysis-card" id="card-01-de-1">
                     <div class="card-header-bar">
                       <button class="card-back-btn" data-track-num="10">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 2 / 3</span>
                     </div>
-                    <span class="card-quote">Amnesia / Weißes Rauschen</span>
+                    <span class="card-quote">CO2-Kanonen / Declan-Rice-Trikot</span>
                     <div class="card-body">
-                      <p><strong>Das akustische Nichts:</strong> Das weiße Rauschen absorbiert alle Frequenzen. Der Rausch hinterlässt ein absolutes Vakuum.</p>
+                      <p><strong>Der Gewaltausbruch als Katharsis-Ersatz:</strong> Das Reißverschluss-Moment: Der Tritt in das Fußballtrikot ist die finale Zerstörung sozialer Verträge.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-10-de-2">
@@ -1852,9 +1898,9 @@
                       <button class="card-back-btn" data-track-num="10">← Zurück zum Essay</button>
                       <span class="card-badge-counter">Tiefen-Analyse 3 / 3</span>
                     </div>
-                    <span class="card-quote">Kein Schmerz, kein Ich, kein Wiedersehen</span>
+                    <span class="card-quote">Willst du, dass ich dir die Nase brech'?</span>
                     <div class="card-body">
-                      <p><strong>Der Ego-Tod ohne Erlösung:</strong> Die Tilgung des Ichs ist keine spirituelle Erleuchtung, sondern die unausweichliche Endstation des narzisstischen Solipsismus.</p>
+                      <p><strong>Narzisstische Wut (Narcissistic Rage):</strong> Wenn das Ego gekränkt wird, antwortet es mit vernichtender Aggression gegen das nächstbeste Ziel.</p>
                     </div>
                   </div>
                 </div>
@@ -1863,8 +1909,7 @@
             <div class="lang-block lang-en">
               <div class="analysis-view-wrapper">
                 <div class="narrative-review" id="review-10-en">
-                  <p><strong>“Amnesia”</strong> closes the hermeneutic cycle. The title functions as a dual signifier: pointing both to the famed Ibiza nightlife institution and to complete cognitive erasure.</p>
-                  <p>The arc resolves not in redemption, but in ultimate <span class="lyric-quote-highlight">dissociation</span>. The protagonist dissolves into white noise.</p>
+                  <p>In <strong>“Amnesia”</strong>, suppressed agony culminates in visceral club violence. The brawl under CO2 cannons operates as narcissistic rage.</p>
                 </div>
                 <div class="card-deck-view" id="card-deck-10-en" style="display: none;">
                   <div class="analysis-card" id="card-10-en-0">
@@ -1872,9 +1917,9 @@
                       <button class="card-back-btn" data-track-num="10">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 1 / 3</span>
                     </div>
-                    <span class="card-quote">Erase my name / Just a ghost</span>
+                    <span class="card-quote">Security guard / Red-white pyramids</span>
                     <div class="card-body">
-                      <p><strong>Total Self-Deletion:</strong> The persona chooses voluntary non-existence to pre-empt mortal insignificance.</p>
+                      <p><strong>Sensory Overdrive:</strong> Club lights fragment perception into chaotic paranoia.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-10-en-1">
@@ -1882,9 +1927,9 @@
                       <button class="card-back-btn" data-track-num="10">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 2 / 3</span>
                     </div>
-                    <span class="card-quote">Amnesia / White noise engulfing the night</span>
+                    <span class="card-quote">CO2 canons / Declan Rice Jersey</span>
                     <div class="card-body">
-                      <p><strong>Acoustic Obliteration:</strong> White noise consumes all remaining frequencies.</p>
+                      <p><strong>Physical Violence as Surrogate:</strong> Aggression becomes the final mechanism to confirm physical existence.</p>
                     </div>
                   </div>
                   <div class="analysis-card" id="card-10-en-2">
@@ -1892,9 +1937,123 @@
                       <button class="card-back-btn" data-track-num="10">← Back to Essay</button>
                       <span class="card-badge-counter">Deep Analysis 3 / 3</span>
                     </div>
-                    <span class="card-quote">No pain, no ego, no reunion</span>
+                    <span class="card-quote">Break your nose / Narcissistic Rage</span>
                     <div class="card-body">
-                      <p><strong>Ego Dissolution without Catharsis:</strong> The inevitable terminus of pathological narcissism.</p>
+                      <p><strong>Ego Defense:</strong> Wounded grandiosity lashes out destructively at any boundary.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ================= TRACK 11 ================= -->
+      <section class="track-section" id="track-11">
+        <div class="track-header-bar">
+          <div class="track-title-wrap">
+            <span class="track-num-badge">11</span>
+            <h2 class="track-heading">Kaputt</h2>
+          </div>
+          <button class="track-audio-btn" data-track-title="11 — Kaputt">
+            <span class="lang-de">▶ Track Fokus</span>
+            <span class="lang-en">▶ Track Focus</span>
+          </button>
+        </div>
+        <div class="track-grid">
+          <div class="lyrics-col">
+            <div class="stanza">
+              <div class="stanza-title">[Hook]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="11" data-target-card="0">Was ich berühr', das geht kaputt</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="11" data-target-card="0">Ganzes Leben zerleg' ich zu Schutt</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="11" data-target-card="1">Umso schwerer, je mehr ich's versuch'</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="11" data-target-card="1">Und du bist weit, weit weg, währ'nd ich ein Fehltritt bleib'</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="11" data-target-card="1">Ich steck' für eine Ewigkeit in 'nem Loop</span></div>
+            </div>
+            <div class="stanza">
+              <div class="stanza-title">[Bridge & Outro]</div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="11" data-target-card="2">Und ich kam immer davon, aber niemals an</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="11" data-target-card="2">Springmesser-Tattoo auf meiner Brust / Tu nicht so, als hast du nichts gewusst</span></div>
+              <div class="lyric-line"><span class="lyric-trigger" data-track-num="11" data-target-card="2">Hand aufs Herz, ich spüre kein'n Puls — Deine Liebe blieb für immer im August</span></div>
+            </div>
+          </div>
+          <div class="analysis-col">
+            <div class="lang-block lang-de">
+              <div class="analysis-view-wrapper">
+                <div class="narrative-review" id="review-11-de">
+                  <p>Mit <strong>„Kaputt“</strong> findet das Projekt seinen monumentalen, niederschmetternden Abschluss. Hier fällt die Maske endgültig: Die traurige Essenz des Narzissmus ist nicht Bosheit, sondern ein unausweichlicher Fluch (<span class="lyric-quote-highlight">„Was ich berühr', das geht kaputt“</span>).</p>
+                  <p>Der Satz <span class="lyric-quote-highlight">„Ich kam immer davon, aber niemals an“</span> fasst die gesamte Tragik des Albums in sieben Worten zusammen: Ewige Flucht, ewiges Überleben, aber vollkommene Unfähigkeit zur Erlösung. <em>„Deine Liebe blieb für immer im August.“</em></p>
+                </div>
+                <div class="card-deck-view" id="card-deck-11-de" style="display: none;">
+                  <div class="analysis-card" id="card-11-de-0">
+                    <div class="card-header-bar">
+                      <button class="card-back-btn" data-track-num="11">← Zurück zum Essay</button>
+                      <span class="card-badge-counter">Tiefen-Analyse 1 / 3</span>
+                    </div>
+                    <span class="card-quote">Was ich berühr', das geht kaputt / Zu Schutt</span>
+                    <div class="card-body">
+                      <p><strong>Der Midas-Fluch der Zerstörung:</strong> Alles, was das lyrische Ich zu lieben versucht, wird durch seine Unfähigkeit zur Bindung vernichtet.</p>
+                    </div>
+                  </div>
+                  <div class="analysis-card" id="card-11-de-1">
+                    <div class="card-header-bar">
+                      <button class="card-back-btn" data-track-num="11">← Zurück zum Essay</button>
+                      <span class="card-badge-counter">Tiefen-Analyse 2 / 3</span>
+                    </div>
+                    <span class="card-quote">Für eine Ewigkeit in 'nem Loop</span>
+                    <div class="card-body">
+                      <p><strong>Der Wiederholungszwang:</strong> Der Narzisst ist in der ewigen Schleife aus Idealisierung, Entwertung und Absturz gefangen.</p>
+                    </div>
+                  </div>
+                  <div class="analysis-card" id="card-11-de-2">
+                    <div class="card-header-bar">
+                      <button class="card-back-btn" data-track-num="11">← Zurück zum Essay</button>
+                      <span class="card-badge-counter">Tiefen-Analyse 3 / 3</span>
+                    </div>
+                    <span class="card-quote">Immer davon, niemals an / Liebe im August</span>
+                    <div class="card-body">
+                      <p><strong>Das finale Epitaph:</strong> Entkommen, aber niemals angekommen. Die Liebe bleibt als konservierte Erinnerung im vergangenen Sommer zurück.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="lang-block lang-en">
+              <div class="analysis-view-wrapper">
+                <div class="narrative-review" id="review-11-en">
+                  <p>With <strong>“Kaputt”</strong> (Broken), the project reaches its monumental terminus. The core tragedy of F60.8 is crystallized: <span class="lyric-quote-highlight">“Whatever I touch turns to ruin”</span>.</p>
+                  <p><em>“I always got away, but never arrived.”</em></p>
+                </div>
+                <div class="card-deck-view" id="card-deck-11-en" style="display: none;">
+                  <div class="analysis-card" id="card-11-en-0">
+                    <div class="card-header-bar">
+                      <button class="card-back-btn" data-track-num="11">← Back to Essay</button>
+                      <span class="card-badge-counter">Deep Analysis 1 / 3</span>
+                    </div>
+                    <span class="card-quote">What I touch turns to ruin</span>
+                    <div class="card-body">
+                      <p><strong>The Inverse Midas Curse:</strong> Incapacity for authentic attachment destroys every intimate connection.</p>
+                    </div>
+                  </div>
+                  <div class="analysis-card" id="card-11-en-1">
+                    <div class="card-header-bar">
+                      <button class="card-back-btn" data-track-num="11">← Back to Essay</button>
+                      <span class="card-badge-counter">Deep Analysis 2 / 3</span>
+                    </div>
+                    <span class="card-quote">Trapped in an eternal loop</span>
+                    <div class="card-body">
+                      <p><strong>Repetition Compulsion:</strong> Bound to endlessly repeat idealization, devaluation, and collapse.</p>
+                    </div>
+                  </div>
+                  <div class="analysis-card" id="card-11-en-2">
+                    <div class="card-header-bar">
+                      <button class="card-back-btn" data-track-num="11">← Back to Essay</button>
+                      <span class="card-badge-counter">Deep Analysis 3 / 3</span>
+                    </div>
+                    <span class="card-quote">Always got away, never arrived</span>
+                    <div class="card-body">
+                      <p><strong>The Final Epitaph:</strong> Perpetual flight without sanctuary. Love remains forever locked in August.</p>
                     </div>
                   </div>
                 </div>
@@ -1910,7 +2069,7 @@
   <!-- Footer -->
   <footer>
     <div class="footer-title">TUA — F60.8 INTERACTIVE DECONSTRUCTION</div>
-    <p>Konzeption nach ICD-10 F60.8 (Spezifische Persönlichkeitsstörungen / Narzissmus)</p>
+    <p>Konzeption nach ICD-10 F60.8 (Narzisstische Persönlichkeitsstörung & Dissoziation)</p>
     <p>Design System: Pitchfork / Genius Standard | 35mm Analog Film Grain</p>
   </footer>
 
@@ -1955,7 +2114,7 @@
           const buffer = new Uint32Array(imgData.data.buffer);
           const len = buffer.length;
           for (let i = 0; i < len; i++) {
-            if (Math.random() < 0.12) {
+            if (Math.random() < 0.1) {
               const gray = (Math.random() * 255) | 0;
               buffer[i] = (255 << 24) | (gray << 16) | (gray << 8) | gray;
             }
@@ -2002,18 +2161,15 @@
       const lyricTriggers = document.querySelectorAll('.lyric-trigger');
       
       lyricTriggers.forEach(trigger => {
-        trigger.addEventListener('click', (e) => {
+        trigger.addEventListener('click', () => {
           const trackNum = trigger.getAttribute('data-track-num');
           const targetCardIdx = trigger.getAttribute('data-target-card');
-          const currentLang = document.body.getAttribute('data-lang') || 'de';
 
-          // Alle aktiven Trigger für diesen Track zurücksetzen
           document.querySelectorAll(`.lyric-trigger[data-track-num="${trackNum}"]`).forEach(el => {
             el.classList.remove('active');
           });
           trigger.classList.add('active');
 
-          // Review und Deck für beide Sprachen finden
           ['de', 'en'].forEach(lang => {
             const reviewEl = document.getElementById(`review-${trackNum}-${lang}`);
             const deckEl = document.getElementById(`card-deck-${trackNum}-${lang}`);
@@ -2030,7 +2186,6 @@
               targetCard.classList.add('active');
             }
 
-            // Vertikale Synchronisation auf Klickhöhe der Songtext-Zeile
             if (window.innerWidth > 992) {
               const trackGrid = trigger.closest('.track-grid');
               if (trackGrid) {
