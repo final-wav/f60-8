@@ -13,9 +13,9 @@
       --bg-surface: #141418;
       --text: #ffffff;
       --text-muted: #8e8e93;
-      --magenta: #ff007a;
-      --magenta-dim: rgba(255, 0, 122, 0.12);
-      --magenta-glow: rgba(255, 0, 122, 0.35);
+      --accent: #fa5b00;
+      --accent-dim: rgba(250, 91, 0, 0.12);
+      --accent-glow: rgba(250, 91, 0, 0.35);
     }
 
     * {
@@ -57,7 +57,7 @@
     }
 
     ::selection {
-      background-color: var(--magenta);
+      background-color: var(--accent);
       color: #ffffff;
     }
 
@@ -105,7 +105,7 @@
     }
 
     .burger-btn:hover span {
-      background-color: var(--magenta);
+      background-color: var(--accent);
     }
 
     .nav-center {
@@ -151,8 +151,8 @@
 
     .lang-toggle-btn:hover {
       color: #ffffff;
-      border-color: var(--magenta);
-      background: var(--magenta-dim);
+      border-color: var(--accent);
+      background: var(--accent-dim);
     }
 
     /* Burger Drawer */
@@ -215,7 +215,7 @@
       display: block;
       width: 24px;
       height: 2px;
-      background-color: var(--magenta);
+      background-color: var(--accent);
       position: absolute;
       top: 11px;
       left: 0;
@@ -231,7 +231,7 @@
       font-weight: 800;
       letter-spacing: 0.15em;
       text-transform: uppercase;
-      color: var(--magenta);
+      color: var(--accent);
       line-height: 1;
     }
 
@@ -277,24 +277,6 @@
       height: 75vh;
       object-fit: cover;
       display: block;
-      filter: brightness(0.65) saturate(1.2);
-    }
-
-    .hero-overlay-tag {
-      position: absolute;
-      bottom: 40px;
-      left: 50%;
-      transform: translateX(-50%);
-      background: rgba(12, 12, 15, 0.8);
-      backdrop-filter: blur(12px);
-      border: 1px solid rgba(255, 0, 122, 0.4);
-      padding: 8px 24px;
-      border-radius: 30px;
-      font-size: 0.8rem;
-      font-weight: 800;
-      letter-spacing: 0.2em;
-      color: #ffffff;
-      text-transform: uppercase;
     }
 
     /* Layout Wrapper */
@@ -314,7 +296,7 @@
       font-size: 0.75rem;
       font-weight: 800;
       letter-spacing: 0.25em;
-      color: var(--magenta);
+      color: var(--accent);
       text-transform: uppercase;
       margin-bottom: 12px;
     }
@@ -363,23 +345,23 @@
       width: 32px;
       height: 32px;
       border-radius: 50%;
-      background: var(--magenta);
+      background: var(--accent);
       color: #ffffff;
       border: none;
       display: inline-flex;
       align-items: center;
       justify-content: center;
       cursor: pointer;
-      box-shadow: 0 0 12px var(--magenta-glow);
+      box-shadow: 0 0 12px var(--accent-glow);
       transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
       flex-shrink: 0;
       padding: 0;
     }
 
     .song-round-play-btn:hover {
-      background: #ff2b92;
+      background: #ff6e1a;
       transform: scale(1.1);
-      box-shadow: 0 0 18px rgba(255, 0, 122, 0.65);
+      box-shadow: 0 0 18px rgba(250, 91, 0, 0.65);
     }
 
     .audio-play-btn {
@@ -402,14 +384,14 @@
 
     .audio-play-btn:hover {
       color: #ffffff;
-      border-color: var(--magenta);
-      background: var(--magenta-dim);
+      border-color: var(--accent);
+      background: var(--accent-dim);
     }
 
     .track-num-badge {
       font-size: 1.2rem;
       font-weight: 900;
-      color: var(--magenta);
+      color: var(--accent);
       letter-spacing: 0.1em;
     }
 
@@ -454,7 +436,7 @@
       font-weight: 800;
       letter-spacing: 0.15em;
       text-transform: uppercase;
-      color: var(--magenta);
+      color: var(--accent);
       margin-bottom: 4px;
     }
 
@@ -477,7 +459,7 @@
     .lyric-trigger {
       display: inline-block;
       color: #ffffff;
-      border-bottom: 2px solid rgba(255, 0, 122, 0.45);
+      border-bottom: 2px solid rgba(250, 91, 0, 0.45);
       padding: 1px 4px;
       margin: 0 -4px;
       border-radius: 4px;
@@ -485,18 +467,18 @@
     }
 
     .lyric-trigger:hover {
-      background: rgba(255, 0, 122, 0.18);
-      border-bottom-color: var(--magenta);
+      background: rgba(250, 91, 0, 0.18);
+      border-bottom-color: var(--accent);
       color: #ffffff;
-      box-shadow: 0 0 12px var(--magenta-glow);
+      box-shadow: 0 0 12px var(--accent-glow);
     }
 
     .lyric-trigger.active {
-      background: var(--magenta);
+      background: var(--accent);
       border-bottom-color: #ffffff;
       color: #ffffff;
       font-weight: 700;
-      box-shadow: 0 0 16px var(--magenta-glow);
+      box-shadow: 0 0 16px var(--accent-glow);
     }
 
     /* Right Column: Analysis */
@@ -535,14 +517,14 @@
     }
 
     .lyric-quote-highlight {
-      color: var(--magenta);
-      background: rgba(255, 0, 122, 0.12);
+      color: var(--accent);
+      background: rgba(250, 91, 0, 0.12);
       padding: 1px 7px;
       border-radius: 4px;
       font-weight: 600;
       font-style: normal;
       display: inline;
-      border: 1px solid rgba(255, 0, 122, 0.25);
+      border: 1px solid rgba(250, 91, 0, 0.25);
     }
 
     .narrative-review strong,
@@ -587,7 +569,7 @@
     }
 
     .card-back-btn:hover {
-      color: var(--magenta);
+      color: var(--accent);
       transform: translateX(-4px);
     }
 
@@ -615,9 +597,9 @@
     .card-quote {
       font-size: 0.88rem;
       font-weight: 800;
-      color: var(--magenta);
-      background: rgba(255, 0, 122, 0.10);
-      border-left: 3px solid var(--magenta);
+      color: var(--accent);
+      background: rgba(250, 91, 0, 0.10);
+      border-left: 3px solid var(--accent);
       padding: 6px 12px;
       border-radius: 4px;
       text-transform: uppercase;
@@ -694,7 +676,7 @@
     .player-track-num {
       font-size: 0.75rem;
       font-weight: 900;
-      color: var(--magenta);
+      color: var(--accent);
       letter-spacing: 0.08em;
     }
 
@@ -737,9 +719,9 @@
     }
 
     .play-pause-circle:hover {
-      background: var(--magenta);
+      background: var(--accent);
       color: #ffffff;
-      box-shadow: 0 0 15px var(--magenta-glow);
+      box-shadow: 0 0 15px var(--accent-glow);
     }
 
     .player-right {
@@ -824,10 +806,9 @@
     </ul>
   </div>
 
-  <!-- Hero Cover Art -->
+  <!-- Hero Cover Art (Clean Full Bleed without pill overlay) -->
   <div class="hero-fullbleed">
     <img src="cover.png" alt="Tua F60.8 Cover" class="hero-image">
-    <div class="hero-overlay-tag">ICD-10 F60.8 — MULTIMODALE WERKANALYSE</div>
   </div>
 
   <!-- Main Content -->
