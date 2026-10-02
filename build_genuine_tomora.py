@@ -699,12 +699,29 @@ The record terminates in unsparing ontological exile."""
     }
 ]
 
+# Official YouTube Playlist IDs
+yt_ids = {
+    "01": "B57Cfur5gmo",
+    "02": "8aRKRKHTEu0",
+    "03": "U4oCu0Ddsmw",
+    "04": "0spWTbvgpUA",
+    "05": "Kf3nIF8r05Y",
+    "06": "1OjuBWxIV9I",
+    "07": "aqKJA8C3qnw",
+    "08": "qpVAoWbGV1g",
+    "09": "lyOFF32dEao",
+    "10": "spCXhlxPLBk",
+    "11": "bKS0-KAdPNw"
+}
+
 # TrackList in JS
 track_list_js = "const trackList = [\n"
 for t in tracks_data:
     t_num = t["num"]
     t_title = t["title"]
-    track_list_js += f'  {{ num: "{t_num}", title: "{t_title}", audioDe: "audio/de/{t_num}_{t_title.replace(" ", "_")}.mp3", audioEn: "audio/en/{t_num}_{t_title.replace(" ", "_")}.mp3", ytId: "" }},\n'
+    slug = f"{t_num}_{t_title.replace(' ', '_').replace('+', 'und')}"
+    yt_id = yt_ids.get(t_num, "")
+    track_list_js += f'  {{ num: "{t_num}", title: "{t_title}", audioDe: "audio/de/{slug}.mp3", audioEn: "audio/en/{slug}.mp3", ytId: "{yt_id}" }},\n'
 track_list_js += "];"
 
 adapted_js = re.sub(r'const trackList = \[.*?\];', track_list_js, tomora_js, flags=re.DOTALL)
