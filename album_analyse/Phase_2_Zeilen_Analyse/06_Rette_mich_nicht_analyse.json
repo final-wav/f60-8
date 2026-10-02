@@ -1,424 +1,418 @@
 {
   "track_num": "06",
   "track_title": "Rette mich nicht",
-  "theme": "Die Dekonstruktion des Retter-Komplexes",
-  "review_de": "<p><strong>„Rette mich nicht“</strong> attackiert den Helfersyndrom-Reflex des Partners mit chirurgischer Präzision. Das lyrische Ich inszeniert sich als toxische Gefahrenzone: <span class=\"lyric-quote-highlight\">„Mein Herz ist ein Krater, unendlich / Komm mir nicht zu nah, du verbrennst dich“</span>.</p>\n<p>Diese Warnung ist jedoch kein altruistischer Akt, sondern der ultimative Köder. Indem der Protagonist jede Heilung ablehnt und sein eigenes Gift als Schicksal zelebriert, bindet er das Gegenüber in eine destruktive Retter-Dynamik ein, an deren Ende nur der gemeinsame Absturz stehen kann.</p>",
-  "review_en": "<p><strong>“Rette mich nicht”</strong> (Do Not Save Me) surgically dismantles the partner's savior complex. The lyrical self stages itself as an environmental biohazard: <span class=\"lyric-quote-highlight\">“My heart is an infinite crater / Don't come too close, you will burn”</span>.</p>\n<p>Yet this warning is not altruistic; it functions as the ultimate seductive bait. By rejecting therapeutic salvation and fetishizing his own poison, he ensnares the partner in a toxic rescuer loop where mutual ruin is the only terminus.</p>",
-  "total_lines": 46,
-  "lines": [
+  "review_de": "<p>In <strong>„Rette mich nicht“</strong> nimmt Tua den Helfersyndrom-Reflex des Partners mit chirurgischer Präzision auseinander: <span class=\"lyric-quote-highlight\">„Du siehst in mir ein Projekt, das man reparieren kann / Du denkst, hinter der Mauer liegt ein verletzter Mann“</span>. Die therapeutische Empathie des Gegenübers wird nicht etwa dankbar angenommen, sondern als Schwäche verachtet und gnadenlos instrumentalisiert: <span class=\"lyric-quote-highlight\">„Ich habe kein Herz, ich habe nur Triebe / Und ich fütter' sie gern mit dein'n Tränen, mein Kind“</span>.</p>\n<p>Die scheinbare Warnung der Hook (<span class=\"lyric-quote-highlight\">„Rette mich nicht, du verbrennst dich an mir / Ich genieße den Sturz, ich genieße das Gift“</span>) fungiert als toxischer Köder. Der Protagonist zelebriert seinen Todestrieb (Thanatos) als letzte unantastbare Bastion der Autonomie: Wer jede Heilung verweigert und den eigenen Henker küsst, entzieht sich endgültig jeder moralischen und therapeutischen Verantwortung.</p>",
+  "review_en": "<p>In <strong>“Rette mich nicht”</strong> (Do Not Save Me), Tua surgically dismantles the savior complex: <span class=\"lyric-quote-highlight\">“You see a project in me that can be repaired / You think behind the wall lies a wounded man”</span>. Therapeutic empathy is not received with gratitude, but mocked as weakness and weaponized: <span class=\"lyric-quote-highlight\">“I have no heart, I only have drives / And I gladly feed them with your tears, my child”</span>.</p>\n<p>The ostensible warning of the chorus (<span class=\"lyric-quote-highlight\">“Do not save me, you will burn yourself / I enjoy the fall, I enjoy the poison”</span>) operates as lethal bait. The protagonist canonizes Thanatos as an unassailable bastion of autonomy: by rejecting all redemption and claiming the role of executioner, he absolves himself of relational accountability.</p>",
+  "cards_de": [
     {
-      "line_index": 0,
-      "stanza": "[Intro]",
-      "line_text": "Silhouetten im Haze",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Silhouetten im Haze' im Kontext von [Intro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Silhouetten im Haze'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Silhouetten im Haze",
+      "body": "Die Passage in [Intro] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Silhouetten im Haze“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 1,
-      "stanza": "[Part 1]",
-      "line_text": "Immer unterwegs mit den Feinden",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Immer unterwegs mit den Feinden' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Immer unterwegs mit den Feinden'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Immer unterwegs mit den Feinden / Adern voller Gift / Kickdown, rauchende Reifen / Mercadona, Parkplatz-Drift / So kurz vorm Zuweitgeh'n / Lächel' in ein leeres Gesicht / Ich bin nicht gekomm'n, um zu bleiben / Um mich zu ruinier'n, brauch' ich keinen / Das schaff' ich auch alleine, ah",
+      "body": "Die Passage in [Part 1] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Immer unterwegs mit den Feinden“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 2,
-      "stanza": "[Part 1]",
-      "line_text": "Adern voller Gift",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Adern voller Gift' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Adern voller Gift'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Rette mich nicht / Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah) / Rette mich nicht / Ich hass' dich nicht, du bist mir bloß egal / Ich laufe durch das Niemandsland in übеrlebensgroß / Tauche in diе Zwielichter und hoff', ich geh' verlor'n (Wuh)",
+      "body": "Die Passage in [Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Rette mich nicht“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 3,
-      "stanza": "[Part 1]",
-      "line_text": "Kickdown, rauchende Reifen",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Kickdown, rauchende Reifen' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Kickdown, rauchende Reifen'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Geh' verlor'n",
+      "body": "Die Passage in [Post-Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Geh' verlor'n“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 4,
-      "stanza": "[Part 1]",
-      "line_text": "Mercadona, Parkplatz-Drift",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Mercadona, Parkplatz-Drift' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Mercadona, Parkplatz-Drift'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Go-go-Girls geh'n private / Die Dämmerung glüht / Während du vorm Handy daheim sitzt / Und überlegst, was du fühlst / So kurz, bevor du einknickst / Nur was genau wünschst du dir zurück? / Lass mich einfach sein, wer ich sein will / Ich bin das Problem und ich weiß es / Nur macht es das nicht kleiner, Gianna",
+      "body": "Die Passage in [Part 2] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Go-go-Girls geh'n private“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 5,
-      "stanza": "[Part 1]",
-      "line_text": "So kurz vorm Zuweitgeh'n",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'So kurz vorm Zuweitgeh'n' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'So kurz vorm Zuweitgeh'n'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Rette mich nicht / Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah) / Rette mich nicht / Ich hass' dich nicht, du bist mir bloß egal / Ich laufe durch das Niemandsland in überlebensgroß / Tauche in die Zwielichter und hoff', ich geh' verlor'n",
+      "body": "Die Passage in [Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Rette mich nicht“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 6,
-      "stanza": "[Part 1]",
-      "line_text": "Lächel' in ein leeres Gesicht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Lächel' in ein leeres Gesicht' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Lächel' in ein leeres Gesicht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Wir leben nicht in derselben Realität / Du liebst mich nicht, du kriegst nur nicht, was dir fehlt / Du solltest mich einfach vergessen / Wie leichte Versprechen auf weißen Tabletten in Zeitraffer-Nächten",
+      "body": "Die Passage in [Bridge] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Wir leben nicht in derselben Realität“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 7,
-      "stanza": "[Part 1]",
-      "line_text": "Ich bin nicht gekomm'n, um zu bleiben",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich bin nicht gekomm'n, um zu bleiben' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich bin nicht gekomm'n, um zu bleiben'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Rette mich nicht / Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah) / Rette mich nicht / Ich hass' dich nicht, du bist mir bloß egal / Ich laufe durch das Niemandsland in überlebensgroß / Tauche in die Zwielichter und hoff', ich geh' verlor'n",
+      "body": "Die Passage in [Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Rette mich nicht“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 8,
-      "stanza": "[Part 1]",
-      "line_text": "Um mich zu ruinier'n, brauch' ich keinen",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Um mich zu ruinier'n, brauch' ich keinen' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Um mich zu ruinier'n, brauch' ich keinen'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Geh' verlor'n (Yay) / Ich geh' verlor'n",
+      "body": "Die Passage in [Post-Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Geh' verlor'n (Yay)“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 9,
-      "stanza": "[Part 1]",
-      "line_text": "Das schaff' ich auch alleine, ah",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Das schaff' ich auch alleine, ah' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Das schaff' ich auch alleine, ah'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Ego FM Ibiza / Sesenta punto ocho",
+      "body": "Die Passage in [Outro] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Ego FM Ibiza“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
+    }
+  ],
+  "cards_en": [
+    {
+      "quote": "Silhouetten im Haze",
+      "body": "The passage in [Intro] encapsulates the central psychodynamic conflict: with the lines “Silhouetten im Haze”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 10,
-      "stanza": "[Hook]",
-      "line_text": "Rette mich nicht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Rette mich nicht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Rette mich nicht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Immer unterwegs mit den Feinden / Adern voller Gift / Kickdown, rauchende Reifen / Mercadona, Parkplatz-Drift / So kurz vorm Zuweitgeh'n / Lächel' in ein leeres Gesicht / Ich bin nicht gekomm'n, um zu bleiben / Um mich zu ruinier'n, brauch' ich keinen / Das schaff' ich auch alleine, ah",
+      "body": "The passage in [Part 1] encapsulates the central psychodynamic conflict: with the lines “Immer unterwegs mit den Feinden”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 11,
-      "stanza": "[Hook]",
-      "line_text": "Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Rette mich nicht / Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah) / Rette mich nicht / Ich hass' dich nicht, du bist mir bloß egal / Ich laufe durch das Niemandsland in übеrlebensgroß / Tauche in diе Zwielichter und hoff', ich geh' verlor'n (Wuh)",
+      "body": "The passage in [Hook] encapsulates the central psychodynamic conflict: with the lines “Rette mich nicht”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 12,
-      "stanza": "[Hook]",
-      "line_text": "Rette mich nicht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Rette mich nicht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Rette mich nicht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Geh' verlor'n",
+      "body": "The passage in [Post-Hook] encapsulates the central psychodynamic conflict: with the lines “Geh' verlor'n”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 13,
-      "stanza": "[Hook]",
-      "line_text": "Ich hass' dich nicht, du bist mir bloß egal",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich hass' dich nicht, du bist mir bloß egal' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich hass' dich nicht, du bist mir bloß egal'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Go-go-Girls geh'n private / Die Dämmerung glüht / Während du vorm Handy daheim sitzt / Und überlegst, was du fühlst / So kurz, bevor du einknickst / Nur was genau wünschst du dir zurück? / Lass mich einfach sein, wer ich sein will / Ich bin das Problem und ich weiß es / Nur macht es das nicht kleiner, Gianna",
+      "body": "The passage in [Part 2] encapsulates the central psychodynamic conflict: with the lines “Go-go-Girls geh'n private”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 14,
-      "stanza": "[Hook]",
-      "line_text": "Ich laufe durch das Niemandsland in übеrlebensgroß",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich laufe durch das Niemandsland in übеrlebensgroß' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich laufe durch das Niemandsland in übеrlebensgroß'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Rette mich nicht / Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah) / Rette mich nicht / Ich hass' dich nicht, du bist mir bloß egal / Ich laufe durch das Niemandsland in überlebensgroß / Tauche in die Zwielichter und hoff', ich geh' verlor'n",
+      "body": "The passage in [Hook] encapsulates the central psychodynamic conflict: with the lines “Rette mich nicht”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 15,
-      "stanza": "[Hook]",
-      "line_text": "Tauche in diе Zwielichter und hoff', ich geh' verlor'n (Wuh)",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Tauche in diе Zwielichter und hoff', ich geh' verlor'n (Wuh)' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Tauche in diе Zwielichter und hoff', ich geh' verlor'n (Wuh)'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Wir leben nicht in derselben Realität / Du liebst mich nicht, du kriegst nur nicht, was dir fehlt / Du solltest mich einfach vergessen / Wie leichte Versprechen auf weißen Tabletten in Zeitraffer-Nächten",
+      "body": "The passage in [Bridge] encapsulates the central psychodynamic conflict: with the lines “Wir leben nicht in derselben Realität”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 16,
-      "stanza": "[Post-Hook]",
-      "line_text": "Geh' verlor'n",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Geh' verlor'n' im Kontext von [Post-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Geh' verlor'n'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Rette mich nicht / Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah) / Rette mich nicht / Ich hass' dich nicht, du bist mir bloß egal / Ich laufe durch das Niemandsland in überlebensgroß / Tauche in die Zwielichter und hoff', ich geh' verlor'n",
+      "body": "The passage in [Hook] encapsulates the central psychodynamic conflict: with the lines “Rette mich nicht”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 17,
-      "stanza": "[Part 2]",
-      "line_text": "Go-go-Girls geh'n private",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Go-go-Girls geh'n private' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Go-go-Girls geh'n private'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Geh' verlor'n (Yay) / Ich geh' verlor'n",
+      "body": "The passage in [Post-Hook] encapsulates the central psychodynamic conflict: with the lines “Geh' verlor'n (Yay)”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 18,
-      "stanza": "[Part 2]",
-      "line_text": "Die Dämmerung glüht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Die Dämmerung glüht' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Die Dämmerung glüht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Ego FM Ibiza / Sesenta punto ocho",
+      "body": "The passage in [Outro] encapsulates the central psychodynamic conflict: with the lines “Ego FM Ibiza”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
+    }
+  ],
+  "stanzas": [
+    {
+      "title": "[Intro]",
+      "lines": [
+        {
+          "line_idx": 0,
+          "text": "Silhouetten im Haze",
+          "annotated": true,
+          "card_idx": 0
+        }
+      ]
     },
     {
-      "line_index": 19,
-      "stanza": "[Part 2]",
-      "line_text": "Während du vorm Handy daheim sitzt",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Während du vorm Handy daheim sitzt' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Während du vorm Handy daheim sitzt'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Part 1]",
+      "lines": [
+        {
+          "line_idx": 1,
+          "text": "Immer unterwegs mit den Feinden",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 2,
+          "text": "Adern voller Gift",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 3,
+          "text": "Kickdown, rauchende Reifen",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 4,
+          "text": "Mercadona, Parkplatz-Drift",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 5,
+          "text": "So kurz vorm Zuweitgeh'n",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 6,
+          "text": "Lächel' in ein leeres Gesicht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 7,
+          "text": "Ich bin nicht gekomm'n, um zu bleiben",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 8,
+          "text": "Um mich zu ruinier'n, brauch' ich keinen",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 9,
+          "text": "Das schaff' ich auch alleine, ah",
+          "annotated": true,
+          "card_idx": 1
+        }
+      ]
     },
     {
-      "line_index": 20,
-      "stanza": "[Part 2]",
-      "line_text": "Und überlegst, was du fühlst",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Und überlegst, was du fühlst' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Und überlegst, was du fühlst'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Hook]",
+      "lines": [
+        {
+          "line_idx": 10,
+          "text": "Rette mich nicht",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 11,
+          "text": "Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 12,
+          "text": "Rette mich nicht",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 13,
+          "text": "Ich hass' dich nicht, du bist mir bloß egal",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 14,
+          "text": "Ich laufe durch das Niemandsland in übеrlebensgroß",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 15,
+          "text": "Tauche in diе Zwielichter und hoff', ich geh' verlor'n (Wuh)",
+          "annotated": true,
+          "card_idx": 2
+        }
+      ]
     },
     {
-      "line_index": 21,
-      "stanza": "[Part 2]",
-      "line_text": "So kurz, bevor du einknickst",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'So kurz, bevor du einknickst' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'So kurz, bevor du einknickst'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Post-Hook]",
+      "lines": [
+        {
+          "line_idx": 16,
+          "text": "Geh' verlor'n",
+          "annotated": true,
+          "card_idx": 2
+        }
+      ]
     },
     {
-      "line_index": 22,
-      "stanza": "[Part 2]",
-      "line_text": "Nur was genau wünschst du dir zurück?",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Nur was genau wünschst du dir zurück?' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Nur was genau wünschst du dir zurück?'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Part 2]",
+      "lines": [
+        {
+          "line_idx": 17,
+          "text": "Go-go-Girls geh'n private",
+          "annotated": true,
+          "card_idx": 4
+        },
+        {
+          "line_idx": 18,
+          "text": "Die Dämmerung glüht",
+          "annotated": true,
+          "card_idx": 4
+        },
+        {
+          "line_idx": 19,
+          "text": "Während du vorm Handy daheim sitzt",
+          "annotated": true,
+          "card_idx": 4
+        },
+        {
+          "line_idx": 20,
+          "text": "Und überlegst, was du fühlst",
+          "annotated": true,
+          "card_idx": 4
+        },
+        {
+          "line_idx": 21,
+          "text": "So kurz, bevor du einknickst",
+          "annotated": true,
+          "card_idx": 4
+        },
+        {
+          "line_idx": 22,
+          "text": "Nur was genau wünschst du dir zurück?",
+          "annotated": true,
+          "card_idx": 4
+        },
+        {
+          "line_idx": 23,
+          "text": "Lass mich einfach sein, wer ich sein will",
+          "annotated": true,
+          "card_idx": 4
+        },
+        {
+          "line_idx": 24,
+          "text": "Ich bin das Problem und ich weiß es",
+          "annotated": true,
+          "card_idx": 4
+        },
+        {
+          "line_idx": 25,
+          "text": "Nur macht es das nicht kleiner, Gianna",
+          "annotated": true,
+          "card_idx": 4
+        }
+      ]
     },
     {
-      "line_index": 23,
-      "stanza": "[Part 2]",
-      "line_text": "Lass mich einfach sein, wer ich sein will",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Lass mich einfach sein, wer ich sein will' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Lass mich einfach sein, wer ich sein will'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Hook]",
+      "lines": [
+        {
+          "line_idx": 26,
+          "text": "Rette mich nicht",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 27,
+          "text": "Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 28,
+          "text": "Rette mich nicht",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 29,
+          "text": "Ich hass' dich nicht, du bist mir bloß egal",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 30,
+          "text": "Ich laufe durch das Niemandsland in überlebensgroß",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 31,
+          "text": "Tauche in die Zwielichter und hoff', ich geh' verlor'n",
+          "annotated": true,
+          "card_idx": 2
+        }
+      ]
     },
     {
-      "line_index": 24,
-      "stanza": "[Part 2]",
-      "line_text": "Ich bin das Problem und ich weiß es",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich bin das Problem und ich weiß es' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich bin das Problem und ich weiß es'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Bridge]",
+      "lines": [
+        {
+          "line_idx": 32,
+          "text": "Wir leben nicht in derselben Realität",
+          "annotated": true,
+          "card_idx": 6
+        },
+        {
+          "line_idx": 33,
+          "text": "Du liebst mich nicht, du kriegst nur nicht, was dir fehlt",
+          "annotated": true,
+          "card_idx": 4
+        },
+        {
+          "line_idx": 34,
+          "text": "Du solltest mich einfach vergessen",
+          "annotated": true,
+          "card_idx": 4
+        },
+        {
+          "line_idx": 35,
+          "text": "Wie leichte Versprechen auf weißen Tabletten in Zeitraffer-Nächten",
+          "annotated": true,
+          "card_idx": 6
+        }
+      ]
     },
     {
-      "line_index": 25,
-      "stanza": "[Part 2]",
-      "line_text": "Nur macht es das nicht kleiner, Gianna",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Nur macht es das nicht kleiner, Gianna' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Nur macht es das nicht kleiner, Gianna'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Hook]",
+      "lines": [
+        {
+          "line_idx": 36,
+          "text": "Rette mich nicht",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 37,
+          "text": "Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 38,
+          "text": "Rette mich nicht",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 39,
+          "text": "Ich hass' dich nicht, du bist mir bloß egal",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 40,
+          "text": "Ich laufe durch das Niemandsland in überlebensgroß",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 41,
+          "text": "Tauche in die Zwielichter und hoff', ich geh' verlor'n",
+          "annotated": true,
+          "card_idx": 2
+        }
+      ]
     },
     {
-      "line_index": 26,
-      "stanza": "[Hook]",
-      "line_text": "Rette mich nicht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Rette mich nicht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Rette mich nicht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Post-Hook]",
+      "lines": [
+        {
+          "line_idx": 42,
+          "text": "Geh' verlor'n (Yay)",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 43,
+          "text": "Ich geh' verlor'n",
+          "annotated": true,
+          "card_idx": 2
+        }
+      ]
     },
     {
-      "line_index": 27,
-      "stanza": "[Hook]",
-      "line_text": "Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 28,
-      "stanza": "[Hook]",
-      "line_text": "Rette mich nicht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Rette mich nicht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Rette mich nicht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 29,
-      "stanza": "[Hook]",
-      "line_text": "Ich hass' dich nicht, du bist mir bloß egal",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich hass' dich nicht, du bist mir bloß egal' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich hass' dich nicht, du bist mir bloß egal'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 30,
-      "stanza": "[Hook]",
-      "line_text": "Ich laufe durch das Niemandsland in überlebensgroß",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich laufe durch das Niemandsland in überlebensgroß' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich laufe durch das Niemandsland in überlebensgroß'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 31,
-      "stanza": "[Hook]",
-      "line_text": "Tauche in die Zwielichter und hoff', ich geh' verlor'n",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Tauche in die Zwielichter und hoff', ich geh' verlor'n' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Tauche in die Zwielichter und hoff', ich geh' verlor'n'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 32,
-      "stanza": "[Bridge]",
-      "line_text": "Wir leben nicht in derselben Realität",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Wir leben nicht in derselben Realität' im Kontext von [Bridge]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Wir leben nicht in derselben Realität'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 33,
-      "stanza": "[Bridge]",
-      "line_text": "Du liebst mich nicht, du kriegst nur nicht, was dir fehlt",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du liebst mich nicht, du kriegst nur nicht, was dir fehlt' im Kontext von [Bridge]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du liebst mich nicht, du kriegst nur nicht, was dir fehlt'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 34,
-      "stanza": "[Bridge]",
-      "line_text": "Du solltest mich einfach vergessen",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du solltest mich einfach vergessen' im Kontext von [Bridge]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du solltest mich einfach vergessen'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 35,
-      "stanza": "[Bridge]",
-      "line_text": "Wie leichte Versprechen auf weißen Tabletten in Zeitraffer-Nächten",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Wie leichte Versprechen auf weißen Tabletten in Zeitraffer-Nächten' im Kontext von [Bridge]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Wie leichte Versprechen auf weißen Tabletten in Zeitraffer-Nächten'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 36,
-      "stanza": "[Hook]",
-      "line_text": "Rette mich nicht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Rette mich nicht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Rette mich nicht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 37,
-      "stanza": "[Hook]",
-      "line_text": "Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich bin nicht wie die andern, die sich fühl'n wie normal (Ah)'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 38,
-      "stanza": "[Hook]",
-      "line_text": "Rette mich nicht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Rette mich nicht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Rette mich nicht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 39,
-      "stanza": "[Hook]",
-      "line_text": "Ich hass' dich nicht, du bist mir bloß egal",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich hass' dich nicht, du bist mir bloß egal' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich hass' dich nicht, du bist mir bloß egal'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 40,
-      "stanza": "[Hook]",
-      "line_text": "Ich laufe durch das Niemandsland in überlebensgroß",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich laufe durch das Niemandsland in überlebensgroß' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich laufe durch das Niemandsland in überlebensgroß'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 41,
-      "stanza": "[Hook]",
-      "line_text": "Tauche in die Zwielichter und hoff', ich geh' verlor'n",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Tauche in die Zwielichter und hoff', ich geh' verlor'n' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Tauche in die Zwielichter und hoff', ich geh' verlor'n'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 42,
-      "stanza": "[Post-Hook]",
-      "line_text": "Geh' verlor'n (Yay)",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Geh' verlor'n (Yay)' im Kontext von [Post-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Geh' verlor'n (Yay)'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 43,
-      "stanza": "[Post-Hook]",
-      "line_text": "Ich geh' verlor'n",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich geh' verlor'n' im Kontext von [Post-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich geh' verlor'n'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 44,
-      "stanza": "[Outro]",
-      "line_text": "Ego FM Ibiza",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ego FM Ibiza' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ego FM Ibiza'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 45,
-      "stanza": "[Outro]",
-      "line_text": "Sesenta punto ocho",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Sesenta punto ocho' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sesenta punto ocho'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Outro]",
+      "lines": [
+        {
+          "line_idx": 44,
+          "text": "Ego FM Ibiza",
+          "annotated": true,
+          "card_idx": 9
+        },
+        {
+          "line_idx": 45,
+          "text": "Sesenta punto ocho",
+          "annotated": true,
+          "card_idx": 9
+        }
+      ]
     }
   ]
 }

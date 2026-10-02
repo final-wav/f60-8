@@ -1,343 +1,299 @@
 {
   "track_num": "10",
   "track_title": "Amnesia",
-  "theme": "Sensorische Hölle im Club & Gewalt als Katharsis",
-  "review_de": "<p>In <strong>„Amnesia“</strong> explodiert die gestaute toxische Energie im legendären Großraumclub auf Ibiza. Tua dekonstruiert die sensorische Hölle der EDM-Nacht: <span class=\"lyric-quote-highlight\">„Ich hass' diese Nacht und ich hass' ihr'n Geburtstag / Lächel gezwung'n, renne aufs Klo, um zu koksen und weil ich Durst hab'“</span>.</p>\n<p>Die Eskalation mit einem britischen Clubgast wird zur ultimativen Katharsis. Mit der schneidenden Hook <span class=\"lyric-quote-highlight\">„Du kommst mir grade recht / Willst du, dass ich dir die Nase brech'?“</span> wird der Schläger zum ersehnten Ventil für den eigenen Selbsthass. Im Moment des CO2-Kanonen-Drops entlädt sich die Gewalt als choreografiertes Finale eines gescheiterten Urlaubs.</p>",
-  "review_en": "<p>In <strong>“Amnesia”</strong>, accumulated toxic kinetic energy detonates inside the legendary Ibiza mega-club. Tua deconstructs the sensory purgatory of commercial EDM: <span class=\"lyric-quote-highlight\">“I hate this night and I hate her birthday / Forced smile, run to the bathroom to do coke and because I'm thirsty”</span>.</p>\n<p>The brawl with a British club-goer becomes an ecstatic catharsis. Driven by the unrelenting hook <span class=\"lyric-quote-highlight\">“You're just what I needed / Boy, you want me to break your nose?”</span>, violence provides the long-sought release valve for self-loathing. At the peak of the CO2 cannon blast, physical brutality synchronizes with the festival drop.</p>",
-  "total_lines": 37,
-  "lines": [
+  "review_de": "<p>In <strong>„Amnesia“</strong> explodiert die klaustrophobische Enge des Ibiza-Nachtlebens in roher, choreografierter Gewalt. Tua zeichnet die sensorische Reizüberflutung im Club mit schonungsloser Haptik: <span class=\"lyric-quote-highlight\">„Lächel gezwung'n, renne aufs Klo, um zu koksen und weil ich Durst hab' / Wasser mit Salz, bitterer Schleim in mei'm Hals“</span>. Das erzwungene Lächeln auf der Geburtstagsfeier bricht unter dem akustischen Beschuss der EDM-Bässe zusammen.</p>\n<p>Der Konflikt mit einem britischen Touristen wird zur ersehnten Entlastung: <span class=\"lyric-quote-highlight\">„Du kommst mir grade recht / Junge, willst du, dass ich dir die Nase brech'?“</span>. Die Schlägerei ist kein Unfall, sondern die gezielte somatische Entladung unerträglicher innerer Spannungen. Im Moment des Club-Höhepunkts (<span class=\"lyric-quote-highlight\">„Warte auf den Drop und die CO2-Kanon'n / Kalter Rauch, reiß' mich los / Und tret' ihm in sein Declan-Rice-Trikot“</span>) verschmelzen Bass-Drop und körperliche Brutalität zum finalen Exzess.</p>",
+  "review_en": "<p>In <strong>“Amnesia”</strong>, the sensory claustrophobia of mega-club nightlife detonates into raw, choreographed violence. Tua renders sensory overload with visceral tactility: <span class=\"lyric-quote-highlight\">“Forced smile, run to the bathroom to do coke and because I'm thirsty / Water with salt, bitter slime in my throat”</span>. The social performance collapses under commercial EDM bombardment.</p>\n<p>The altercation with a British tourist serves as a long-sought release: <span class=\"lyric-quote-highlight\">“You're just what I needed / Boy, you want me to break your nose?”</span>. Violence is no accident, but a somatic mechanism discharging unbearable psychic friction. At the peak of the rave (<span class=\"lyric-quote-highlight\">“Waiting for the drop and the CO2 cannons / Cold smoke, tear myself free / And kick him in his Declan Rice jersey”</span>), musical climax and physical brutality merge into ecstasy.</p>",
+  "cards_de": [
     {
-      "line_index": 0,
-      "stanza": "[Intro]",
-      "line_text": "(Ich hass' das Amnesia)",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von '(Ich hass' das Amnesia)' im Kontext von [Intro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von '(Ich hass' das Amnesia)'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "(Ich hass' das Amnesia) / (Ich mach' das nie wieder) / Ah",
+      "body": "Die Passage in [Intro] verdichtet das psychodynamische Kernthema: Mit den Zeilen „(Ich hass' das Amnesia)“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 1,
-      "stanza": "[Intro]",
-      "line_text": "(Ich mach' das nie wieder)",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von '(Ich mach' das nie wieder)' im Kontext von [Intro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von '(Ich mach' das nie wieder)'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Diese EDM-Mucke hier drinne ist furchtbar, kurz ma' / Ich hass' diese Nacht und ich hass' ihr'n Geburtstag / Lächel gezwung'n, renne aufs Klo, um zu koksen und weil ich Durst hab' / Wasser mit Salz, bitterer Schleim in mei'm Hals / Mein Puls ist so schnell wie die Songs, sie brüllt mir ins Ohr und ich merke, sie lallt / Wieso kommt dieser Typ ihr so nah? Mann, ich hass' schon allein, wie er aussieht / Sie will nicht geh'n und ich schwör' dir, es wär mir nur recht, wеnn ich rausflieg', auf ihn / Sage diesеm Hurensohn: „Mach mal nicht auf Gangster / Junge, ich box' dich zurück nach England“ / Und es fängt an",
+      "body": "Die Passage in [Part 1] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Diese EDM-Mucke hier drinne ist furchtbar, kurz ma'“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 2,
-      "stanza": "[Intro]",
-      "line_text": "Ah",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ah' im Kontext von [Intro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ah'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Du kommst mir grade recht / Du kommst mir grade recht / Du kommst mir grade recht / Junge, willst du, dass ich dir die Nase brech'? / Du kommst mir grade recht / Du kommst mir grade recht / Du kommst mir grade recht / Junge (Willst du, dass ich dir die Nase brech'?)",
+      "body": "Die Passage in [Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Du kommst mir grade recht“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 3,
-      "stanza": "[Part 1]",
-      "line_text": "Diese EDM-Mucke hier drinne ist furchtbar, kurz ma'",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Diese EDM-Mucke hier drinne ist furchtbar, kurz ma'' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Diese EDM-Mucke hier drinne ist furchtbar, kurz ma''.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Der Secu ist so breit wie hoch / Hält mich, hält mich fest, währ'nd der mir weiter droht / Sonn'nbrand-Fresse hinter sein'n beiden Bros / Unter weiß-roten Pyramiden und Kaleidoskop / Sag' dem Secu: „Tranquilo, I go home“ / Warte auf den Drop und die CO2-Kanon'n / Kalter Rauch, reiß' mich los / Und tret' ihm in sein Declan-Rice-Trikot",
+      "body": "Die Passage in [Part 2] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Der Secu ist so breit wie hoch“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 4,
-      "stanza": "[Part 1]",
-      "line_text": "Ich hass' diese Nacht und ich hass' ihr'n Geburtstag",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich hass' diese Nacht und ich hass' ihr'n Geburtstag' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich hass' diese Nacht und ich hass' ihr'n Geburtstag'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Du kommst mir grade recht / Du kommst mir grade recht / Du kommst mir grade recht / Junge, willst du, dass ich dir die Nase brech'? / Du kommst mir grade recht / Du kommst mir grade recht / Du kommst mir grade recht / Junge (Willst du, dass ich dir die Nase brech'?)",
+      "body": "Die Passage in [Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Du kommst mir grade recht“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
+    }
+  ],
+  "cards_en": [
+    {
+      "quote": "(Ich hass' das Amnesia) / (Ich mach' das nie wieder) / Ah",
+      "body": "The passage in [Intro] encapsulates the central psychodynamic conflict: with the lines “(Ich hass' das Amnesia)”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 5,
-      "stanza": "[Part 1]",
-      "line_text": "Lächel gezwung'n, renne aufs Klo, um zu koksen und weil ich Durst hab'",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Lächel gezwung'n, renne aufs Klo, um zu koksen und weil ich Durst hab'' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Lächel gezwung'n, renne aufs Klo, um zu koksen und weil ich Durst hab''.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Diese EDM-Mucke hier drinne ist furchtbar, kurz ma' / Ich hass' diese Nacht und ich hass' ihr'n Geburtstag / Lächel gezwung'n, renne aufs Klo, um zu koksen und weil ich Durst hab' / Wasser mit Salz, bitterer Schleim in mei'm Hals / Mein Puls ist so schnell wie die Songs, sie brüllt mir ins Ohr und ich merke, sie lallt / Wieso kommt dieser Typ ihr so nah? Mann, ich hass' schon allein, wie er aussieht / Sie will nicht geh'n und ich schwör' dir, es wär mir nur recht, wеnn ich rausflieg', auf ihn / Sage diesеm Hurensohn: „Mach mal nicht auf Gangster / Junge, ich box' dich zurück nach England“ / Und es fängt an",
+      "body": "The passage in [Part 1] encapsulates the central psychodynamic conflict: with the lines “Diese EDM-Mucke hier drinne ist furchtbar, kurz ma'”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 6,
-      "stanza": "[Part 1]",
-      "line_text": "Wasser mit Salz, bitterer Schleim in mei'm Hals",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Wasser mit Salz, bitterer Schleim in mei'm Hals' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Wasser mit Salz, bitterer Schleim in mei'm Hals'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Du kommst mir grade recht / Du kommst mir grade recht / Du kommst mir grade recht / Junge, willst du, dass ich dir die Nase brech'? / Du kommst mir grade recht / Du kommst mir grade recht / Du kommst mir grade recht / Junge (Willst du, dass ich dir die Nase brech'?)",
+      "body": "The passage in [Hook] encapsulates the central psychodynamic conflict: with the lines “Du kommst mir grade recht”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 7,
-      "stanza": "[Part 1]",
-      "line_text": "Mein Puls ist so schnell wie die Songs, sie brüllt mir ins Ohr und ich merke, sie lallt",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Mein Puls ist so schnell wie die Songs, sie brüllt mir ins Ohr und ich merke, sie lallt' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Mein Puls ist so schnell wie die Songs, sie brüllt mir ins Ohr und ich merke, sie lallt'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Der Secu ist so breit wie hoch / Hält mich, hält mich fest, währ'nd der mir weiter droht / Sonn'nbrand-Fresse hinter sein'n beiden Bros / Unter weiß-roten Pyramiden und Kaleidoskop / Sag' dem Secu: „Tranquilo, I go home“ / Warte auf den Drop und die CO2-Kanon'n / Kalter Rauch, reiß' mich los / Und tret' ihm in sein Declan-Rice-Trikot",
+      "body": "The passage in [Part 2] encapsulates the central psychodynamic conflict: with the lines “Der Secu ist so breit wie hoch”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 8,
-      "stanza": "[Part 1]",
-      "line_text": "Wieso kommt dieser Typ ihr so nah? Mann, ich hass' schon allein, wie er aussieht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Wieso kommt dieser Typ ihr so nah? Mann, ich hass' schon allein, wie er aussieht' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Wieso kommt dieser Typ ihr so nah? Mann, ich hass' schon allein, wie er aussieht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Du kommst mir grade recht / Du kommst mir grade recht / Du kommst mir grade recht / Junge, willst du, dass ich dir die Nase brech'? / Du kommst mir grade recht / Du kommst mir grade recht / Du kommst mir grade recht / Junge (Willst du, dass ich dir die Nase brech'?)",
+      "body": "The passage in [Hook] encapsulates the central psychodynamic conflict: with the lines “Du kommst mir grade recht”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
+    }
+  ],
+  "stanzas": [
+    {
+      "title": "[Intro]",
+      "lines": [
+        {
+          "line_idx": 0,
+          "text": "(Ich hass' das Amnesia)",
+          "annotated": true,
+          "card_idx": 0
+        },
+        {
+          "line_idx": 1,
+          "text": "(Ich mach' das nie wieder)",
+          "annotated": true,
+          "card_idx": 0
+        },
+        {
+          "line_idx": 2,
+          "text": "Ah",
+          "annotated": true,
+          "card_idx": 0
+        }
+      ]
     },
     {
-      "line_index": 9,
-      "stanza": "[Part 1]",
-      "line_text": "Sie will nicht geh'n und ich schwör' dir, es wär mir nur recht, wеnn ich rausflieg', auf ihn",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Sie will nicht geh'n und ich schwör' dir, es wär mir nur recht, wеnn ich rausflieg', auf ihn' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sie will nicht geh'n und ich schwör' dir, es wär mir nur recht, wеnn ich rausflieg', auf ihn'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Part 1]",
+      "lines": [
+        {
+          "line_idx": 3,
+          "text": "Diese EDM-Mucke hier drinne ist furchtbar, kurz ma'",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 4,
+          "text": "Ich hass' diese Nacht und ich hass' ihr'n Geburtstag",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 5,
+          "text": "Lächel gezwung'n, renne aufs Klo, um zu koksen und weil ich Durst hab'",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 6,
+          "text": "Wasser mit Salz, bitterer Schleim in mei'm Hals",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 7,
+          "text": "Mein Puls ist so schnell wie die Songs, sie brüllt mir ins Ohr und ich merke, sie lallt",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 8,
+          "text": "Wieso kommt dieser Typ ihr so nah? Mann, ich hass' schon allein, wie er aussieht",
+          "annotated": true,
+          "card_idx": 0
+        },
+        {
+          "line_idx": 9,
+          "text": "Sie will nicht geh'n und ich schwör' dir, es wär mir nur recht, wеnn ich rausflieg', auf ihn",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 10,
+          "text": "Sage diesеm Hurensohn: „Mach mal nicht auf Gangster",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 11,
+          "text": "Junge, ich box' dich zurück nach England“",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 12,
+          "text": "Und es fängt an",
+          "annotated": true,
+          "card_idx": 1
+        }
+      ]
     },
     {
-      "line_index": 10,
-      "stanza": "[Part 1]",
-      "line_text": "Sage diesеm Hurensohn: „Mach mal nicht auf Gangster",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Sage diesеm Hurensohn: „Mach mal nicht auf Gangster' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sage diesеm Hurensohn: „Mach mal nicht auf Gangster'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Hook]",
+      "lines": [
+        {
+          "line_idx": 13,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 14,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 15,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 16,
+          "text": "Junge, willst du, dass ich dir die Nase brech'?",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 17,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 18,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 19,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 20,
+          "text": "Junge (Willst du, dass ich dir die Nase brech'?)",
+          "annotated": true,
+          "card_idx": 1
+        }
+      ]
     },
     {
-      "line_index": 11,
-      "stanza": "[Part 1]",
-      "line_text": "Junge, ich box' dich zurück nach England“",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Junge, ich box' dich zurück nach England“' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Junge, ich box' dich zurück nach England“'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Part 2]",
+      "lines": [
+        {
+          "line_idx": 21,
+          "text": "Der Secu ist so breit wie hoch",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 22,
+          "text": "Hält mich, hält mich fest, währ'nd der mir weiter droht",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 23,
+          "text": "Sonn'nbrand-Fresse hinter sein'n beiden Bros",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 24,
+          "text": "Unter weiß-roten Pyramiden und Kaleidoskop",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 25,
+          "text": "Sag' dem Secu: „Tranquilo, I go home“",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 26,
+          "text": "Warte auf den Drop und die CO2-Kanon'n",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 27,
+          "text": "Kalter Rauch, reiß' mich los",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 28,
+          "text": "Und tret' ihm in sein Declan-Rice-Trikot",
+          "annotated": true,
+          "card_idx": 3
+        }
+      ]
     },
     {
-      "line_index": 12,
-      "stanza": "[Part 1]",
-      "line_text": "Und es fängt an",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Und es fängt an' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Und es fängt an'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 13,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 14,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 15,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 16,
-      "stanza": "[Hook]",
-      "line_text": "Junge, willst du, dass ich dir die Nase brech'?",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Junge, willst du, dass ich dir die Nase brech'?' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Junge, willst du, dass ich dir die Nase brech'?'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 17,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 18,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 19,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 20,
-      "stanza": "[Hook]",
-      "line_text": "Junge (Willst du, dass ich dir die Nase brech'?)",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Junge (Willst du, dass ich dir die Nase brech'?)' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Junge (Willst du, dass ich dir die Nase brech'?)'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 21,
-      "stanza": "[Part 2]",
-      "line_text": "Der Secu ist so breit wie hoch",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Der Secu ist so breit wie hoch' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Der Secu ist so breit wie hoch'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 22,
-      "stanza": "[Part 2]",
-      "line_text": "Hält mich, hält mich fest, währ'nd der mir weiter droht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Hält mich, hält mich fest, währ'nd der mir weiter droht' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Hält mich, hält mich fest, währ'nd der mir weiter droht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 23,
-      "stanza": "[Part 2]",
-      "line_text": "Sonn'nbrand-Fresse hinter sein'n beiden Bros",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Sonn'nbrand-Fresse hinter sein'n beiden Bros' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sonn'nbrand-Fresse hinter sein'n beiden Bros'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 24,
-      "stanza": "[Part 2]",
-      "line_text": "Unter weiß-roten Pyramiden und Kaleidoskop",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Unter weiß-roten Pyramiden und Kaleidoskop' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Unter weiß-roten Pyramiden und Kaleidoskop'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 25,
-      "stanza": "[Part 2]",
-      "line_text": "Sag' dem Secu: „Tranquilo, I go home“",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Sag' dem Secu: „Tranquilo, I go home“' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sag' dem Secu: „Tranquilo, I go home“'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 26,
-      "stanza": "[Part 2]",
-      "line_text": "Warte auf den Drop und die CO2-Kanon'n",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Warte auf den Drop und die CO2-Kanon'n' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Warte auf den Drop und die CO2-Kanon'n'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 27,
-      "stanza": "[Part 2]",
-      "line_text": "Kalter Rauch, reiß' mich los",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Kalter Rauch, reiß' mich los' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Kalter Rauch, reiß' mich los'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 28,
-      "stanza": "[Part 2]",
-      "line_text": "Und tret' ihm in sein Declan-Rice-Trikot",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Und tret' ihm in sein Declan-Rice-Trikot' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Und tret' ihm in sein Declan-Rice-Trikot'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 29,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 30,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 31,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 32,
-      "stanza": "[Hook]",
-      "line_text": "Junge, willst du, dass ich dir die Nase brech'?",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Junge, willst du, dass ich dir die Nase brech'?' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Junge, willst du, dass ich dir die Nase brech'?'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 33,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 34,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 35,
-      "stanza": "[Hook]",
-      "line_text": "Du kommst mir grade recht",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Du kommst mir grade recht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Du kommst mir grade recht'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 36,
-      "stanza": "[Hook]",
-      "line_text": "Junge (Willst du, dass ich dir die Nase brech'?)",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Junge (Willst du, dass ich dir die Nase brech'?)' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Junge (Willst du, dass ich dir die Nase brech'?)'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Hook]",
+      "lines": [
+        {
+          "line_idx": 29,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 30,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 31,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 32,
+          "text": "Junge, willst du, dass ich dir die Nase brech'?",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 33,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 34,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 35,
+          "text": "Du kommst mir grade recht",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 36,
+          "text": "Junge (Willst du, dass ich dir die Nase brech'?)",
+          "annotated": true,
+          "card_idx": 1
+        }
+      ]
     }
   ]
 }

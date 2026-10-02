@@ -1,226 +1,247 @@
 {
   "track_num": "04",
   "track_title": "Dachterrasse",
-  "theme": "Vertigo & die Phobie vor der Erdung",
-  "review_de": "<p><strong>„Dachterrasse“</strong> ist das klangliche Äquivalent eines Schwindelanfalls auf 50 Metern Höhe. Der Protagonist blickt vom Dach eines Luxusgebäudes auf das nächtliche Lichtermeer herab – isoliert, betäubt und unfähig zur Erdung.</p>\n<p>Die Zeilen <span class=\"lyric-quote-highlight\">„Du sagst, ich soll runterkommen, doch ich kann nicht / Weil mich da unten die Einsamkeit auffrisst“</span> demaskieren den Höhenrausch als reine Panik vor der alltäglichen Normalität. Auf der Höhe herrscht Kälte, doch der Abstieg bedeutet die unausweichliche Konfrontation mit der eigenen emotionalen Verwahrlosung.</p>",
-  "review_en": "<p><strong>“Dachterrasse”</strong> (Rooftop) is the acoustic equivalent of vertigo at fifty meters elevation. The protagonist looks down upon the shimmering nocturnal grid—detached, anesthetized, and incapable of descending to sea level.</p>\n<p>The plea <span class=\"lyric-quote-highlight\">“You tell me to come down, but I can't / Because down there, loneliness devours me”</span> exposes the altitude addiction as pure terror of domestic reality. The summit is freezing, yet the descent implies immediate confrontation with emotional bankruptcy.</p>",
-  "total_lines": 24,
-  "lines": [
+  "review_de": "<p>In <strong>„Dachterrasse“</strong> kippt der Rausch in die bleierne Kälte der Morgendämmerung. Vom Dach einer Luxusresidenz blickt der Protagonist auf die schlafenden Hotelburgen herab – isoliert in der Illusion, <span class=\"lyric-quote-highlight\">„allem überlegen“</span> zu sein. Doch im Pre-Hook bricht das fundamentale Kindheitstrauma ungefiltert durch: <span class=\"lyric-quote-highlight\">„Bis keiner mehr da ist, so wie damals meine Mutter / Glorreich, glorreich geh'n wir unter“</span>. Der narzisstische Höhenflug wird als desperate Bewältigung frühkindlicher Verlassenheit demaskiert.</p>\n<p>Der zweite Vers formuliert die absolute Abwehr von Intimität: <span class=\"lyric-quote-highlight\">„Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst / Diese Existenz ist nicht mehr als ein One-Night-Stand“</span>. Das Mantra des Refrains – <span class=\"lyric-quote-highlight\">„Man muss aufhör'n, wenn's am besten ist / Denn mit der Zeit wird alles lächerlich“</span> – ist kein Zeichen von Vernunft, sondern die panische Flucht vor dem Moment, in dem die Maske verrutscht und die eigene Bedürftigkeit sichtbar wird.</p>",
+  "review_en": "<p>In <strong>“Dachterrasse”</strong> (Rooftop), nocturnal ecstasy crashes into the leaden dawn. Suspended above sleeping hotel monoliths, the protagonist clings to the delusion of being <span class=\"lyric-quote-highlight\">“superior to everything”</span>. Yet in the pre-hook, primary maternal abandonment erupts without defense: <span class=\"lyric-quote-highlight\">“Until no one is left, just like my mother back then / Gloriously, gloriously we go down”</span>. Manic altitude is unmasked as an emergency response to foundational neglect.</p>\n<p>The second verse articulates the absolute rejection of intimacy: <span class=\"lyric-quote-highlight\">“If you knew what I think, I don't want you to know me / This existence is nothing more than a one-night stand”</span>. The recurring hook—<span class=\"lyric-quote-highlight\">“You have to stop when it's best / Because in time everything turns ridiculous”</span>—is not wisdom, but the phobic compulsion to exit before the mask slips and dependency is exposed.</p>",
+  "cards_de": [
     {
-      "line_index": 0,
-      "stanza": "[Part 1]",
-      "line_text": "Das erste Licht über den Bergen, langsam wird es hell",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Das erste Licht über den Bergen, langsam wird es hell' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Das erste Licht über den Bergen, langsam wird es hell'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Das erste Licht über den Bergen, langsam wird es hell / Häuser steh'n weiß, Häuser liegen bleich unter Scheinwerfern in Gelb / Hotelburgen schlafen, Stille überm Hafen / Die Superjacht träumt, sie pennt ein und wacht auf in eintausend Jahren",
+      "body": "Die Passage in [Part 1] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Das erste Licht über den Bergen, langsam wird es hell“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 1,
-      "stanza": "[Part 1]",
-      "line_text": "Häuser steh'n weiß, Häuser liegen bleich unter Scheinwerfern in Gelb",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Häuser steh'n weiß, Häuser liegen bleich unter Scheinwerfern in Gelb' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Häuser steh'n weiß, Häuser liegen bleich unter Scheinwerfern in Gelb'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Auf der Dachterrasse weit oben, allem überlegen / Zweiter Joint, sie ist immer noch wach, aber nicht mehr anwesend / Bis keiner mehr da ist, so wie damals meine Mutter / Glorreich, glorreich geh'n wir unter",
+      "body": "Die Passage in [Pre-Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Auf der Dachterrasse weit oben, allem überlegen“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 2,
-      "stanza": "[Part 1]",
-      "line_text": "Hotelburgen schlafen, Stille überm Hafen",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Hotelburgen schlafen, Stille überm Hafen' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Hotelburgen schlafen, Stille überm Hafen'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Man muss aufhör'n, wenn's am besten ist / Aufhör'n, wenn's am besten ist / Man muss aufhör'n, wenn's am besten ist",
+      "body": "Die Passage in [Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Man muss aufhör'n, wenn's am besten ist“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 3,
-      "stanza": "[Part 1]",
-      "line_text": "Die Superjacht träumt, sie pennt ein und wacht auf in eintausend Jahren",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Die Superjacht träumt, sie pennt ein und wacht auf in eintausend Jahren' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Die Superjacht träumt, sie pennt ein und wacht auf in eintausend Jahren'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst / Ich will Sonne, die mich blendet, Sommer, der nie endet, nur die Exzellenz / Greif' in jedes Fenster, nehme mir, was glänzt / Diese Existenz ist nicht mehr als ein One-Night-Stand",
+      "body": "Die Passage in [Part 2] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 4,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Auf der Dachterrasse weit oben, allem überlegen",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Auf der Dachterrasse weit oben, allem überlegen' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Auf der Dachterrasse weit oben, allem überlegen'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Auf der Dachterrasse weit oben, allem überlegen / Dritter Joint, sie ist immer noch wach, aber nicht mehr anwesend / Bis keiner mehr da ist, so wie damals meine Mutter / Glorreich, glorreich geh'n wir unter",
+      "body": "Die Passage in [Pre-Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Auf der Dachterrasse weit oben, allem überlegen“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 5,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Zweiter Joint, sie ist immer noch wach, aber nicht mehr anwesend",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Zweiter Joint, sie ist immer noch wach, aber nicht mehr anwesend' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Zweiter Joint, sie ist immer noch wach, aber nicht mehr anwesend'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Man muss aufhör'n, wenn's am besten ist / Aufhör'n, wenn's am besten ist / Man muss aufhör'n, wenn's am besten ist",
+      "body": "Die Passage in [Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Man muss aufhör'n, wenn's am besten ist“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 6,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Bis keiner mehr da ist, so wie damals meine Mutter",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Bis keiner mehr da ist, so wie damals meine Mutter' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Bis keiner mehr da ist, so wie damals meine Mutter'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Man muss aufhör'n, wenn's am besten ist / Denn mit der Zeit wird alles lächerlich",
+      "body": "Die Passage in [Outro] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Man muss aufhör'n, wenn's am besten ist“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
+    }
+  ],
+  "cards_en": [
+    {
+      "quote": "Das erste Licht über den Bergen, langsam wird es hell / Häuser steh'n weiß, Häuser liegen bleich unter Scheinwerfern in Gelb / Hotelburgen schlafen, Stille überm Hafen / Die Superjacht träumt, sie pennt ein und wacht auf in eintausend Jahren",
+      "body": "The passage in [Part 1] encapsulates the central psychodynamic conflict: with the lines “Das erste Licht über den Bergen, langsam wird es hell”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 7,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Glorreich, glorreich geh'n wir unter",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Glorreich, glorreich geh'n wir unter' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Glorreich, glorreich geh'n wir unter'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Auf der Dachterrasse weit oben, allem überlegen / Zweiter Joint, sie ist immer noch wach, aber nicht mehr anwesend / Bis keiner mehr da ist, so wie damals meine Mutter / Glorreich, glorreich geh'n wir unter",
+      "body": "The passage in [Pre-Hook] encapsulates the central psychodynamic conflict: with the lines “Auf der Dachterrasse weit oben, allem überlegen”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 8,
-      "stanza": "[Hook]",
-      "line_text": "Man muss aufhör'n, wenn's am besten ist",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Man muss aufhör'n, wenn's am besten ist' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Man muss aufhör'n, wenn's am besten ist'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Man muss aufhör'n, wenn's am besten ist / Aufhör'n, wenn's am besten ist / Man muss aufhör'n, wenn's am besten ist",
+      "body": "The passage in [Hook] encapsulates the central psychodynamic conflict: with the lines “Man muss aufhör'n, wenn's am besten ist”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 9,
-      "stanza": "[Hook]",
-      "line_text": "Aufhör'n, wenn's am besten ist",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Aufhör'n, wenn's am besten ist' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Aufhör'n, wenn's am besten ist'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst / Ich will Sonne, die mich blendet, Sommer, der nie endet, nur die Exzellenz / Greif' in jedes Fenster, nehme mir, was glänzt / Diese Existenz ist nicht mehr als ein One-Night-Stand",
+      "body": "The passage in [Part 2] encapsulates the central psychodynamic conflict: with the lines “Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 10,
-      "stanza": "[Hook]",
-      "line_text": "Man muss aufhör'n, wenn's am besten ist",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Man muss aufhör'n, wenn's am besten ist' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Man muss aufhör'n, wenn's am besten ist'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Auf der Dachterrasse weit oben, allem überlegen / Dritter Joint, sie ist immer noch wach, aber nicht mehr anwesend / Bis keiner mehr da ist, so wie damals meine Mutter / Glorreich, glorreich geh'n wir unter",
+      "body": "The passage in [Pre-Hook] encapsulates the central psychodynamic conflict: with the lines “Auf der Dachterrasse weit oben, allem überlegen”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 11,
-      "stanza": "[Part 2]",
-      "line_text": "Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Man muss aufhör'n, wenn's am besten ist / Aufhör'n, wenn's am besten ist / Man muss aufhör'n, wenn's am besten ist",
+      "body": "The passage in [Hook] encapsulates the central psychodynamic conflict: with the lines “Man muss aufhör'n, wenn's am besten ist”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 12,
-      "stanza": "[Part 2]",
-      "line_text": "Ich will Sonne, die mich blendet, Sommer, der nie endet, nur die Exzellenz",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich will Sonne, die mich blendet, Sommer, der nie endet, nur die Exzellenz' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich will Sonne, die mich blendet, Sommer, der nie endet, nur die Exzellenz'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Man muss aufhör'n, wenn's am besten ist / Denn mit der Zeit wird alles lächerlich",
+      "body": "The passage in [Outro] encapsulates the central psychodynamic conflict: with the lines “Man muss aufhör'n, wenn's am besten ist”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
+    }
+  ],
+  "stanzas": [
+    {
+      "title": "[Part 1]",
+      "lines": [
+        {
+          "line_idx": 0,
+          "text": "Das erste Licht über den Bergen, langsam wird es hell",
+          "annotated": true,
+          "card_idx": 0
+        },
+        {
+          "line_idx": 1,
+          "text": "Häuser steh'n weiß, Häuser liegen bleich unter Scheinwerfern in Gelb",
+          "annotated": true,
+          "card_idx": 0
+        },
+        {
+          "line_idx": 2,
+          "text": "Hotelburgen schlafen, Stille überm Hafen",
+          "annotated": true,
+          "card_idx": 0
+        },
+        {
+          "line_idx": 3,
+          "text": "Die Superjacht träumt, sie pennt ein und wacht auf in eintausend Jahren",
+          "annotated": true,
+          "card_idx": 0
+        }
+      ]
     },
     {
-      "line_index": 13,
-      "stanza": "[Part 2]",
-      "line_text": "Greif' in jedes Fenster, nehme mir, was glänzt",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Greif' in jedes Fenster, nehme mir, was glänzt' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Greif' in jedes Fenster, nehme mir, was glänzt'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Pre-Hook]",
+      "lines": [
+        {
+          "line_idx": 4,
+          "text": "Auf der Dachterrasse weit oben, allem überlegen",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 5,
+          "text": "Zweiter Joint, sie ist immer noch wach, aber nicht mehr anwesend",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 6,
+          "text": "Bis keiner mehr da ist, so wie damals meine Mutter",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 7,
+          "text": "Glorreich, glorreich geh'n wir unter",
+          "annotated": true,
+          "card_idx": 1
+        }
+      ]
     },
     {
-      "line_index": 14,
-      "stanza": "[Part 2]",
-      "line_text": "Diese Existenz ist nicht mehr als ein One-Night-Stand",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Diese Existenz ist nicht mehr als ein One-Night-Stand' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Diese Existenz ist nicht mehr als ein One-Night-Stand'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Hook]",
+      "lines": [
+        {
+          "line_idx": 8,
+          "text": "Man muss aufhör'n, wenn's am besten ist",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 9,
+          "text": "Aufhör'n, wenn's am besten ist",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 10,
+          "text": "Man muss aufhör'n, wenn's am besten ist",
+          "annotated": true,
+          "card_idx": 2
+        }
+      ]
     },
     {
-      "line_index": 15,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Auf der Dachterrasse weit oben, allem überlegen",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Auf der Dachterrasse weit oben, allem überlegen' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Auf der Dachterrasse weit oben, allem überlegen'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Part 2]",
+      "lines": [
+        {
+          "line_idx": 11,
+          "text": "Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 12,
+          "text": "Ich will Sonne, die mich blendet, Sommer, der nie endet, nur die Exzellenz",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 13,
+          "text": "Greif' in jedes Fenster, nehme mir, was glänzt",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 14,
+          "text": "Diese Existenz ist nicht mehr als ein One-Night-Stand",
+          "annotated": true,
+          "card_idx": 3
+        }
+      ]
     },
     {
-      "line_index": 16,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Dritter Joint, sie ist immer noch wach, aber nicht mehr anwesend",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Dritter Joint, sie ist immer noch wach, aber nicht mehr anwesend' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Dritter Joint, sie ist immer noch wach, aber nicht mehr anwesend'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Pre-Hook]",
+      "lines": [
+        {
+          "line_idx": 15,
+          "text": "Auf der Dachterrasse weit oben, allem überlegen",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 16,
+          "text": "Dritter Joint, sie ist immer noch wach, aber nicht mehr anwesend",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 17,
+          "text": "Bis keiner mehr da ist, so wie damals meine Mutter",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 18,
+          "text": "Glorreich, glorreich geh'n wir unter",
+          "annotated": true,
+          "card_idx": 1
+        }
+      ]
     },
     {
-      "line_index": 17,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Bis keiner mehr da ist, so wie damals meine Mutter",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Bis keiner mehr da ist, so wie damals meine Mutter' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Bis keiner mehr da ist, so wie damals meine Mutter'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Hook]",
+      "lines": [
+        {
+          "line_idx": 19,
+          "text": "Man muss aufhör'n, wenn's am besten ist",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 20,
+          "text": "Aufhör'n, wenn's am besten ist",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 21,
+          "text": "Man muss aufhör'n, wenn's am besten ist",
+          "annotated": true,
+          "card_idx": 2
+        }
+      ]
     },
     {
-      "line_index": 18,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Glorreich, glorreich geh'n wir unter",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Glorreich, glorreich geh'n wir unter' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Glorreich, glorreich geh'n wir unter'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 19,
-      "stanza": "[Hook]",
-      "line_text": "Man muss aufhör'n, wenn's am besten ist",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Man muss aufhör'n, wenn's am besten ist' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Man muss aufhör'n, wenn's am besten ist'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 20,
-      "stanza": "[Hook]",
-      "line_text": "Aufhör'n, wenn's am besten ist",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Aufhör'n, wenn's am besten ist' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Aufhör'n, wenn's am besten ist'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 21,
-      "stanza": "[Hook]",
-      "line_text": "Man muss aufhör'n, wenn's am besten ist",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Man muss aufhör'n, wenn's am besten ist' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Man muss aufhör'n, wenn's am besten ist'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 22,
-      "stanza": "[Outro]",
-      "line_text": "Man muss aufhör'n, wenn's am besten ist",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Man muss aufhör'n, wenn's am besten ist' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Man muss aufhör'n, wenn's am besten ist'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 23,
-      "stanza": "[Outro]",
-      "line_text": "Denn mit der Zeit wird alles lächerlich",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Denn mit der Zeit wird alles lächerlich' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Denn mit der Zeit wird alles lächerlich'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Outro]",
+      "lines": [
+        {
+          "line_idx": 22,
+          "text": "Man muss aufhör'n, wenn's am besten ist",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 23,
+          "text": "Denn mit der Zeit wird alles lächerlich",
+          "annotated": true,
+          "card_idx": 0
+        }
+      ]
     }
   ]
 }

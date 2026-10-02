@@ -1,451 +1,410 @@
 {
   "track_num": "03",
   "track_title": "GluiV",
-  "theme": "Status-Exoskelett & prädatorische Intimität",
-  "review_de": "<p><strong>„GluiV“</strong> dekonstruiert die Inszenierungsmechanismen des modernen Rap-Materialismus. Hinter der phonetischen Formel <span class=\"lyric-quote-highlight\">„G, Louis V, Bauchtasche, Kokain“</span> verbirgt sich kein plumper Statushunger, sondern eine rigide Rüstung aus Markensymbolen und chemischer Betäubung.</p>\n<p>Die Beziehungsdynamik schlägt hier unverhohlen in offene Prädation um: <span class=\"lyric-quote-highlight\">„Du willst mich seh'n, aber ich bin nicht zu Hause / Ich bin auf der Jagd und du bist meine Beute“</span>. Tua zeichnet das Bild eines emotionalen Vampirismus, der im ständigen <span class=\"lyric-quote-highlight\">„Schritt vor und drei zurück“</span> Nähe verspricht, nur um sie im Moment der Auslieferung grausam zu verweigern.</p>",
-  "review_en": "<p><strong>“GluiV”</strong> deconstructs the staging mechanisms of contemporary rap materialism. Behind the phonetic shorthand <span class=\"lyric-quote-highlight\">“G, Louis V, waist bag, cocaine”</span> lies no simple luxury worship, but a rigid psychological armor forged from luxury markers and chemical insulation.</p>\n<p>Relational dynamics mutate openly into predation: <span class=\"lyric-quote-highlight\">“You want to see me, but I'm not at home / I am on the hunt and you are my prey”</span>. Tua portrays an emotional vampirism that perpetually executes <span class=\"lyric-quote-highlight\">“one step forward and three steps back”</span>—luring the partner with the promise of intimacy only to revoke it upon surrender.</p>",
-  "total_lines": 49,
-  "lines": [
+  "review_de": "<p><strong>„GluiV“</strong> seziert die vulgäre Oberfläche des Jetset-Materialismus und transformiert Markensymbole in ein psychologisches Exoskelett. Die repetitive Stakkato-Hook <span class=\"lyric-quote-highlight\">„G, Louis V, Bauchtasche, Kokain, ich fick' alle“</span> ist kein naiver Flex, sondern die krampfhafte Beschwörung unverwundbarer Allmacht. Der Protagonist definiert sich über kinetische Rastlosigkeit und chemische Zufuhr (<span class=\"lyric-quote-highlight\">„Immer in Bewegung, immer im Dienst / Vitamin Zieh“</span>), um jedes Innehalten zu verhindern.</p>\n<p>Die Szenerie im <span class=\"lyric-quote-highlight\">„Leihparadies“</span> zwischen Marmorfliesen und Designer-Badeanzügen entlarvt die Austauschbarkeit der Akteure. Hinter der Prahlerei bricht im Pre-Hook die nackte Kränkung durch: <span class=\"lyric-quote-highlight\">„Ich bin nicht ihr Typ / Nur der Typ, der den Stoff bringt, glaubt sie“</span>. Die glamouröse Fassade scheitert daran, die fundamentale Entfremdung zu überdecken – das Subjekt bleibt der bloße Dienstleister der Betäubung.</p>",
+  "review_en": "<p><strong>“GluiV”</strong> dissects the vulgar veneer of jet-set materialism, forging luxury markers into a rigid psychological exoskeleton. The pounding staccato hook <span class=\"lyric-quote-highlight\">“G, Louis V, waist bag, cocaine, I fuck everyone”</span> is no naive boast, but the frantic incantation of invulnerable omnipotence. The protagonist anchors himself in perpetual motion and chemical maintenance (<span class=\"lyric-quote-highlight\">“Always moving, always on duty / Vitamin Zieh”</span>) to ward off introspective stillness.</p>\n<p>The rented villa tableau of marble floors and designer swimwear exposes the total interchangeability of the actors. Yet beneath the aggressive grandiosity, the pre-hook reveals core vulnerability: <span class=\"lyric-quote-highlight\">“I'm not her type / Just the guy who brings the gear, she thinks”</span>. The luxury facade fractures against reality: the speaker is reduced to a disposable purveyor of chemical fuel.</p>",
+  "cards_de": [
     {
-      "line_index": 0,
-      "stanza": "[Intro]",
-      "line_text": "Ego FM Ibiza",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ego FM Ibiza' im Kontext von [Intro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ego FM Ibiza'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Ego FM Ibiza / Only the big stories, only the big tunes / Trayéndote el fuego",
+      "body": "Die Passage in [Intro] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Ego FM Ibiza“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 1,
-      "stanza": "[Intro]",
-      "line_text": "Only the big stories, only the big tunes",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Only the big stories, only the big tunes' im Kontext von [Intro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Only the big stories, only the big tunes'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V (Ah)",
+      "body": "Die Passage in [Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „G, Louis V, Bauchtasche, Kokain, ich fick' alle“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 2,
-      "stanza": "[Intro]",
-      "line_text": "Trayéndote el fuego",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Trayéndote el fuego' im Kontext von [Intro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Trayéndote el fuego'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Immer in Bewegung, immer im Dienst / Vitamin Zieh / Die Schönsten wollen das Biest / Vitamin Zieh / Für das hungrige Mädchen in Low-Waist-Jeans / Ibiza Hadid / Die zickig aussieht im geleasten Jeep / Ich bin verliebt",
+      "body": "Die Passage in [Part 1] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Immer in Bewegung, immer im Dienst“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 3,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Sonne im Zenit, ballert den Kopf weg / Pool türkis wie bei David Hockney / Versuch's subtil, damit ich kein'n Korb krieg' / Und trotzdem, denn ich bin nicht ihr Typ / Nur der Typ, der den Stoff bringt, glaubt sie, ah",
+      "body": "Die Passage in [Pre-Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Sonne im Zenit, ballert den Kopf weg“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 4,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / Ich fick' alle / Ich fick' alle / Ich fick' alle",
+      "body": "Die Passage in [Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Bauchtasche, Kokain, ich fick' alle“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 5,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Marmorfliesen im Airbnb / Ihr Leihparadies / Riecht nach OP Summer Breeze / Sie ist im One Piece / Indigoblau, Tropic of C / Alkohol fließt / Ihre mollige Freundin findet mich mies / Und ich seh', sie sieht's",
+      "body": "Die Passage in [Part 2] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Marmorfliesen im Airbnb“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 6,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V (Ah)",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V (Ah)' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V (Ah)'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Sonne im Zenit, ballert den Kopf weg / Pool türkis wie bei David Hockney / Bluetoothbox spielt Britney – „Toxic“ / Hot Take, ich bin nicht ihr Typ, doch in letzter Zeit oft hier / Schau, schau (Ah)",
+      "body": "Die Passage in [Pre-Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Sonne im Zenit, ballert den Kopf weg“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
     },
     {
-      "line_index": 7,
-      "stanza": "[Part 1]",
-      "line_text": "Immer in Bewegung, immer im Dienst",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Immer in Bewegung, immer im Dienst' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Immer in Bewegung, immer im Dienst'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, G, Louis V, G, Louis V / G, Louis V, G, Louis V / G, Louis V, G, Louis V",
+      "body": "Die Passage in [Hook] verdichtet das psychodynamische Kernthema: Mit den Zeilen „Bauchtasche, Kokain, ich fick' alle“ inszeniert das Ich seine typische Abwehrhaltung. \n\nDie Phonation und die rhythmische Härte unterstreichen den Zwang, die Szenerie vollständig zu kontrollieren. Somatisch äußert sich dies in erhöhter Muskelspannung, flacher Atmung und gezielter Affektverflachung gegenüber dem Gegenüber.\n\nKlanglich erzeugen die treibenden Frequenzen ein Gefühl der Rastlosigkeit, das jedes echte Innehalten und emotionale Resonanz verunmöglicht."
+    }
+  ],
+  "cards_en": [
+    {
+      "quote": "Ego FM Ibiza / Only the big stories, only the big tunes / Trayéndote el fuego",
+      "body": "The passage in [Intro] encapsulates the central psychodynamic conflict: with the lines “Ego FM Ibiza”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 8,
-      "stanza": "[Part 1]",
-      "line_text": "Vitamin Zieh",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Vitamin Zieh' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Vitamin Zieh'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V (Ah)",
+      "body": "The passage in [Hook] encapsulates the central psychodynamic conflict: with the lines “G, Louis V, Bauchtasche, Kokain, ich fick' alle”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 9,
-      "stanza": "[Part 1]",
-      "line_text": "Die Schönsten wollen das Biest",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Die Schönsten wollen das Biest' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Die Schönsten wollen das Biest'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Immer in Bewegung, immer im Dienst / Vitamin Zieh / Die Schönsten wollen das Biest / Vitamin Zieh / Für das hungrige Mädchen in Low-Waist-Jeans / Ibiza Hadid / Die zickig aussieht im geleasten Jeep / Ich bin verliebt",
+      "body": "The passage in [Part 1] encapsulates the central psychodynamic conflict: with the lines “Immer in Bewegung, immer im Dienst”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 10,
-      "stanza": "[Part 1]",
-      "line_text": "Vitamin Zieh",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Vitamin Zieh' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Vitamin Zieh'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Sonne im Zenit, ballert den Kopf weg / Pool türkis wie bei David Hockney / Versuch's subtil, damit ich kein'n Korb krieg' / Und trotzdem, denn ich bin nicht ihr Typ / Nur der Typ, der den Stoff bringt, glaubt sie, ah",
+      "body": "The passage in [Pre-Hook] encapsulates the central psychodynamic conflict: with the lines “Sonne im Zenit, ballert den Kopf weg”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 11,
-      "stanza": "[Part 1]",
-      "line_text": "Für das hungrige Mädchen in Low-Waist-Jeans",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Für das hungrige Mädchen in Low-Waist-Jeans' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Für das hungrige Mädchen in Low-Waist-Jeans'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / Ich fick' alle / Ich fick' alle / Ich fick' alle",
+      "body": "The passage in [Hook] encapsulates the central psychodynamic conflict: with the lines “Bauchtasche, Kokain, ich fick' alle”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 12,
-      "stanza": "[Part 1]",
-      "line_text": "Ibiza Hadid",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ibiza Hadid' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ibiza Hadid'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Marmorfliesen im Airbnb / Ihr Leihparadies / Riecht nach OP Summer Breeze / Sie ist im One Piece / Indigoblau, Tropic of C / Alkohol fließt / Ihre mollige Freundin findet mich mies / Und ich seh', sie sieht's",
+      "body": "The passage in [Part 2] encapsulates the central psychodynamic conflict: with the lines “Marmorfliesen im Airbnb”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 13,
-      "stanza": "[Part 1]",
-      "line_text": "Die zickig aussieht im geleasten Jeep",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Die zickig aussieht im geleasten Jeep' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Die zickig aussieht im geleasten Jeep'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Sonne im Zenit, ballert den Kopf weg / Pool türkis wie bei David Hockney / Bluetoothbox spielt Britney – „Toxic“ / Hot Take, ich bin nicht ihr Typ, doch in letzter Zeit oft hier / Schau, schau (Ah)",
+      "body": "The passage in [Pre-Hook] encapsulates the central psychodynamic conflict: with the lines “Sonne im Zenit, ballert den Kopf weg”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
     },
     {
-      "line_index": 14,
-      "stanza": "[Part 1]",
-      "line_text": "Ich bin verliebt",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich bin verliebt' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich bin verliebt'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "quote": "Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, G, Louis V, G, Louis V / G, Louis V, G, Louis V / G, Louis V, G, Louis V",
+      "body": "The passage in [Hook] encapsulates the central psychodynamic conflict: with the lines “Bauchtasche, Kokain, ich fick' alle”, the persona mounts its characteristic defense.\n\nVocal delivery and rhythmic firmness underscore the compulsion to dominate the scene. Somatically, this manifests in elevated muscle tone, shallow respiration, and deliberate affective detachment.\n\nAcoustically, driving frequencies induce relentless forward momentum, preventing genuine introspective stillness."
+    }
+  ],
+  "stanzas": [
+    {
+      "title": "[Intro]",
+      "lines": [
+        {
+          "line_idx": 0,
+          "text": "Ego FM Ibiza",
+          "annotated": true,
+          "card_idx": 0
+        },
+        {
+          "line_idx": 1,
+          "text": "Only the big stories, only the big tunes",
+          "annotated": true,
+          "card_idx": 0
+        },
+        {
+          "line_idx": 2,
+          "text": "Trayéndote el fuego",
+          "annotated": true,
+          "card_idx": 0
+        }
+      ]
     },
     {
-      "line_index": 15,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Sonne im Zenit, ballert den Kopf weg",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Sonne im Zenit, ballert den Kopf weg' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sonne im Zenit, ballert den Kopf weg'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Hook]",
+      "lines": [
+        {
+          "line_idx": 3,
+          "text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 4,
+          "text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 5,
+          "text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 6,
+          "text": "G, Louis V (Ah)",
+          "annotated": true,
+          "card_idx": 1
+        }
+      ]
     },
     {
-      "line_index": 16,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Pool türkis wie bei David Hockney",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Pool türkis wie bei David Hockney' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Pool türkis wie bei David Hockney'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Part 1]",
+      "lines": [
+        {
+          "line_idx": 7,
+          "text": "Immer in Bewegung, immer im Dienst",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 8,
+          "text": "Vitamin Zieh",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 9,
+          "text": "Die Schönsten wollen das Biest",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 10,
+          "text": "Vitamin Zieh",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 11,
+          "text": "Für das hungrige Mädchen in Low-Waist-Jeans",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 12,
+          "text": "Ibiza Hadid",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 13,
+          "text": "Die zickig aussieht im geleasten Jeep",
+          "annotated": true,
+          "card_idx": 2
+        },
+        {
+          "line_idx": 14,
+          "text": "Ich bin verliebt",
+          "annotated": true,
+          "card_idx": 2
+        }
+      ]
     },
     {
-      "line_index": 17,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Versuch's subtil, damit ich kein'n Korb krieg'",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Versuch's subtil, damit ich kein'n Korb krieg'' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Versuch's subtil, damit ich kein'n Korb krieg''.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Pre-Hook]",
+      "lines": [
+        {
+          "line_idx": 15,
+          "text": "Sonne im Zenit, ballert den Kopf weg",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 16,
+          "text": "Pool türkis wie bei David Hockney",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 17,
+          "text": "Versuch's subtil, damit ich kein'n Korb krieg'",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 18,
+          "text": "Und trotzdem, denn ich bin nicht ihr Typ",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 19,
+          "text": "Nur der Typ, der den Stoff bringt, glaubt sie, ah",
+          "annotated": true,
+          "card_idx": 3
+        }
+      ]
     },
     {
-      "line_index": 18,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Und trotzdem, denn ich bin nicht ihr Typ",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Und trotzdem, denn ich bin nicht ihr Typ' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Und trotzdem, denn ich bin nicht ihr Typ'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Hook]",
+      "lines": [
+        {
+          "line_idx": 20,
+          "text": "Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 21,
+          "text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 22,
+          "text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 23,
+          "text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 24,
+          "text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 25,
+          "text": "Ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 26,
+          "text": "Ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 27,
+          "text": "Ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        }
+      ]
     },
     {
-      "line_index": 19,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Nur der Typ, der den Stoff bringt, glaubt sie, ah",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Nur der Typ, der den Stoff bringt, glaubt sie, ah' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Nur der Typ, der den Stoff bringt, glaubt sie, ah'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Part 2]",
+      "lines": [
+        {
+          "line_idx": 28,
+          "text": "Marmorfliesen im Airbnb",
+          "annotated": true,
+          "card_idx": 5
+        },
+        {
+          "line_idx": 29,
+          "text": "Ihr Leihparadies",
+          "annotated": true,
+          "card_idx": 5
+        },
+        {
+          "line_idx": 30,
+          "text": "Riecht nach OP Summer Breeze",
+          "annotated": true,
+          "card_idx": 5
+        },
+        {
+          "line_idx": 31,
+          "text": "Sie ist im One Piece",
+          "annotated": true,
+          "card_idx": 5
+        },
+        {
+          "line_idx": 32,
+          "text": "Indigoblau, Tropic of C",
+          "annotated": true,
+          "card_idx": 5
+        },
+        {
+          "line_idx": 33,
+          "text": "Alkohol fließt",
+          "annotated": true,
+          "card_idx": 5
+        },
+        {
+          "line_idx": 34,
+          "text": "Ihre mollige Freundin findet mich mies",
+          "annotated": true,
+          "card_idx": 5
+        },
+        {
+          "line_idx": 35,
+          "text": "Und ich seh', sie sieht's",
+          "annotated": true,
+          "card_idx": 5
+        }
+      ]
     },
     {
-      "line_index": 20,
-      "stanza": "[Hook]",
-      "line_text": "Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Pre-Hook]",
+      "lines": [
+        {
+          "line_idx": 36,
+          "text": "Sonne im Zenit, ballert den Kopf weg",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 37,
+          "text": "Pool türkis wie bei David Hockney",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 38,
+          "text": "Bluetoothbox spielt Britney – „Toxic“",
+          "annotated": true,
+          "card_idx": 6
+        },
+        {
+          "line_idx": 39,
+          "text": "Hot Take, ich bin nicht ihr Typ, doch in letzter Zeit oft hier",
+          "annotated": true,
+          "card_idx": 3
+        },
+        {
+          "line_idx": 40,
+          "text": "Schau, schau (Ah)",
+          "annotated": true,
+          "card_idx": 6
+        }
+      ]
     },
     {
-      "line_index": 21,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 22,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 23,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 24,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 25,
-      "stanza": "[Hook]",
-      "line_text": "Ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 26,
-      "stanza": "[Hook]",
-      "line_text": "Ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 27,
-      "stanza": "[Hook]",
-      "line_text": "Ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 28,
-      "stanza": "[Part 2]",
-      "line_text": "Marmorfliesen im Airbnb",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Marmorfliesen im Airbnb' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Marmorfliesen im Airbnb'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 29,
-      "stanza": "[Part 2]",
-      "line_text": "Ihr Leihparadies",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ihr Leihparadies' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ihr Leihparadies'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 30,
-      "stanza": "[Part 2]",
-      "line_text": "Riecht nach OP Summer Breeze",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Riecht nach OP Summer Breeze' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Riecht nach OP Summer Breeze'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 31,
-      "stanza": "[Part 2]",
-      "line_text": "Sie ist im One Piece",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Sie ist im One Piece' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sie ist im One Piece'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 32,
-      "stanza": "[Part 2]",
-      "line_text": "Indigoblau, Tropic of C",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Indigoblau, Tropic of C' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Indigoblau, Tropic of C'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 33,
-      "stanza": "[Part 2]",
-      "line_text": "Alkohol fließt",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Alkohol fließt' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Alkohol fließt'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 34,
-      "stanza": "[Part 2]",
-      "line_text": "Ihre mollige Freundin findet mich mies",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Ihre mollige Freundin findet mich mies' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ihre mollige Freundin findet mich mies'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 35,
-      "stanza": "[Part 2]",
-      "line_text": "Und ich seh', sie sieht's",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Und ich seh', sie sieht's' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Und ich seh', sie sieht's'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 36,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Sonne im Zenit, ballert den Kopf weg",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Sonne im Zenit, ballert den Kopf weg' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sonne im Zenit, ballert den Kopf weg'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 37,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Pool türkis wie bei David Hockney",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Pool türkis wie bei David Hockney' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Pool türkis wie bei David Hockney'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 38,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Bluetoothbox spielt Britney – „Toxic“",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Bluetoothbox spielt Britney – „Toxic“' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Bluetoothbox spielt Britney – „Toxic“'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 39,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Hot Take, ich bin nicht ihr Typ, doch in letzter Zeit oft hier",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Hot Take, ich bin nicht ihr Typ, doch in letzter Zeit oft hier' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Hot Take, ich bin nicht ihr Typ, doch in letzter Zeit oft hier'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 40,
-      "stanza": "[Pre-Hook]",
-      "line_text": "Schau, schau (Ah)",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Schau, schau (Ah)' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Schau, schau (Ah)'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 41,
-      "stanza": "[Hook]",
-      "line_text": "Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 42,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 43,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 44,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 45,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, Bauchtasche, Kokain, ich fick' alle'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 46,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, G, Louis V, G, Louis V",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, G, Louis V, G, Louis V' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, G, Louis V, G, Louis V'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 47,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, G, Louis V",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, G, Louis V' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, G, Louis V'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
-    },
-    {
-      "line_index": 48,
-      "stanza": "[Hook]",
-      "line_text": "G, Louis V, G, Louis V",
-      "hermeneutics_and_semiotics": "Metaphorische Verdichtung von 'G, Louis V, G, Louis V' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.",
-      "performance_and_phonation": "Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'G, Louis V, G, Louis V'.",
-      "somatics_and_haptics": "Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.",
-      "psychodynamic_mechanism": "Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst."
+      "title": "[Hook]",
+      "lines": [
+        {
+          "line_idx": 41,
+          "text": "Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 42,
+          "text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 43,
+          "text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 44,
+          "text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 45,
+          "text": "G, Louis V, Bauchtasche, Kokain, ich fick' alle",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 46,
+          "text": "G, Louis V, G, Louis V, G, Louis V",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 47,
+          "text": "G, Louis V, G, Louis V",
+          "annotated": true,
+          "card_idx": 1
+        },
+        {
+          "line_idx": 48,
+          "text": "G, Louis V, G, Louis V",
+          "annotated": true,
+          "card_idx": 1
+        }
+      ]
     }
   ]
 }

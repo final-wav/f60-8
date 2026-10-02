@@ -1,156 +1,46 @@
 # Track 01 — 1996
 
-**Thema:** Exposition des Ikarus-Mythos & der hermetischen Ibiza-Traumwelt
-
-## 1. Narrative Essay (Pitchfork Standard)
+## Narrative Review (Pitchfork Standard)
 
 ### Deutsch
-<p>Das Album eröffnet nicht mit einer versöhnlichen Rückschau, sondern mit dem Schnitt einer Rasierklinge: <strong>„1996“</strong> fungiert als Exposition und biografische Sollbruchstelle. Eingerahmt von den Einspielern des fiktiven Radiosenders <em>Ego FM Ibiza</em> betritt der Protagonist die Bühne einer künstlichen Mittelmeer-Traumwelt, in der jede Erinnerung an die provinzielle Enge durch puren kinetischen Antrieb ausgelöscht werden soll.</p>
-<p>Die klangliche Architektur etabliert sofort das Leitmotiv des Projekts: Der Ikarus-Mythos. Der <span class="lyric-quote-highlight">Panoramablick übers Paradies</span> ist kein Ort der Kontemplation, sondern die Startrampe für den kontrollierten Absturz. Mit der schneidenden Formel <span class="lyric-quote-highlight">„Wie man sich fesselt, so flieht man“</span> wird Bindung von vornherein als Gefängnis deklariert, das nur durch Flucht und Betäubung im <span class="lyric-quote-highlight">Himmel von Ibiza</span> ertragen werden kann.</p>
+<p>Das Album eröffnet mit der Inszenierung des Ursprungsmythos: <strong>„1996“</strong> markiert den biografischen und psychologischen Nullpunkt der Persona. Eingerahmt von mediterraner Hitze und der schwebenden Erwartung eines Sommers auf Ibiza entfaltet Tua das Leitmotiv des Projekts: Der <span class="lyric-quote-highlight">Panoramablick übers Paradies</span> ist kein Ort inneren Friedens, sondern die erhabene Bastion eines Ichs, das die Welt nur aus sicherer Überlegenheit erträgt. Doch bereits im zweiten Teil bricht das Verdrängte unaufhaltsam ein: <span class="lyric-quote-highlight">„Etwas fehlt, vielleicht ist es aufgewacht / Das Gegenteil, das Außerhalb“</span>. Das heraufziehende Rauschen in den Palmen kündigt den existenziellen Mangel an, der durch keinen Luxus gestillt werden kann.</p>
+<p>Im sakral aufgeladenen Refrain (<span class="lyric-quote-highlight">„Ob die Welt hält, was sie verspricht? / Steig' herab in strahlendem Licht / Und ganz in Weiß gekleidet“</span>) wird der narzisstische Abstieg als messianischer Auftritt inszeniert. Doch das Outro vollzieht die gnadenlose Demaskierung: Als <span class="lyric-quote-highlight">„Ikarus, Fantasieprodukt“</span> flieht die Kunstfigur vor dem unerträglichen inneren Druck in die <span class="lyric-quote-highlight">„Fieberluft“</span>. Der Flug über den <span class="lyric-quote-highlight">„tiefsten Bruch“</span> ist keine Freiheit, sondern die manische Flucht vor dem unausweichlichen Aufprall.</p>
 
 ### English
-<p>The album opens not with nostalgic contemplation, but with the clean slice of a scalpel: <strong>“1996”</strong> operates as both sonic prologue and psychological fault line. Framed by broadcasts from the fictional station <em>Ego FM Ibiza</em>, the protagonist steps onto the synthetic Mediterranean stage where all provincial memories are incinerated through sheer velocity.</p>
-<p>The sonic architecture immediately establishes the central motif: the Icarus ascent. The <span class="lyric-quote-highlight">panoramic view over paradise</span> is no sanctuary, but the staging ground for a controlled descent. Through the cutting aphorism <span class="lyric-quote-highlight">“The way you bind yourself is the way you flee”</span>, intimacy is pre-emptively coded as imprisonment, survivable only through evasion into the <span class="lyric-quote-highlight">Ibiza sky</span>.</p>
+<p>The album opens with the staging of the origin myth: <strong>“1996”</strong> establishes both the biographical and psychological baseline of the persona. Framed by Mediterranean heat and the suspended anticipation of an Ibiza summer, Tua unveils the project's central motif: the <span class="lyric-quote-highlight">panoramic view over paradise</span> is no sanctuary of peace, but the elevated fortress of an ego that can only tolerate reality from a position of detached supremacy. Yet in the second movement, the repressed core erupts: <span class="lyric-quote-highlight">“Something is missing, maybe it woke up / The opposite, the outside”</span>. The rising rustle in the palms signals an existential void that no luxury vista can soothe.</p>
+<p>In the sacral chorus (<span class="lyric-quote-highlight">“Will the world deliver what it promised? / Step down in radiant light / Dressed entirely in white”</span>), descent is choreographed as messianic entrance. Yet the outro executes an unsparing demystification: as <span class="lyric-quote-highlight">“Icarus, a fantasy product”</span>, the constructed persona flees unbearable pressure into the <span class="lyric-quote-highlight">“fever air”</span>. The flight over the <span class="lyric-quote-highlight">“deepest fracture”</span> is no sovereign emancipation, but a manic escape preceding the inevitable plunge.</p>
 
-## 2. Zeile-für-Zeile Tiefenanalyse (Song-Poem-Analysis Standard)
+## Zeilen-Genaue Karten-Dekonstruktion
 
-### Zeile 1 ([Part 1]): `Panoramablick übers Paradies`
+### Karte 1: `Panoramablick übers Paradies / Während warme Luft auf dem Garten liegt / Wie der Tag sich zieht und Erwartung kriecht / Unter die Palmen, die überm Haus steh'n, 1996`
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Panoramablick übers Paradies' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Panoramablick übers Paradies'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Die Inszenierung des Luxus-Panoramas dient als hermetische Barriere gegen frühe Ohnmachts- und Mangelgefühle. Das Paradies ist kein Ort der Entspannung, sondern ein manisch errichtetes Bühnenbild.
 
-### Zeile 2 ([Part 1]): `Während warme Luft auf dem Garten liegt`
+Erhöhter Muskeltonus im Nackenbereich, fixierter Weitblick über das Meer und eine flache thorakale Atmung halten das vegetative Nervensystem in dauerhafter Alarmbereitschaft. Wer von oben herabblickt, kann nicht überrascht, bewertet oder verletzt werden.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Während warme Luft auf dem Garten liegt' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Während warme Luft auf dem Garten liegt'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Schwebende, warme Synthesizer-Pads werden unvermittelt von treibenden 2-Step-Breakbeats durchbrochen und erzeugen ein Gefühl von Vorwärtsflucht.
 
-### Zeile 3 ([Part 1]): `Wie der Tag sich zieht und Erwartung kriecht`
+### Karte 2: `Etwas fehlt, vielleicht ist es aufgewacht / Das Gegenteil, das Außerhalb / Und zum ersten Mal schwillt ein Rauschen an / In den Palmen, die überm Haus weh'n, 1996`
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Wie der Tag sich zieht und Erwartung kriecht' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Wie der Tag sich zieht und Erwartung kriecht'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Trotz maximaler äußerer Reizüberflutung bricht die innere Leere („das Außerhalb“) durch. Der narzisstische Triumph scheitert an der Unfähigkeit, innere Ruhe zu empfinden.
 
-### Zeile 4 ([Part 1]): `Unter die Palmen, die überm Haus steh'n, 1996`
+Das Erstarren der Gesichtszüge und ein innerer Kälteschauer trotz warmer Mittelmeerluft verraten den Kontrollverlust über die eigenen Affekte. Das Unbewusste meldet sich als unkontrollierbarer Fremdkörper an.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Unter die Palmen, die überm Haus steh'n, 1996' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Unter die Palmen, die überm Haus steh'n, 1996'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Frequenzbeschnittene Hallräume machen das Gefühl von Kapselung und plötzlich einsetzender Isolation auditiv unmittelbar spürbar.
 
-### Zeile 5 ([Part 2]): `Etwas fehlt, vielleicht ist es aufgewacht`
+### Karte 3: `Ob die Welt hält, was sie verspricht? / Steig' herab in strahlendem Licht / Und ganz in Weiß gekleidet / Diese Stufen tragen dich`
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Etwas fehlt, vielleicht ist es aufgewacht' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Etwas fehlt, vielleicht ist es aufgewacht'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Der Refrain inszeniert den Eintritt in die Welt als sakralen, messianischen Triumphzug: Das ganz in Weiß gekleidete Ich steigt herab und verlangt die bedingungslose Erfüllung aller infantilen Allmachtsfantasien.
 
-### Zeile 6 ([Part 2]): `Das Gegenteil, das Außerhalb`
+Aufgerichtete Körperachse, majestätisch verlangsamter Schritt und der direkte Blick in das gleißende Sonnenlicht maskieren die tiefe Furcht vor der Realitätsprüfung.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Das Gegenteil, das Außerhalb' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Das Gegenteil, das Außerhalb'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Anschwellende, chorale Synth-Layer erzeugen eine monumentale akustische Erhabenheit.
 
-### Zeile 7 ([Part 2]): `Und zum ersten Mal schwillt ein Rauschen an`
+### Karte 4: `Ikarus, Fantasieprodukt / Entfliehst dem Druck hoch in die Fieberluft / Flieg, wenn du musst über den tiefsten Bruch / Und die Palmen, die überm Haus weh'n, 1996`
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Und zum ersten Mal schwillt ein Rauschen an' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Und zum ersten Mal schwillt ein Rauschen an'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Die schonungslose Demaskierung im Outro: Das Ich erkennt sich selbst als rein artifizielles „Fantasieprodukt“. Der Höhenflug ist kein Akt souveräner Freiheit, sondern panische Flucht vor dem inneren Druck.
 
-### Zeile 8 ([Part 2]): `In den Palmen, die überm Haus weh'n, 1996`
+Flache Stoßatmung, Tachykardie und der Drang nach permanenter Höhe kennzeichnen den Ikarus-Komplex. Das Überfliegen des „tiefsten Bruchs“ zögert den fatalen Aufprall lediglich hinaus.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'In den Palmen, die überm Haus weh'n, 1996' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'In den Palmen, die überm Haus weh'n, 1996'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 9 ([Hook]): `Ob die Welt hält, was sie verspricht?`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Ob die Welt hält, was sie verspricht?' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ob die Welt hält, was sie verspricht?'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 10 ([Hook]): `Steig' herab in strahlendem Licht`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Steig' herab in strahlendem Licht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Steig' herab in strahlendem Licht'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 11 ([Hook]): `Und ganz in Weiß gekleidet`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Und ganz in Weiß gekleidet' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Und ganz in Weiß gekleidet'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 12 ([Hook]): `Diese Stufen tragen dich`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Diese Stufen tragen dich' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Diese Stufen tragen dich'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 13 ([Hook]): `Ob die Welt hält, was sie verspricht?`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Ob die Welt hält, was sie verspricht?' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ob die Welt hält, was sie verspricht?'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 14 ([Hook]): `Steig' herab in strahlendem Licht`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Steig' herab in strahlendem Licht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Steig' herab in strahlendem Licht'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 15 ([Hook]): `Und ganz in Weiß gekleidet`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Und ganz in Weiß gekleidet' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Und ganz in Weiß gekleidet'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 16 ([Hook]): `Diese Stufen tragen dich`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Diese Stufen tragen dich' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Diese Stufen tragen dich'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 17 ([Outro]): `Ikarus, Fantasieprodukt`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Ikarus, Fantasieprodukt' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ikarus, Fantasieprodukt'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 18 ([Outro]): `Entfliehst dem Druck hoch in die Fieberluft`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Entfliehst dem Druck hoch in die Fieberluft' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Entfliehst dem Druck hoch in die Fieberluft'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 19 ([Outro]): `Flieg, wenn du musst über den tiefsten Bruch`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Flieg, wenn du musst über den tiefsten Bruch' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Flieg, wenn du musst über den tiefsten Bruch'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 20 ([Outro]): `Und die Palmen, die überm Haus weh'n, 1996`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Und die Palmen, die überm Haus weh'n, 1996' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Und die Palmen, die überm Haus weh'n, 1996'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Ausfasernde Delay-Fahnen lassen die Gesangsstimme im flirrenden Mittelmeerwind verhallen.
 
