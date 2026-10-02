@@ -1,359 +1,101 @@
 # Track 08 — Höhenflug + Tiefenrausch
 
-**Thema:** Der vegetative Crash & das Epizentrum des Ekels
-
-## 1. Narrative Essay (Pitchfork Standard)
+## Narrative Review (Pitchfork Standard)
 
 ### Deutsch
-<p><strong>„Höhenflug + Tiefenrausch“</strong> bildet das depressive Epizentrum des Albums. Der manische Höhenflug schlägt ungebremst in die vegetative Erstarrung um. In der Zeile <span class="lyric-quote-highlight">„Bin ein alter Schwamm, den man mal wechseln müsste / Wurde von 'nem Sorgenkind zum Sorgenking“</span> verdichtet Tua den Ekel vor der eigenen toxischen Sättigung.</p>
-<p>Die Couch wird zum schwarzen Loch (<span class="lyric-quote-highlight">„Die Couch schluckt mich und spuckt mich nie mehr aus“</span>), das den kollabierten Körper verschlingt. Die grausame Ehrlichkeit der Beichte – <span class="lyric-quote-highlight">„Hing nur mit dir rum, weil ich dich so gehasst hab'“</span> – offenbart, dass Nähe hier rein als Projektionsfläche für ungelösten Selbsthass missbraucht wurde.</p>
+<p><strong>„Höhenflug + Tiefenrausch“</strong> markiert den unausweichlichen dopaminergen Absturz und das depressive Epizentrum des Werks. In beklemmender Plastizität verdichtet Tua den Selbstekel: <span class="lyric-quote-highlight">„Bin ein alter Schwamm, den man mal wechseln müsste / Ich schreib' mich minus eins auf die Gästeliste / Wurde von 'nem Sorgenkind zum Sorgenking“</span>. Die manische Energie ist restlos verbrannt; die Couch wird zum schwarzen Loch, das den erstarrenden Körper verschlingt (<span class="lyric-quote-highlight">„Die Couch schluckt mich und spuckt mich nie mehr aus / Alle Energie verbraucht / Falle durch die Welt, bin im Fiebertraum / Zwischen Höhenflug und Tiefenrausch“</span>).</p>
+<p>Die grausame Ehrlichkeit im zweiten Vers demaskiert die Funktion früherer Bindungen: <span class="lyric-quote-highlight">„Sorry, dass ich dir so lang was vorgemacht hab' / Hing nur mit dir rum, weil ich dich so gehasst hab'“</span>. In der Badewanne liegend, versucht das Ich seine somatische Existenz aufzulösen (<span class="lyric-quote-highlight">„Hundert Meter tief in mein'n Augenhöhl'n / Lieg' in der Wanne, versuch' mich aufzulösen“</span>), während die Wände im leeren Heldensaal unerbittlich näher rücken (<span class="lyric-quote-highlight">„Hör' jetzt Stimmen schweigen, der Heldensaal ist leer / Unendlich Langeweile, die Wände kommen näher“</span>).</p>
 
 ### English
-<p><strong>“Höhenflug + Tiefenrausch”</strong> (High Flight + Deep Intoxication) marks the depressive epicenter of the project. Manic elevation crashes directly into vegetative paralysis. In the striking line <span class="lyric-quote-highlight">“I'm an old sponge that should be replaced / Turned from a problem child into a problem king”</span>, Tua crystallizes visceral disgust with his own saturation.</p>
-<p>The sofa mutates into a black hole (<span class="lyric-quote-highlight">“The couch swallows me and never spits me out”</span>) absorbing the depleted organism. The brutal confession—<span class="lyric-quote-highlight">“Only hung out with you because I hated you so much”</span>—unmasks companionship as nothing more than a scapegoat for self-directed rage.</p>
+<p><strong>“Höhenflug + Tiefenrausch”</strong> (High Flight + Deep Intoxication) captures the inescapable neurochemical crash and depressive ground zero of the album. With visceral clarity, Tua articulates saturated self-disgust: <span class="lyric-quote-highlight">“I'm an old sponge that should be replaced / I write myself minus one on the guestlist / Turned from a problem child into a problem king”</span>. Manic fuel is entirely spent; the sofa mutates into a black hole (<span class="lyric-quote-highlight">“The couch swallows me and never spits me out / All energy depleted / Falling through the world, in a fever dream / Between high flight and deep intoxication”</span>).</p>
+<p>The brutal confession in the second verse exposes past intimacy: <span class="lyric-quote-highlight">“Sorry that I pretended for so long / Only hung out with you because I hated you so much”</span>. Submerged in the bathtub, the self attempts somatic dissolution (<span class="lyric-quote-highlight">“A hundred meters deep in my eye sockets / Lying in the tub, trying to dissolve”</span>) while the walls of the empty hall of heroes close in (<span class="lyric-quote-highlight">“Hearing voices fall silent now, the hall of heroes is empty / Infinite boredom, the walls coming closer”</span>).</p>
 
-## 2. Zeile-für-Zeile Tiefenanalyse (Song-Poem-Analysis Standard)
+## Zeilen-Genaue Karten-Dekonstruktion (4 Säulen nach SKILL.md)
 
-### Zeile 1 ([Intro]): `Ego FM Ibiza`
+### Karte 1: `Kratze jede Wunde zu 'ner Narbe / Hasse jede Stunde, die ich warte / Finde kein'n Platz für meine Ambitionen / Die liegen im Weg rum in der ganzen Wohnung / Bin ein alter Schwamm, den man mal wechseln müsste / Ich schreib' mich minus eins auf die Gästeliste / Wurde von 'nem Sorgenkind zum Sorgenking / Ich penn' ein und weiß nicht, wer ich morgen bin`
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Ego FM Ibiza' im Kontext von [Intro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ego FM Ibiza'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+**Deutsch:**
+Depressive Lähmung und somatisierter Selbstekel: Das Ich erlebt seine eigenen Ambitionen als im Weg liegenden Müll. Das Bild vom „alten Schwamm, den man mal wechseln müsste“ artikuliert eine tiefe Verunreinigung und Sättigung mit toxischen Erfahrungen. Die Krönung zum „Sorgenking“ verwandelt die biografische Misere in einen zynischen, selbstabwertenden Adelstitel.
 
-### Zeile 2 ([Part 1]): `Kratze jede Wunde zu 'ner Narbe`
+Schleppende, erschöpfte Phonation; der Tonfall trieft vor Bitterkeit und Antriebslosigkeit. Somatisch: Schwere Glieder, zerkratzte Haut, Druck auf der Brust.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Kratze jede Wunde zu 'ner Narbe' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Kratze jede Wunde zu 'ner Narbe'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Dumpfe, verwaschene Drum-Sounds erzeugen das Gefühl von motorischer Erstarrung.
 
-### Zeile 3 ([Part 1]): `Hasse jede Stunde, die ich warte`
+**English:**
+Depressive paralysis and somatized self-disgust: the subject views its own ambitions as clutter strewn across the apartment floor. The metaphor of the "old sponge that should be replaced" articulates total saturation with toxic residue. Crowning himself "problem king" turns personal misery into a cynical, self-mocking aristocracy.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Hasse jede Stunde, die ich warte' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Hasse jede Stunde, die ich warte'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Sluggish, exhausted vocal delivery drenched in bitterness and avolition. Somatically: leaden limbs, scratched skin, oppressive chest heaviness.
 
-### Zeile 4 ([Part 1]): `Finde kein'n Platz für meine Ambitionen`
+Muffled, muddy percussion evokes physical immobility.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Finde kein'n Platz für meine Ambitionen' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Finde kein'n Platz für meine Ambitionen'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+---
 
-### Zeile 5 ([Part 1]): `Die liegen im Weg rum in der ganzen Wohnung`
+### Karte 2: `Seit wie viel'n Tagen steht die Zeit still? / War nie weiter weg von was ich sein will / Halte mich nicht aus, wenn ich allein bin / Sorry, dass mein Leben dein'n Vibe killt`
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Die liegen im Weg rum in der ganzen Wohnung' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Die liegen im Weg rum in der ganzen Wohnung'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+**Deutsch:**
+Die Unerträglichkeit der Einsamkeit: Das Stillstehen der Zeit spiegelt die Erstarrung der inneren Uhr wider. Die Bitte um Entschuldigung („Sorry, dass mein Leben dein'n Vibe killt“) entlarvt die gesellschaftliche Isolation: In einer hedonistischen Umgebung ist die eigene Depression das ultimative Tabu, für das man sich schämt.
 
-### Zeile 6 ([Part 1]): `Bin ein alter Schwamm, den man mal wechseln müsste`
+Brüchige, verzagte Phonation mit zynischer Endung. Somatisch: Zittern, Kältegefühl, das Verstecken des Gesichts.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Bin ein alter Schwamm, den man mal wechseln müsste' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Bin ein alter Schwamm, den man mal wechseln müsste'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Schwebende, monotone Synth-Drones halten die Zeit akustisch an.
 
-### Zeile 7 ([Part 1]): `Ich schreib' mich minus eins auf die Gästeliste`
+**English:**
+The unbearable agony of isolation: temporal standstill mirrors the paralysis of internal drive. The apology "sorry that my life kills your vibe" exposes social exile: within hedonistic culture, depressive reality is the ultimate taboo demanding shame.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Ich schreib' mich minus eins auf die Gästeliste' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich schreib' mich minus eins auf die Gästeliste'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Fragile, faltering delivery with a cynical edge. Somatically: tremors, chills, covering the face.
 
-### Zeile 8 ([Part 1]): `Wurde von 'nem Sorgenkind zum Sorgenking`
+Suspended, drone textures freeze musical progression in place.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Wurde von 'nem Sorgenkind zum Sorgenking' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Wurde von 'nem Sorgenkind zum Sorgenking'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+---
 
-### Zeile 9 ([Part 1]): `Ich penn' ein und weiß nicht, wer ich morgen bin`
+### Karte 3: `Die Couch schluckt mich und spuckt mich nie mehr aus / Alle Energie verbraucht / Falle durch die Welt, bin im Fiebertraum / Zwischen Höhenflug und Tiefenrausch`
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Ich penn' ein und weiß nicht, wer ich morgen bin' im Kontext von [Part 1]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Ich penn' ein und weiß nicht, wer ich morgen bin'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+**Deutsch:**
+Die Couch als schwarzes Loch der Katatonie: Der Körper sinkt in die Polster ein und wird von ihnen gleichsam verschlungen. Die bipolare Pendelbewegung „Zwischen Höhenflug und Tiefenrausch“ markiert den fatalen Rhythmus der psychischen Instabilität: Auf die manische Überhöhung folgt unausweichlich der totale Absturz.
 
-### Zeile 10 ([Pre-Hook]): `Seit wie viel'n Tagen steht die Zeit still?`
+Hohle, körperlose Gesangsstimme, umhüllt von schwerem Nachhall. Somatisches Versinken, Verlust der Körperspannung, Fiebergefühl.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Seit wie viel'n Tagen steht die Zeit still?' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Seit wie viel'n Tagen steht die Zeit still?'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Tief gestimmte 808-Subbässe und fallende Synth-Filter simulieren den endlosen freien Fall.
 
-### Zeile 11 ([Pre-Hook]): `War nie weiter weg von was ich sein will`
+**English:**
+The sofa as a catatonic black hole: the physical frame sinks into upholstery and is swallowed whole. The bipolar oscillation "between high flight and deep intoxication" charts the fatal rhythm of instability: manic elevation is inexorably answered by total crash.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'War nie weiter weg von was ich sein will' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'War nie weiter weg von was ich sein will'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Hollow, disembodied singing enveloped in thick reverb tails. Somatically: physical sinkage, loss of muscle tone, feverish lethargy.
 
-### Zeile 12 ([Pre-Hook]): `Halte mich nicht aus, wenn ich allein bin`
+Sub-bass swells and downward filter sweeps simulate endless freefall.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Halte mich nicht aus, wenn ich allein bin' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Halte mich nicht aus, wenn ich allein bin'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+---
 
-### Zeile 13 ([Pre-Hook]): `Sorry, dass mein Leben dein'n Vibe killt`
+### Karte 4: `Kann mich nicht bewegen, alles klemmt / Konnte man sich gegen alles stemm'n? / Sorry, dass ich dir so lang was vorgemacht hab' / Hing nur mit dir rum, weil ich dich so gehasst hab' / Alkohol macht mich zu einer fetten Schnecke / Verkriech' mich am nächsten Tag in die letzte Ecke / Hundert Meter tief in mein'n Augenhöhl'n / Lieg' in der Wanne, versuch' mich aufzulösen`
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Sorry, dass mein Leben dein'n Vibe killt' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sorry, dass mein Leben dein'n Vibe killt'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+**Deutsch:**
+Schonungslose Abrechnung mit toxischen Bindungsmustern und somatische Auflösungsfantasie: Das Geständnis „Hing nur mit dir rum, weil ich dich so gehasst hab'“ entlarvt, wie das Gegenüber als Ventil für den eigenen Selbsthass missbraucht wurde. In der Badewanne liegend, fantasiert das Ich über die vollständige molekulare Auflösung der eigenen Existenz, um dem Schmerz der Identität zu entkommen.
 
-### Zeile 14 ([Hook]): `Die Couch schluckt mich und spuckt mich nie mehr aus`
+Gepresste, fast erstickte Stimme; tiefe Dunkelheit in der Artikulation. Somatisch: Untertauchen im heißen Wasser, Schließen der Augen, Brennen in den Augenhöhlen.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Die Couch schluckt mich und spuckt mich nie mehr aus' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Die Couch schluckt mich und spuckt mich nie mehr aus'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Trübe Piano-Akkorde und subtiles Wasserplätschern erzeugen eine beklemmende Intimität.
 
-### Zeile 15 ([Hook]): `Alle Energie verbraucht`
+**English:**
+Ruthless unmasking of relational toxicity and somatic dissolution fantasy: confessing "only hung out with you because I hated you so much" reveals how the partner was weaponized to mirror disowned self-hatred. Submerged in the tub, the speaker craves total molecular dissolution to escape the agony of identity.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Alle Energie verbraucht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Alle Energie verbraucht'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Choked, strained vocal timbre; deep darkness in delivery. Somatically: sinking under hot water, eyes tightly closed, burning behind the sockets.
 
-### Zeile 16 ([Hook]): `Falle durch die Welt, bin im Fiebertraum`
+Murky piano chords and ambient liquid textures create claustrophobic intimacy.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Falle durch die Welt, bin im Fiebertraum' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Falle durch die Welt, bin im Fiebertraum'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+---
 
-### Zeile 17 ([Hook]): `Zwischen Höhenflug und Tiefenrausch (Oh, ja)`
+### Karte 5: `Hör' jetzt Stimmen schweigen, der Heldensaal ist leer / Unendlich Langeweile, die Wände kommen näher / Und ständig springt der Zeiger auf der Stelle hin und her`
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Zwischen Höhenflug und Tiefenrausch (Oh, ja)' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Zwischen Höhenflug und Tiefenrausch (Oh, ja)'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+**Deutsch:**
+Der Zusammenbruch des narzisstischen Theaters: Im „Heldensaal“ herrscht Totenstille; die imaginierten Bewunderer sind verschwunden. Die klaustrophobische Erfahrung („die Wände kommen näher“) und der springende Zeiger spiegeln das Gefangensein im ewigen Wiederholungszwang wider.
 
-### Zeile 18 ([Part 2]): `Kann mich nicht bewegen, alles klemmt`
+Flüsternde, trockene Phonation ohne Echo. Somatisch: Klaustrophobie, Engegefühl im Hals, starrer Blick auf die Wand.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Kann mich nicht bewegen, alles klemmt' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Kann mich nicht bewegen, alles klemmt'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Das Ausdünnen der Instrumentierung lässt die nackte Einsamkeit im Raum stehen.
 
-### Zeile 19 ([Part 2]): `Konnte man sich gegen alles stemm'n?`
+**English:**
+The collapse of the narcissistic theater: inside the "hall of heroes", deafening silence reigns; imagined admirers have evaporated. Claustrophobia ("walls coming closer") and the erratic clock hand depict imprisonment within compulsory repetition.
 
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Konnte man sich gegen alles stemm'n?' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Konnte man sich gegen alles stemm'n?'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
+Dry whispered delivery stripped of echo. Somatically: claustrophobic throat constriction, fixed gaze at the wall.
 
-### Zeile 20 ([Part 2]): `Sorry, dass ich dir so lang was vorgemacht hab'`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Sorry, dass ich dir so lang was vorgemacht hab'' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sorry, dass ich dir so lang was vorgemacht hab''.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 21 ([Part 2]): `Hing nur mit dir rum, weil ich dich so gehasst hab'`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Hing nur mit dir rum, weil ich dich so gehasst hab'' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Hing nur mit dir rum, weil ich dich so gehasst hab''.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 22 ([Part 2]): `Alkohol macht mich zu einer fetten Schnecke`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Alkohol macht mich zu einer fetten Schnecke' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Alkohol macht mich zu einer fetten Schnecke'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 23 ([Part 2]): `Verkriech' mich am nächsten Tag in die letzte Ecke`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Verkriech' mich am nächsten Tag in die letzte Ecke' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Verkriech' mich am nächsten Tag in die letzte Ecke'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 24 ([Part 2]): `Hundert Meter tief in mein'n Augenhöhl'n`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Hundert Meter tief in mein'n Augenhöhl'n' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Hundert Meter tief in mein'n Augenhöhl'n'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 25 ([Part 2]): `Lieg' in der Wanne, versuch' mich aufzulösen`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Lieg' in der Wanne, versuch' mich aufzulösen' im Kontext von [Part 2]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Lieg' in der Wanne, versuch' mich aufzulösen'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 26 ([Pre-Hook]): `Seit wie viel'n Tagen steht die Zeit still?`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Seit wie viel'n Tagen steht die Zeit still?' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Seit wie viel'n Tagen steht die Zeit still?'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 27 ([Pre-Hook]): `War nie weiter weg von was ich sein will`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'War nie weiter weg von was ich sein will' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'War nie weiter weg von was ich sein will'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 28 ([Pre-Hook]): `Halte mich nicht aus, wenn ich allein bin`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Halte mich nicht aus, wenn ich allein bin' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Halte mich nicht aus, wenn ich allein bin'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 29 ([Pre-Hook]): `Sorry, dass mein Leben dein'n Vibe killt`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Sorry, dass mein Leben dein'n Vibe killt' im Kontext von [Pre-Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sorry, dass mein Leben dein'n Vibe killt'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 30 ([Hook]): `Die Couch schluckt mich und spuckt mich nie mehr aus`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Die Couch schluckt mich und spuckt mich nie mehr aus' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Die Couch schluckt mich und spuckt mich nie mehr aus'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 31 ([Hook]): `Alle Energie verbraucht`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Alle Energie verbraucht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Alle Energie verbraucht'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 32 ([Hook]): `Falle durch die Welt, bin im Fiebertraum`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Falle durch die Welt, bin im Fiebertraum' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Falle durch die Welt, bin im Fiebertraum'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 33 ([Hook]): `Zwischen Höhenflug und Tiefenrausch`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Zwischen Höhenflug und Tiefenrausch' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Zwischen Höhenflug und Tiefenrausch'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 34 ([Hook]): `Die Couch schluckt mich und spuckt mich nie mehr aus`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Die Couch schluckt mich und spuckt mich nie mehr aus' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Die Couch schluckt mich und spuckt mich nie mehr aus'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 35 ([Hook]): `Alle Energie verbraucht`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Alle Energie verbraucht' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Alle Energie verbraucht'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 36 ([Hook]): `Falle durch die Welt, bin im Fiebertraum`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Falle durch die Welt, bin im Fiebertraum' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Falle durch die Welt, bin im Fiebertraum'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 37 ([Hook]): `Zwischen Höhenflug und Tiefenrausch (Oh, ja)`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Zwischen Höhenflug und Tiefenrausch (Oh, ja)' im Kontext von [Hook]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Zwischen Höhenflug und Tiefenrausch (Oh, ja)'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 38 ([Bridge]): `Hör' jetzt Stimmen schweigen, der Heldensaal ist leer`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Hör' jetzt Stimmen schweigen, der Heldensaal ist leer' im Kontext von [Bridge]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Hör' jetzt Stimmen schweigen, der Heldensaal ist leer'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 39 ([Bridge]): `Unendlich Langeweile, die Wände kommen näher`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Unendlich Langeweile, die Wände kommen näher' im Kontext von [Bridge]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Unendlich Langeweile, die Wände kommen näher'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 40 ([Bridge]): `Und ständig springt der Zeiger auf der Stelle hin und her`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Und ständig springt der Zeiger auf der Stelle hin und her' im Kontext von [Bridge]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Und ständig springt der Zeiger auf der Stelle hin und her'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 41 ([Bridge]): `Und her, und her, und her`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Und her, und her, und her' im Kontext von [Bridge]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Und her, und her, und her'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 42 ([Outro]): `Seit wie viel'n Tagen steht die Zeit still?`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Seit wie viel'n Tagen steht die Zeit still?' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Seit wie viel'n Tagen steht die Zeit still?'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 43 ([Outro]): `War nie weiter weg von was ich sein will`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'War nie weiter weg von was ich sein will' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'War nie weiter weg von was ich sein will'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 44 ([Outro]): `Halte mich nicht aus, wenn ich allein bin`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Halte mich nicht aus, wenn ich allein bin' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Halte mich nicht aus, wenn ich allein bin'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 45 ([Outro]): `Sorry, dass mein Leben dein'n Vibe killt`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Sorry, dass mein Leben dein'n Vibe killt' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sorry, dass mein Leben dein'n Vibe killt'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 46 ([Outro]): `Seit wie viel'n Tagen steht die Zeit still?`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Seit wie viel'n Tagen steht die Zeit still?' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Seit wie viel'n Tagen steht die Zeit still?'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 47 ([Outro]): `War nie weiter weg von was ich sein will`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'War nie weiter weg von was ich sein will' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'War nie weiter weg von was ich sein will'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 48 ([Outro]): `Halte mich nicht aus, wenn ich allein bin`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Halte mich nicht aus, wenn ich allein bin' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Halte mich nicht aus, wenn ich allein bin'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
-### Zeile 49 ([Outro]): `Sorry, dass mein Leben dein'n Vibe killt`
-
-- **Literatur- & Musikwissenschaft:** Metaphorische Verdichtung von 'Sorry, dass mein Leben dein'n Vibe killt' im Kontext von [Outro]. Polysemie zwischen äußerer Ibiza-Szenerie und intrapsychischer Realität.
-- **Phonation & Darbietung:** Vortragsweise: Staccato und Atemdynamik modulieren die emotionale Kälte und den Abwehrgestus bei der Phonation von 'Sorry, dass mein Leben dein'n Vibe killt'.
-- **Somatik & Haptik:** Somatische Korrelate: Vasokonstriktion, Muskelpanzerung im oberen Brust- und Nackenbereich sowie vegetative Erstarrung.
-- **Psychodynamischer Abwehrmechanismus:** Psychodynamik: Spaltung, Verleugnung von Verletzlichkeit und grandiose Autarkie-Behauptung zur Vermeidung von Beziehungsangst.
-
+Thinning instrumentation leaves barren isolation lingering in space.
