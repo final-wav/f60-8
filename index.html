@@ -3849,7 +3849,7 @@
         ytPlayer.pauseVideo();
       }
 
-      const audioSrc = `audio/track_${track.num}_${currentLang}.mp3`;
+      const audioSrc = currentLang === "de" ? track.audioDe : track.audioEn;
       if (currentAudio) {
         currentAudio.pause();
         currentAudio = null;

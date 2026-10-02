@@ -726,6 +726,8 @@ track_list_js += "];"
 
 adapted_js = re.sub(r'const trackList = \[.*?\];', track_list_js, tomora_js, flags=re.DOTALL)
 adapted_js = adapted_js.replace('TOMORA', 'TUA — F60.8')
+adapted_js = adapted_js.replace('const audioSrc = `audio/track_${track.num}_${currentLang}.mp3`;', 'const audioSrc = currentLang === "de" ? track.audioDe : track.audioEn;')
+
 
 # Assemble index.html
 html_parts = []
