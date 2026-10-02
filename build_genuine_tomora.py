@@ -832,7 +832,7 @@ for t in tracks_data:
     num_stanzas = len(raw["stanzas"])
     
     for s_idx, stanza in enumerate(raw["stanzas"]):
-        st_title = stanza["title"]
+        st_title = stanza["title"].strip("[] ")
         lines = [l.strip() for l in stanza["lines"] if l.strip()]
         if not lines:
             continue
