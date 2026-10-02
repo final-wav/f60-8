@@ -16,7 +16,9 @@ tomora_css = tomora_raw[css_start:css_end]
 
 orange_css = tomora_css.replace('--magenta: #ff007a;', '--magenta: #fa5b00;') \
                        .replace('255, 0, 122', '250, 91, 0') \
-                       .replace('#ff2b92', '#ff6a1a')
+                       .replace('#ff2b92', '#ff6a1a') \
+                       .replace('object-fit: cover;', 'object-fit: cover; object-position: center 65%;')
+
 
 # Extract JS
 js_start = tomora_raw.rfind("<script>")
@@ -827,8 +829,9 @@ html_parts.append("""    </ul>
 
   <!-- Hero Cover Image -->
   <div class="hero-fullbleed">
-    <img src="cover.png" alt="TUA — F60.8 Cover" class="hero-video" style="object-fit: cover; max-height: 75vh; width: 100%;">
+    <img src="cover.png" alt="TUA — F60.8 Cover" class="hero-video" style="object-fit: cover; object-position: center 65%; max-height: 75vh; width: 100%;">
   </div>
+
 
   <!-- Main Content -->
   <main class="main-wrapper">
