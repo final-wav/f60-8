@@ -490,54 +490,66 @@ Slamming the taxi door executes immediate erasure from consciousness."""
 <p>The brutal confession in the second verse exposes past intimacy: <span class="lyric-quote-highlight">“Sorry that I pretended for so long / Only hung out with you because I hated you so much”</span>. Submerged in the bathtub, the self attempts somatic dissolution (<span class="lyric-quote-highlight">“A hundred meters deep in my eye sockets / Lying in the tub, trying to dissolve”</span>) while the walls of the empty hall of heroes close in (<span class="lyric-quote-highlight">“Hearing voices fall silent now, the hall of heroes is empty / Infinite boredom, the walls coming closer”</span>).</p>""",
         "cards_de": [
             {
-                "quote": "Bin ein alter Schwamm, den man mal wechseln müsste / Der somatisierte Selbstekel",
-                "body": """Das depressive Epizentrum des Albums: Das Bild vom vollgesogenen, unbrauchbaren Schwamm verdichtet das Gefühl innerer Kontamination und seelischer Fäulnis. Die Selbsternennung zum „Sorgenking“ ist der zynische Triumph über den eigenen Verfall.
+                "quote": "Kratze jede Wunde zu 'ner Narbe / Bin ein alter Schwamm / Der somatisierte Selbstekel",
+                "body": """Das Ich erlebt den eigenen Körper und Geist als kontaminiertes Terrain: Wunden werden zwanghaft zu Narben aufgekratzt, und die eigenen Ambitionen liegen wie nutzloser Müll im Weg der verwahrlosten Wohnung herum.
 
-Die Ambitionen liegen wie Müll in der Wohnung herum; das Ich weiß beim Einschlafen nicht mehr, wer es am nächsten Morgen sein wird."""
+Das Bild vom „alten Schwamm, den man mal wechseln müsste“ verdichtet die seelische Verunreinigung; die Selbstkrönung zum „Sorgenking“ verwandelt die biografische Misere in einen zynischen, abwertenden Adelstitel."""
             },
             {
-                "quote": "Die Couch schluckt mich und spuckt mich nie mehr aus / Die Lähmung",
-                "body": """Die Couch wird zum schwarzen Loch der Katatonie. Die verbrauchte Energie und das Fallen im Fiebertraum markieren den unausweichlichen dopaminergen Absturz nach dem Höhenflug.
+                "quote": "Seit wie viel'n Tagen steht die Zeit still? / Sorry, dass mein Leben dein'n Vibe killt / Das Tabu der Depression",
+                "body": """Im Pre-Hook erstarrt die innere Zeitrechnung: Das Subjekt ist maximal weit von jedem erstrebenswerten Lebensentwurf entfernt und erträgt die eigene Einsamkeit nicht mehr.
 
-Der Körper verliert jede Spannkraft und erstarrt in völliger Handlungsunfähigkeit."""
+Die schuldhafte Entschuldigung „Sorry, dass mein Leben dein'n Vibe killt“ demaskiert die gnadenlose Realität der Party-Kultur: In einer Welt der verordneten Hochstimmung ist authentische Depression das ultimative gesellschaftliche Tabu."""
             },
             {
-                "quote": "Hing nur mit dir rum, weil ich dich so gehasst hab' / Die Projektionsfläche",
-                "body": """Schonungslose Demaskierung vergangener Beziehungen: Der Partner diente lediglich als Blitzableiter für den unerträglichen eigenen Selbsthass. In der Badewanne liegend, fantasiert das Ich über die molekulare Auflösung der eigenen Existenz.
+                "quote": "Die Couch schluckt mich und spuckt mich nie mehr aus / Das schwarze Loch der Katatonie",
+                "body": """Die Couch mutiert zum schwarzen Loch der motorischen und seelischen Lähmung: Alle manische Energie ist restlos verbraucht, der Körper sinkt tonuslos in die Polster ein.
 
-Die Flucht in den Alkohol verwandelt den Körper in eine langsame „fette Schnecke“, die sich vor dem Licht verkriecht."""
+Das bipolare Pendeln „Zwischen Höhenflug und Tiefenrausch“ beschreibt den fatalen Kreislauf des Werks: Die erzwungene Ekstase der vorangegangenen Nächte fordert ihren unausweichlichen Preis im katatonischen Fiebertraum."""
+            },
+            {
+                "quote": "Hing nur mit dir rum, weil ich dich so gehasst hab' / Die Projektionsfläche & Auflösung in der Wanne",
+                "body": """Der zweite Vers eröffnet mit dem Bekenntnis toxischer Ausbeutung: Der Partner wurde nicht geliebt, sondern als Projektionsfläche für den eigenen unerträglichen Selbsthass instrumentalisiert.
+
+Alkohol degradiert den Organismus zu einer lichtscheuen „fetten Schnecke“. In der Badewanne liegend, mit hundert Meter tiefen Augenhöhlen, fantasiert das Ich über die vollständige molekulare Auflösung der eigenen Existenz im Wasser."""
             },
             {
                 "quote": "Hör' jetzt Stimmen schweigen, der Heldensaal ist leer / Das Ende des Theaters",
-                "body": """Totenstille im imaginierten Heldensaal: Die jubelnden Stimmen sind verstummt, die Wände rücken unerbittlich näher. Der springende Zeiger visualisiert das Gefangensein im neurotischen Wiederholungszwang.
+                "body": """In der Bridge verstummt der eingebildete Jubel des Publikums: Der erhabene „Heldensaal“ ist leer gefegt, und die Zimmerwände rücken klaustrophobisch näher.
 
-Nichts lenkt mehr von der nackten existenziellen Leere ab."""
+Der nervös auf der Stelle springende Uhrzeiger visualisiert die Gefangenschaft im neurotischen Wiederholungszwang: Ohne Rausch und Theater blickt das Ich in die gähnende Leere der eigenen Existenz."""
             }
         ],
         "cards_en": [
             {
-                "quote": "Old sponge to be replaced / Somatized self-disgust",
-                "body": """Depressive ground zero: the saturated sponge crystallizes internal contamination. Crowning himself "problem king" asserts cynical triumph over personal ruin.
+                "quote": "Scratching every wound into a scar / Old sponge / Somatized self-disgust",
+                "body": """The subject experiences body and mind as contaminated territory: wounds are compulsively picked into scars, while ambitions lie scattered like discarded trash across the apartment floor.
 
-Ambitions lie scattered like garbage; identity dissolves each night."""
+The metaphor of an "old sponge that needs replacement" captures toxic saturation; crowning himself "problem king" converts personal misery into a cynical, self-mocking badge."""
             },
             {
-                "quote": "Couch swallows me / Paralysis",
-                "body": """The sofa mutates into a black hole of catatonia. Depleted energy and fever-dream descent chart the inevitable post-high neurochemical crash.
+                "quote": "How many days has time stood still? / Sorry my life kills your vibe / Taboo of depression",
+                "body": """Internal temporality freezes in the pre-hook: the speaker stands infinitely removed from any authentic self, unable to endure isolation.
 
-Physical tone evaporates into total immobility."""
+The defensive apology "sorry that my life kills your vibe" exposes hedonistic brutality: inside compulsory party culture, authentic depression is the unforgivable offense."""
             },
             {
-                "quote": "Hung out because I hated you / Projection screen",
-                "body": """Unmasking relational cruelty: the partner mirrored disowned self-hatred. Submerged in the tub, the speaker craves molecular dissolution.
+                "quote": "The couch swallows me and never spits me out / Black hole of catatonia",
+                "body": """The sofa mutates into a black hole of somatic paralysis: manic fuel is entirely spent, muscle tone evaporates into total stillness.
 
-Alcohol reduces the organism to a sluggish snail fleeing daylight."""
+Oscillating "between high flight and deep intoxication" charts the fatal manic-depressive loop: artificial euphoria demands its inescapable toll in catatonic fever."""
             },
             {
-                "quote": "Hall of heroes is empty / Collapse of theater",
-                "body": """Silence inside the hall of heroes: phantom applause fades as walls contract. Erratic clock hand portrays compulsory repetition.
+                "quote": "Only hung out because I hated you / Projection screen & dissolution in the tub",
+                "body": """The second verse unmasks relational exploitation: the partner was weaponized to absorb and reflect disowned self-hatred.
 
-Barren existential void left completely exposed."""
+Alcohol reduces the physical organism to a sluggish snail fleeing daylight. Submerged in the tub with sunken eye sockets, the speaker craves complete molecular dissolution in water."""
+            },
+            {
+                "quote": "Hearing voices fall silent, hall of heroes is empty / Collapse of theater",
+                "body": """In the bridge, phantom applause abruptly dies: the grandiose "hall of heroes" stands completely deserted as walls contract claustrophobically.
+
+The erratic clock hand depicts entrapment within compulsory repetition: stripped of intoxication and applause, the speaker confronts pure existential void."""
             }
         ]
     },
@@ -738,7 +750,7 @@ stanza_mappings = {
     "05": [1, 0, 1, 1, 2, 1, 3, 1, 1], # [Intro]->1, [Part 1]->0, [Hook]->1, [Post-Hook]->1, [Part 2]->2, [Hook]->1, [Bridge]->3, [Hook]->1, [Outro]->1
     "06": [0, 0, 0, 0, 1, 0, 2, 0, 0, 3], # [Intro]->0, [Part 1]->0, [Hook]->0, [Post-Hook]->0, [Part 2]->1, [Hook]->0, [Bridge]->2, [Hook]->0, [Post-Hook]->0, [Outro]->3
     "07": [1, 0, 1, 2, 1, 1, 3], # [Intro]->1, [Part 1]->0, [Hook]->1, [Part 2]->2, [Hook]->1, [Bridge]->1, [Outro]->3
-    "08": [0, 0, 1, 1, 2, 1, 1, 3, 1], # [Intro]->0, [Part 1]->0, [Pre-Hook]->1, [Hook]->1, [Part 2]->2, [Pre-Hook]->1, [Hook]->1, [Bridge]->3, [Outro]->1
+    "08": [0, 0, 1, 2, 3, 1, 2, 4, 1], # [Intro]->0, [Part 1]->0, [Pre-Hook]->1, [Hook]->2, [Part 2]->3, [Pre-Hook]->1, [Hook]->2, [Bridge]->4, [Outro]->1
     "09": [1, 0, 1, 1, 2, 1, 1], # [Intro]->1, [Part 1]->0, [Hook]->1, [Interlude]->1, [Part 2]->2, [Hook]->1, [Outro]->1
     "10": [0, 0, 1, 2, 1], # [Intro]->0, [Part 1]->0, [Hook]->1, [Part 2]->2, [Hook]->1
     "11": [0, 1, 2, 1, 3, 0], # [Intro]->0, [Hook]->1, [Part]->2, [Hook]->1, [Bridge]->3, [Outro]->0

@@ -10,92 +10,72 @@
 <p><strong>“Höhenflug + Tiefenrausch”</strong> (High Flight + Deep Intoxication) captures the inescapable neurochemical crash and depressive ground zero of the album. With visceral clarity, Tua articulates saturated self-disgust: <span class="lyric-quote-highlight">“I'm an old sponge that should be replaced / I write myself minus one on the guestlist / Turned from a problem child into a problem king”</span>. Manic fuel is entirely spent; the sofa mutates into a black hole (<span class="lyric-quote-highlight">“The couch swallows me and never spits me out / All energy depleted / Falling through the world, in a fever dream / Between high flight and deep intoxication”</span>).</p>
 <p>The brutal confession in the second verse exposes past intimacy: <span class="lyric-quote-highlight">“Sorry that I pretended for so long / Only hung out with you because I hated you so much”</span>. Submerged in the bathtub, the self attempts somatic dissolution (<span class="lyric-quote-highlight">“A hundred meters deep in my eye sockets / Lying in the tub, trying to dissolve”</span>) while the walls of the empty hall of heroes close in (<span class="lyric-quote-highlight">“Hearing voices fall silent now, the hall of heroes is empty / Infinite boredom, the walls coming closer”</span>).</p>
 
-## Zeilen-Genaue Karten-Dekonstruktion (4 Säulen nach SKILL.md)
+## Zeilen-Genaue Karten-Dekonstruktion (Tomora Standard)
 
-### Karte 1: `Kratze jede Wunde zu 'ner Narbe / Hasse jede Stunde, die ich warte / Finde kein'n Platz für meine Ambitionen / Die liegen im Weg rum in der ganzen Wohnung / Bin ein alter Schwamm, den man mal wechseln müsste / Ich schreib' mich minus eins auf die Gästeliste / Wurde von 'nem Sorgenkind zum Sorgenking / Ich penn' ein und weiß nicht, wer ich morgen bin`
+### Karte 1: `Kratze jede Wunde zu 'ner Narbe / Bin ein alter Schwamm / Der somatisierte Selbstekel`
 
 **Deutsch:**
-Depressive Lähmung und somatisierter Selbstekel: Das Ich erlebt seine eigenen Ambitionen als im Weg liegenden Müll. Das Bild vom „alten Schwamm, den man mal wechseln müsste“ artikuliert eine tiefe Verunreinigung und Sättigung mit toxischen Erfahrungen. Die Krönung zum „Sorgenking“ verwandelt die biografische Misere in einen zynischen, selbstabwertenden Adelstitel.
+Das Ich erlebt den eigenen Körper und Geist als kontaminiertes Terrain: Wunden werden zwanghaft zu Narben aufgekratzt, und die eigenen Ambitionen liegen wie nutzloser Müll im Weg der verwahrlosten Wohnung herum.
 
-Schleppende, erschöpfte Phonation; der Tonfall trieft vor Bitterkeit und Antriebslosigkeit. Somatisch: Schwere Glieder, zerkratzte Haut, Druck auf der Brust.
-
-Dumpfe, verwaschene Drum-Sounds erzeugen das Gefühl von motorischer Erstarrung.
+Das Bild vom „alten Schwamm, den man mal wechseln müsste“ verdichtet die seelische Verunreinigung; die Selbstkrönung zum „Sorgenking“ verwandelt die biografische Misere in einen zynischen, abwertenden Adelstitel.
 
 **English:**
-Depressive paralysis and somatized self-disgust: the subject views its own ambitions as clutter strewn across the apartment floor. The metaphor of the "old sponge that should be replaced" articulates total saturation with toxic residue. Crowning himself "problem king" turns personal misery into a cynical, self-mocking aristocracy.
+The subject experiences body and mind as contaminated territory: wounds are compulsively picked into scars, while ambitions lie scattered like discarded trash across the apartment floor.
 
-Sluggish, exhausted vocal delivery drenched in bitterness and avolition. Somatically: leaden limbs, scratched skin, oppressive chest heaviness.
-
-Muffled, muddy percussion evokes physical immobility.
+The metaphor of an "old sponge that needs replacement" captures toxic saturation; crowning himself "problem king" converts personal misery into a cynical, self-mocking badge.
 
 ---
 
-### Karte 2: `Seit wie viel'n Tagen steht die Zeit still? / War nie weiter weg von was ich sein will / Halte mich nicht aus, wenn ich allein bin / Sorry, dass mein Leben dein'n Vibe killt`
+### Karte 2: `Seit wie viel'n Tagen steht die Zeit still? / Sorry, dass mein Leben dein'n Vibe killt / Das Tabu der Depression`
 
 **Deutsch:**
-Die Unerträglichkeit der Einsamkeit: Das Stillstehen der Zeit spiegelt die Erstarrung der inneren Uhr wider. Die Bitte um Entschuldigung („Sorry, dass mein Leben dein'n Vibe killt“) entlarvt die gesellschaftliche Isolation: In einer hedonistischen Umgebung ist die eigene Depression das ultimative Tabu, für das man sich schämt.
+Im Pre-Hook erstarrt die innere Zeitrechnung: Das Subjekt ist maximal weit von jedem erstrebenswerten Lebensentwurf entfernt und erträgt die eigene Einsamkeit nicht mehr.
 
-Brüchige, verzagte Phonation mit zynischer Endung. Somatisch: Zittern, Kältegefühl, das Verstecken des Gesichts.
-
-Schwebende, monotone Synth-Drones halten die Zeit akustisch an.
+Die schuldhafte Entschuldigung „Sorry, dass mein Leben dein'n Vibe killt“ demaskiert die gnadenlose Realität der Party-Kultur: In einer Welt der verordneten Hochstimmung ist authentische Depression das ultimative gesellschaftliche Tabu.
 
 **English:**
-The unbearable agony of isolation: temporal standstill mirrors the paralysis of internal drive. The apology "sorry that my life kills your vibe" exposes social exile: within hedonistic culture, depressive reality is the ultimate taboo demanding shame.
+Internal temporality freezes in the pre-hook: the speaker stands infinitely removed from any authentic self, unable to endure isolation.
 
-Fragile, faltering delivery with a cynical edge. Somatically: tremors, chills, covering the face.
-
-Suspended, drone textures freeze musical progression in place.
+The defensive apology "sorry that my life kills your vibe" exposes hedonistic brutality: inside compulsory party culture, authentic depression is the unforgivable offense.
 
 ---
 
-### Karte 3: `Die Couch schluckt mich und spuckt mich nie mehr aus / Alle Energie verbraucht / Falle durch die Welt, bin im Fiebertraum / Zwischen Höhenflug und Tiefenrausch`
+### Karte 3: `Die Couch schluckt mich und spuckt mich nie mehr aus / Das schwarze Loch der Katatonie`
 
 **Deutsch:**
-Die Couch als schwarzes Loch der Katatonie: Der Körper sinkt in die Polster ein und wird von ihnen gleichsam verschlungen. Die bipolare Pendelbewegung „Zwischen Höhenflug und Tiefenrausch“ markiert den fatalen Rhythmus der psychischen Instabilität: Auf die manische Überhöhung folgt unausweichlich der totale Absturz.
+Die Couch mutiert zum schwarzen Loch der motorischen und seelischen Lähmung: Alle manische Energie ist restlos verbraucht, der Körper sinkt tonuslos in die Polster ein.
 
-Hohle, körperlose Gesangsstimme, umhüllt von schwerem Nachhall. Somatisches Versinken, Verlust der Körperspannung, Fiebergefühl.
-
-Tief gestimmte 808-Subbässe und fallende Synth-Filter simulieren den endlosen freien Fall.
+Das bipolare Pendeln „Zwischen Höhenflug und Tiefenrausch“ beschreibt den fatalen Kreislauf des Werks: Die erzwungene Ekstase der vorangegangenen Nächte fordert ihren unausweichlichen Preis im katatonischen Fiebertraum.
 
 **English:**
-The sofa as a catatonic black hole: the physical frame sinks into upholstery and is swallowed whole. The bipolar oscillation "between high flight and deep intoxication" charts the fatal rhythm of instability: manic elevation is inexorably answered by total crash.
+The sofa mutates into a black hole of somatic paralysis: manic fuel is entirely spent, muscle tone evaporates into total stillness.
 
-Hollow, disembodied singing enveloped in thick reverb tails. Somatically: physical sinkage, loss of muscle tone, feverish lethargy.
-
-Sub-bass swells and downward filter sweeps simulate endless freefall.
+Oscillating "between high flight and deep intoxication" charts the fatal manic-depressive loop: artificial euphoria demands its inescapable toll in catatonic fever.
 
 ---
 
-### Karte 4: `Kann mich nicht bewegen, alles klemmt / Konnte man sich gegen alles stemm'n? / Sorry, dass ich dir so lang was vorgemacht hab' / Hing nur mit dir rum, weil ich dich so gehasst hab' / Alkohol macht mich zu einer fetten Schnecke / Verkriech' mich am nächsten Tag in die letzte Ecke / Hundert Meter tief in mein'n Augenhöhl'n / Lieg' in der Wanne, versuch' mich aufzulösen`
+### Karte 4: `Hing nur mit dir rum, weil ich dich so gehasst hab' / Die Projektionsfläche & Auflösung in der Wanne`
 
 **Deutsch:**
-Schonungslose Abrechnung mit toxischen Bindungsmustern und somatische Auflösungsfantasie: Das Geständnis „Hing nur mit dir rum, weil ich dich so gehasst hab'“ entlarvt, wie das Gegenüber als Ventil für den eigenen Selbsthass missbraucht wurde. In der Badewanne liegend, fantasiert das Ich über die vollständige molekulare Auflösung der eigenen Existenz, um dem Schmerz der Identität zu entkommen.
+Der zweite Vers eröffnet mit dem Bekenntnis toxischer Ausbeutung: Der Partner wurde nicht geliebt, sondern als Projektionsfläche für den eigenen unerträglichen Selbsthass instrumentalisiert.
 
-Gepresste, fast erstickte Stimme; tiefe Dunkelheit in der Artikulation. Somatisch: Untertauchen im heißen Wasser, Schließen der Augen, Brennen in den Augenhöhlen.
-
-Trübe Piano-Akkorde und subtiles Wasserplätschern erzeugen eine beklemmende Intimität.
+Alkohol degradiert den Organismus zu einer lichtscheuen „fetten Schnecke“. In der Badewanne liegend, mit hundert Meter tiefen Augenhöhlen, fantasiert das Ich über die vollständige molekulare Auflösung der eigenen Existenz im Wasser.
 
 **English:**
-Ruthless unmasking of relational toxicity and somatic dissolution fantasy: confessing "only hung out with you because I hated you so much" reveals how the partner was weaponized to mirror disowned self-hatred. Submerged in the tub, the speaker craves total molecular dissolution to escape the agony of identity.
+The second verse unmasks relational exploitation: the partner was weaponized to absorb and reflect disowned self-hatred.
 
-Choked, strained vocal timbre; deep darkness in delivery. Somatically: sinking under hot water, eyes tightly closed, burning behind the sockets.
-
-Murky piano chords and ambient liquid textures create claustrophobic intimacy.
+Alcohol reduces the physical organism to a sluggish snail fleeing daylight. Submerged in the tub with sunken eye sockets, the speaker craves complete molecular dissolution in water.
 
 ---
 
-### Karte 5: `Hör' jetzt Stimmen schweigen, der Heldensaal ist leer / Unendlich Langeweile, die Wände kommen näher / Und ständig springt der Zeiger auf der Stelle hin und her`
+### Karte 5: `Hör' jetzt Stimmen schweigen, der Heldensaal ist leer / Das Ende des Theaters`
 
 **Deutsch:**
-Der Zusammenbruch des narzisstischen Theaters: Im „Heldensaal“ herrscht Totenstille; die imaginierten Bewunderer sind verschwunden. Die klaustrophobische Erfahrung („die Wände kommen näher“) und der springende Zeiger spiegeln das Gefangensein im ewigen Wiederholungszwang wider.
+In der Bridge verstummt der eingebildete Jubel des Publikums: Der erhabene „Heldensaal“ ist leer gefegt, und die Zimmerwände rücken klaustrophobisch näher.
 
-Flüsternde, trockene Phonation ohne Echo. Somatisch: Klaustrophobie, Engegefühl im Hals, starrer Blick auf die Wand.
-
-Das Ausdünnen der Instrumentierung lässt die nackte Einsamkeit im Raum stehen.
+Der nervös auf der Stelle springende Uhrzeiger visualisiert die Gefangenschaft im neurotischen Wiederholungszwang: Ohne Rausch und Theater blickt das Ich in die gähnende Leere der eigenen Existenz.
 
 **English:**
-The collapse of the narcissistic theater: inside the "hall of heroes", deafening silence reigns; imagined admirers have evaporated. Claustrophobia ("walls coming closer") and the erratic clock hand depict imprisonment within compulsory repetition.
+In the bridge, phantom applause abruptly dies: the grandiose "hall of heroes" stands completely deserted as walls contract claustrophobically.
 
-Dry whispered delivery stripped of echo. Somatically: claustrophobic throat constriction, fixed gaze at the wall.
-
-Thinning instrumentation leaves barren isolation lingering in space.
+The erratic clock hand depicts entrapment within compulsory repetition: stripped of intoxication and applause, the speaker confronts pure existential void.
