@@ -746,9 +746,9 @@ stanza_mappings = {
     "01": [0, 1, 2, 3], # [Part 1]->0, [Part 2]->1, [Hook]->2, [Outro]->3
     "02": [0, 1, 2, 1, 3, 4], # [Part 1]->0, [Hook]->1, [Part 2]->2, [Hook]->1, [Bridge]->3, [Outro]->4
     "03": [0, 1, 2, 3, 1, 4, 3, 1], # [Intro]->0, [Hook]->1, [Part 1]->2, [Pre-Hook]->3, [Hook]->1, [Part 2]->4, [Pre-Hook]->3, [Hook]->1
-    "04": "custom_04", # Part 1 has 2 cards, Part 2 has 2 cards
+    "04": [0, 1, 2, 3, 1, 2, 4], # [Part 1]->0, [Pre-Hook]->1, [Hook]->2, [Part 2]->3, [Pre-Hook]->1, [Hook]->2, [Outro]->4
     "05": [1, 0, 1, 1, 2, 1, 3, 1, 1], # [Intro]->1, [Part 1]->0, [Hook]->1, [Post-Hook]->1, [Part 2]->2, [Hook]->1, [Bridge]->3, [Hook]->1, [Outro]->1
-    "06": [0, 0, 0, 0, 1, 0, 2, 0, 0, 3], # [Intro]->0, [Part 1]->0, [Hook]->0, [Post-Hook]->0, [Part 2]->1, [Hook]->0, [Bridge]->2, [Hook]->0, [Post-Hook]->0, [Outro]->3
+    "06": [0, 0, 1, 1, 2, 1, 3, 1, 1, 3], # [Intro]->0, [Part 1]->0, [Hook]->1, [Post-Hook]->1, [Part 2]->2, [Hook]->1, [Bridge]->3, [Hook]->1, [Post-Hook]->1, [Outro]->3
     "07": [1, 0, 1, 2, 1, 1, 3], # [Intro]->1, [Part 1]->0, [Hook]->1, [Part 2]->2, [Hook]->1, [Bridge]->1, [Outro]->3
     "08": [0, 0, 1, 2, 3, 1, 2, 4, 1], # [Intro]->0, [Part 1]->0, [Pre-Hook]->1, [Hook]->2, [Part 2]->3, [Pre-Hook]->1, [Hook]->2, [Bridge]->4, [Outro]->1
     "09": [1, 0, 1, 1, 2, 1, 1], # [Intro]->1, [Part 1]->0, [Hook]->1, [Interlude]->1, [Part 2]->2, [Hook]->1, [Outro]->1
@@ -757,19 +757,11 @@ stanza_mappings = {
 }
 
 def get_card_idx_for_line(t_num, s_idx, l_idx, line_text, total_cards):
-    if t_num == "04":
-        if s_idx == 0:
-            return 0 if l_idx < 2 else 1
-        elif s_idx == 1 or s_idx == 2 or s_idx == 4 or s_idx == 5 or s_idx == 6:
-            return 2
-        elif s_idx == 3:
-            return 3 if l_idx < 2 else 4
-        return 0
-    
     mapping = stanza_mappings.get(t_num)
     if isinstance(mapping, list) and s_idx < len(mapping):
         return min(mapping[s_idx], total_cards - 1)
     return min(s_idx, total_cards - 1)
+
 
 # Assemble index.html
 html_parts = []
