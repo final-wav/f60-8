@@ -729,6 +729,36 @@ adapted_js = adapted_js.replace('TOMORA', 'TUA — F60.8')
 adapted_js = adapted_js.replace('const audioSrc = `audio/track_${track.num}_${currentLang}.mp3`;', 'const audioSrc = currentLang === "de" ? track.audioDe : track.audioEn;')
 
 
+# Explicit semantic card mapping for every track and stanza
+stanza_mappings = {
+    "01": [0, 1, 2, 3], # [Part 1]->0, [Part 2]->1, [Hook]->2, [Outro]->3
+    "02": [0, 1, 2, 1, 3, 4], # [Part 1]->0, [Hook]->1, [Part 2]->2, [Hook]->1, [Bridge]->3, [Outro]->4
+    "03": [0, 1, 2, 3, 1, 4, 3, 1], # [Intro]->0, [Hook]->1, [Part 1]->2, [Pre-Hook]->3, [Hook]->1, [Part 2]->4, [Pre-Hook]->3, [Hook]->1
+    "04": "custom_04", # Part 1 has 2 cards, Part 2 has 2 cards
+    "05": [1, 0, 1, 1, 2, 1, 3, 1, 1], # [Intro]->1, [Part 1]->0, [Hook]->1, [Post-Hook]->1, [Part 2]->2, [Hook]->1, [Bridge]->3, [Hook]->1, [Outro]->1
+    "06": [0, 0, 0, 0, 1, 0, 2, 0, 0, 3], # [Intro]->0, [Part 1]->0, [Hook]->0, [Post-Hook]->0, [Part 2]->1, [Hook]->0, [Bridge]->2, [Hook]->0, [Post-Hook]->0, [Outro]->3
+    "07": [1, 0, 1, 2, 1, 1, 3], # [Intro]->1, [Part 1]->0, [Hook]->1, [Part 2]->2, [Hook]->1, [Bridge]->1, [Outro]->3
+    "08": [0, 0, 1, 1, 2, 1, 1, 3, 1], # [Intro]->0, [Part 1]->0, [Pre-Hook]->1, [Hook]->1, [Part 2]->2, [Pre-Hook]->1, [Hook]->1, [Bridge]->3, [Outro]->1
+    "09": [1, 0, 1, 1, 2, 1, 1], # [Intro]->1, [Part 1]->0, [Hook]->1, [Interlude]->1, [Part 2]->2, [Hook]->1, [Outro]->1
+    "10": [0, 0, 1, 2, 1], # [Intro]->0, [Part 1]->0, [Hook]->1, [Part 2]->2, [Hook]->1
+    "11": [0, 1, 2, 1, 3, 0], # [Intro]->0, [Hook]->1, [Part]->2, [Hook]->1, [Bridge]->3, [Outro]->0
+}
+
+def get_card_idx_for_line(t_num, s_idx, l_idx, line_text, total_cards):
+    if t_num == "04":
+        if s_idx == 0:
+            return 0 if l_idx < 2 else 1
+        elif s_idx == 1 or s_idx == 2 or s_idx == 4 or s_idx == 5 or s_idx == 6:
+            return 2
+        elif s_idx == 3:
+            return 3 if l_idx < 2 else 4
+        return 0
+    
+    mapping = stanza_mappings.get(t_num)
+    if isinstance(mapping, list) and s_idx < len(mapping):
+        return min(mapping[s_idx], total_cards - 1)
+    return min(s_idx, total_cards - 1)
+
 # Assemble index.html
 html_parts = []
 
@@ -856,14 +886,13 @@ for t in tracks_data:
         if not lines:
             continue
         
-        # Map stanza index smoothly to available cards
-        assigned_card_idx = min(s_idx, total_cards - 1)
-        
         html_parts.append(f"""          <div class="stanza">\n            <div class="stanza-title">[{st_title}]</div>\n""")
-        for line in lines:
+        for l_idx, line in enumerate(lines):
+            assigned_card_idx = get_card_idx_for_line(t_num, s_idx, l_idx, line, total_cards)
             html_parts.append(f"""            <div class="lyric-line annotated" data-line-idx="{line_global_counter}"><span class="lyric-trigger" data-track-num="{t_num}" data-target-card="{assigned_card_idx}">{line}</span></div>\n""")
             line_global_counter += 1
         html_parts.append("""          </div>\n""")
+
 
     # Right column: DE/EN Review & Card Deck
     html_parts.append(f"""        </div>
