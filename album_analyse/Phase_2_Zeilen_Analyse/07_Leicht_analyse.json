@@ -1,337 +1,42 @@
 {
-  "track_num": "07",
-  "track_title": "Leicht",
+  "num": "07",
+  "title": "Leicht",
   "review_de": "<p><strong>„Leicht“</strong> ist die Chronik einer abgestumpften Affektabflachung im hedonistischen Nachtleben. Aus purer Trägheit gerät der Protagonist in eine Villa-Party und beginnt eine flüchtige Begegnung ohne jede emotionale Beteiligung: <span class=\"lyric-quote-highlight\">„Fang' zu flirten an, nur aus Routine / Finde sie nicht mal besonders heiß / Doch geteiltes Leid ist halbes Leid“</span>. Das unterlegte englische Sample (<span class=\"lyric-quote-highlight\">„Trying to feel alright all the time“</span>) fungiert als resignatives Mantra.</p>\n<p>Im zweiten Vers tritt die Dissoziation offen zutage: <span class=\"lyric-quote-highlight\">„Blauer als die Scheinwerfer im Pool / Schaue mir von weit weg dabei zu / Alles fühlt sich als, als wär es geschäftlich / Echt ist nur die Leere, seit du weg bist“</span>. Die finale Entsorgung der Intimität vollzieht sich im Outro mit administrativer Gleichgültigkeit an der Taxitür: <span class=\"lyric-quote-highlight\">„Sie will ballern, ich schenk' ihr ein Gramm / „Meld dich“, sagt sie, ich denke nicht dran / „Danke für den nicen Abend“, sagt sie / „Ja“, sag' ich und schließ' die Tür von ihr'm Taxi“</span>.</p>",
   "review_en": "<p><strong>“Leicht”</strong> (Light / Easy) stands as a chronicle of emotional blunting within hedonistic nightlife. Wandering into a villa party out of sheer inertia, the protagonist initiates a hollow encounter: <span class=\"lyric-quote-highlight\">“Start flirting just out of routine / Don't even find her particularly hot / But shared pain is half the pain”</span>. The underlying vocal loop (<span class=\"lyric-quote-highlight\">“Trying to feel alright all the time”</span>) acts as a resigned mantra.</p>\n<p>In the second verse, dissociation takes over: <span class=\"lyric-quote-highlight\">“Bluer than the spotlights in the pool / Watching myself from far away / Everything feels commercial / Real is only the void since you left”</span>. Disposal of intimacy occurs at the taxi door with administrative coldness: <span class=\"lyric-quote-highlight\">“She wants to party, I give her a gram / 'Call me,' she says, I don't think about it / 'Thanks for the nice evening,' she says / 'Yeah,' I say and close the door of her taxi”</span>.</p>",
   "cards_de": [
     {
-      "quote": "Ego FM Ibiza / (Feel alright) / (Trying to feel alright) / Ah",
-      "body": "Die Passage in [[Intro]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Ego FM Ibiza“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Fang' zu flirten an, nur aus Routine / Das mechanische Begehren",
+      "body": "Die Begegnung auf der Party ist frei von echter Leidenschaft: Flirten läuft als automatisierte „Routine“ ab. Das Ich findet das Gegenüber nicht einmal attraktiv, nutzt die Situation aber als Betäubungsmittel gegen die eigene Einsamkeit („geteiltes Leid ist halbes Leid“).\n\nIntimität verkommt zur seelenlosen Transaktion zweier Menschen, die sich gegenseitig als Rauschmittel konsumieren."
     },
     {
-      "quote": "Lande auf der Party durch 'nen Kumpel / Wander' durch den Garten, es ist dunkel / Rote Lichter häng'n von den Palmen / Freundin von Bekannten lacht in Salven / Sie ist auch aus Schland, ich gratuliere / Fang' zu flirten an, nur aus Routine / Finde sie nicht mal besonders heiß / Doch geteiltes Leid ist halbes Leid",
-      "body": "Die Passage in [[Part 1]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Lande auf der Party durch 'nen Kumpel“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Trying to feel alright all the time / Der Zwang zum Wohlbefinden",
+      "body": "Das geloopte englische Sample bringt den Kernkonflikt der hedonistischen Kultur auf den Punkt: Der Zwang, sich permanent gut zu fühlen, erstickt jede authentische Regung und mündet in chronischer Taubheit.\n\nDie Bitte „Mach' es mir leicht“ ist die Kapitulation vor der emotionalen Komplexität des realen Lebens."
     },
     {
-      "quote": "Mach' es mir leicht, mach' es mir leicht / Trying to feel alright all the time / Mach' es mir leicht, mach' es mir leicht / I been trying to feel alright all the time (Yeah)",
-      "body": "Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Mach' es mir leicht, mach' es mir leicht“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Schaue mir von weit weg dabei zu / Die Dissoziation",
+      "body": "Mitten im Geschehen spaltet sich das Bewusstsein ab: Das Ich beobachtet den eigenen Körper wie einen fremden Darsteller im Scheinwerferlicht des Pools. Alles wirkt steril und „geschäftlich“; als einzige reale Empfindung bleibt die Leere nach dem Verlust.\n\nDie emotionale Resonanzachse zur Umwelt ist vollständig gekappt; die Party wird zum Stummfilm."
     },
     {
-      "quote": "Action hinterm Haus, als wär'n wir sechzehn / Besser als zuvor unsre Gesprächsthem'n / Blauer als die Scheinwerfer im Pool / Schaue mir von weit weg dabei zu / Alles fühlt sich als, als wär es geschäftlich / Echt ist nur die Leere, seit du weg bist / Ich bin nur hier, weil ich nichts Bessres weiß / Und geteiltes Leid ist halbes Leid",
-      "body": "Die Passage in [[Part 2]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Action hinterm Haus, als wär'n wir sechzehn“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
-    },
-    {
-      "quote": "Mach' es mir leicht, mach' es mir leicht / Trying to feel alright all the time / Mach' es mir leicht, mach' es mir leicht / I been trying to feel alright all the time",
-      "body": "Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Mach' es mir leicht, mach' es mir leicht“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
-    },
-    {
-      "quote": "Versuch' die ganze Zeit, mich gut zu fühl'n / Feel the love passing by / Versuch' mich gut zu fühl'n, die ganze Zeit / Love, love passing by / Versuch' die ganze Zeit, mich gut zu fühl'n / Feel the love passing by / Versuch' mich gut zu fühl'n, die ganze Zeit (Yeah)",
-      "body": "Die Passage in [[Bridge]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Versuch' die ganze Zeit, mich gut zu fühl'n“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
-    },
-    {
-      "quote": "Sie will ballern, ich schenk' ihr ein Gramm / „Meld dich“, sagt sie, ich denke nicht dran / „Danke für den nicen Abend“, sagt sie / „Ja“, sag' ich und schließ' die Tür von ihr'm Taxi",
-      "body": "Die Passage in [[Outro]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Sie will ballern, ich schenk' ihr ein Gramm“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "„Ja“, sag' ich und schließ' die Tür von ihr'm Taxi / Die finale Entsorgung",
+      "body": "Die Begegnung endet an der Taxitür mit bürokratischer Gleichgültigkeit. Das Verschenken von Kokain begleicht die Schuld; das geheuchelte Einverständnis („Ja“) dient nur dazu, die Tür zuzuschlagen und die Person loszuwerden.\n\nDas Geräusch der zufallenden Autotür besiegelt die sofortige Auslöschung der Begegnung aus dem Gedächtnis."
     }
   ],
   "cards_en": [
     {
-      "quote": "Ego FM Ibiza / (Feel alright) / (Trying to feel alright) / Ah",
-      "body": "The passage in [[Intro]] deconstructs the core psychodynamic conflict around the line “Ego FM Ibiza”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Flirting out of routine / Mechanical desire",
+      "body": "Flirting without attraction, enacted as routine. Shared numbness serves as anesthetic (\"shared pain is half the pain\").\n\nIntimacy degenerates into transactional consumption between isolated individuals."
     },
     {
-      "quote": "Lande auf der Party durch 'nen Kumpel / Wander' durch den Garten, es ist dunkel / Rote Lichter häng'n von den Palmen / Freundin von Bekannten lacht in Salven / Sie ist auch aus Schland, ich gratuliere / Fang' zu flirten an, nur aus Routine / Finde sie nicht mal besonders heiß / Doch geteiltes Leid ist halbes Leid",
-      "body": "The passage in [[Part 1]] deconstructs the core psychodynamic conflict around the line “Lande auf der Party durch 'nen Kumpel”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Trying to feel alright all the time / Compulsive euphoria",
+      "body": "The vocal loop distills hedonistic pathology: compulsory optimization smothers authentic feeling into chronic numbness.\n\nPleading for lightness capitulates before emotional reality."
     },
     {
-      "quote": "Mach' es mir leicht, mach' es mir leicht / Trying to feel alright all the time / Mach' es mir leicht, mach' es mir leicht / I been trying to feel alright all the time (Yeah)",
-      "body": "The passage in [[Hook]] deconstructs the core psychodynamic conflict around the line “Mach' es mir leicht, mach' es mir leicht”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Watching myself from far away / Dissociation",
+      "body": "Consciousness detaches during intimacy: observing oneself as an alien actor under pool lights. Sensation feels commercial; void is the only remaining authenticity.\n\nEmotional resonance severed; party reduced to silent cinema."
     },
     {
-      "quote": "Action hinterm Haus, als wär'n wir sechzehn / Besser als zuvor unsre Gesprächsthem'n / Blauer als die Scheinwerfer im Pool / Schaue mir von weit weg dabei zu / Alles fühlt sich als, als wär es geschäftlich / Echt ist nur die Leere, seit du weg bist / Ich bin nur hier, weil ich nichts Bessres weiß / Und geteiltes Leid ist halbes Leid",
-      "body": "The passage in [[Part 2]] deconstructs the core psychodynamic conflict around the line “Action hinterm Haus, als wär'n wir sechzehn”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    },
-    {
-      "quote": "Mach' es mir leicht, mach' es mir leicht / Trying to feel alright all the time / Mach' es mir leicht, mach' es mir leicht / I been trying to feel alright all the time",
-      "body": "The passage in [[Hook]] deconstructs the core psychodynamic conflict around the line “Mach' es mir leicht, mach' es mir leicht”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    },
-    {
-      "quote": "Versuch' die ganze Zeit, mich gut zu fühl'n / Feel the love passing by / Versuch' mich gut zu fühl'n, die ganze Zeit / Love, love passing by / Versuch' die ganze Zeit, mich gut zu fühl'n / Feel the love passing by / Versuch' mich gut zu fühl'n, die ganze Zeit (Yeah)",
-      "body": "The passage in [[Bridge]] deconstructs the core psychodynamic conflict around the line “Versuch' die ganze Zeit, mich gut zu fühl'n”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    },
-    {
-      "quote": "Sie will ballern, ich schenk' ihr ein Gramm / „Meld dich“, sagt sie, ich denke nicht dran / „Danke für den nicen Abend“, sagt sie / „Ja“, sag' ich und schließ' die Tür von ihr'm Taxi",
-      "body": "The passage in [[Outro]] deconstructs the core psychodynamic conflict around the line “Sie will ballern, ich schenk' ihr ein Gramm”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    }
-  ],
-  "stanzas": [
-    {
-      "title": "[Intro]",
-      "lines": [
-        {
-          "line_idx": 0,
-          "text": "Ego FM Ibiza",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 1,
-          "text": "(Feel alright)",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 2,
-          "text": "(Trying to feel alright)",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 3,
-          "text": "Ah",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
-    },
-    {
-      "title": "[Part 1]",
-      "lines": [
-        {
-          "line_idx": 4,
-          "text": "Lande auf der Party durch 'nen Kumpel",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 5,
-          "text": "Wander' durch den Garten, es ist dunkel",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 6,
-          "text": "Rote Lichter häng'n von den Palmen",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 7,
-          "text": "Freundin von Bekannten lacht in Salven",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 8,
-          "text": "Sie ist auch aus Schland, ich gratuliere",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 9,
-          "text": "Fang' zu flirten an, nur aus Routine",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 10,
-          "text": "Finde sie nicht mal besonders heiß",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 11,
-          "text": "Doch geteiltes Leid ist halbes Leid",
-          "annotated": true,
-          "card_idx": 1
-        }
-      ]
-    },
-    {
-      "title": "[Hook]",
-      "lines": [
-        {
-          "line_idx": 12,
-          "text": "Mach' es mir leicht, mach' es mir leicht",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 13,
-          "text": "Trying to feel alright all the time",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 14,
-          "text": "Mach' es mir leicht, mach' es mir leicht",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 15,
-          "text": "I been trying to feel alright all the time (Yeah)",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
-    },
-    {
-      "title": "[Part 2]",
-      "lines": [
-        {
-          "line_idx": 16,
-          "text": "Action hinterm Haus, als wär'n wir sechzehn",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 17,
-          "text": "Besser als zuvor unsre Gesprächsthem'n",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 18,
-          "text": "Blauer als die Scheinwerfer im Pool",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 19,
-          "text": "Schaue mir von weit weg dabei zu",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 20,
-          "text": "Alles fühlt sich als, als wär es geschäftlich",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 21,
-          "text": "Echt ist nur die Leere, seit du weg bist",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 22,
-          "text": "Ich bin nur hier, weil ich nichts Bessres weiß",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 23,
-          "text": "Und geteiltes Leid ist halbes Leid",
-          "annotated": true,
-          "card_idx": 1
-        }
-      ]
-    },
-    {
-      "title": "[Hook]",
-      "lines": [
-        {
-          "line_idx": 24,
-          "text": "Mach' es mir leicht, mach' es mir leicht",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 25,
-          "text": "Trying to feel alright all the time",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 26,
-          "text": "Mach' es mir leicht, mach' es mir leicht",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 27,
-          "text": "I been trying to feel alright all the time",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
-    },
-    {
-      "title": "[Bridge]",
-      "lines": [
-        {
-          "line_idx": 28,
-          "text": "Versuch' die ganze Zeit, mich gut zu fühl'n",
-          "annotated": true,
-          "card_idx": 5
-        },
-        {
-          "line_idx": 29,
-          "text": "Feel the love passing by",
-          "annotated": true,
-          "card_idx": 5
-        },
-        {
-          "line_idx": 30,
-          "text": "Versuch' mich gut zu fühl'n, die ganze Zeit",
-          "annotated": true,
-          "card_idx": 5
-        },
-        {
-          "line_idx": 31,
-          "text": "Love, love passing by",
-          "annotated": true,
-          "card_idx": 5
-        },
-        {
-          "line_idx": 32,
-          "text": "Versuch' die ganze Zeit, mich gut zu fühl'n",
-          "annotated": true,
-          "card_idx": 5
-        },
-        {
-          "line_idx": 33,
-          "text": "Feel the love passing by",
-          "annotated": true,
-          "card_idx": 5
-        },
-        {
-          "line_idx": 34,
-          "text": "Versuch' mich gut zu fühl'n, die ganze Zeit (Yeah)",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
-    },
-    {
-      "title": "[Outro]",
-      "lines": [
-        {
-          "line_idx": 35,
-          "text": "Sie will ballern, ich schenk' ihr ein Gramm",
-          "annotated": true,
-          "card_idx": 6
-        },
-        {
-          "line_idx": 36,
-          "text": "„Meld dich“, sagt sie, ich denke nicht dran",
-          "annotated": true,
-          "card_idx": 6
-        },
-        {
-          "line_idx": 37,
-          "text": "„Danke für den nicen Abend“, sagt sie",
-          "annotated": true,
-          "card_idx": 6
-        },
-        {
-          "line_idx": 38,
-          "text": "„Ja“, sag' ich und schließ' die Tür von ihr'm Taxi",
-          "annotated": true,
-          "card_idx": 6
-        }
-      ]
+      "quote": "Yeah, I say, closing the taxi door / Disposal",
+      "body": "Meeting concluded with bureaucratic finality. Cocaine settles obligation; feigned consent (\"yeah\") expedites departure.\n\nSlamming the taxi door executes immediate erasure from consciousness."
     }
   ]
 }

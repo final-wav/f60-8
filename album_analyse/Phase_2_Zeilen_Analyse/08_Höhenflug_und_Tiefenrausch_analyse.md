@@ -10,77 +10,61 @@
 <p><strong>“Höhenflug + Tiefenrausch”</strong> (High Flight + Deep Intoxication) captures the inescapable neurochemical crash and depressive ground zero of the album. With visceral clarity, Tua articulates saturated self-disgust: <span class="lyric-quote-highlight">“I'm an old sponge that should be replaced / I write myself minus one on the guestlist / Turned from a problem child into a problem king”</span>. Manic fuel is entirely spent; the sofa mutates into a black hole (<span class="lyric-quote-highlight">“The couch swallows me and never spits me out / All energy depleted / Falling through the world, in a fever dream / Between high flight and deep intoxication”</span>).</p>
 <p>The brutal confession in the second verse exposes past intimacy: <span class="lyric-quote-highlight">“Sorry that I pretended for so long / Only hung out with you because I hated you so much”</span>. Submerged in the bathtub, the self attempts somatic dissolution (<span class="lyric-quote-highlight">“A hundred meters deep in my eye sockets / Lying in the tub, trying to dissolve”</span>) while the walls of the empty hall of heroes close in (<span class="lyric-quote-highlight">“Hearing voices fall silent now, the hall of heroes is empty / Infinite boredom, the walls coming closer”</span>).</p>
 
-## Zeilen-Genaue Karten-Dekonstruktion
+## Zeilen-Genaue Karten-Dekonstruktion (Tomora Standard)
 
-### Karte 1: `Ego FM Ibiza`
+### Karte 1: `Bin ein alter Schwamm, den man mal wechseln müsste / Der somatisierte Selbstekel`
 
-Die Passage in [[Intro]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Ego FM Ibiza“:
+**Deutsch:**
+Das depressive Epizentrum des Albums: Das Bild vom vollgesogenen, unbrauchbaren Schwamm verdichtet das Gefühl innerer Kontamination und seelischer Fäulnis. Die Selbsternennung zum „Sorgenking“ ist der zynische Triumph über den eigenen Verfall.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+Die Ambitionen liegen wie Müll in der Wohnung herum; das Ich weiß beim Einschlafen nicht mehr, wer es am nächsten Morgen sein wird.
 
-### Karte 2: `Kratze jede Wunde zu 'ner Narbe / Hasse jede Stunde, die ich warte / Finde kein'n Platz für meine Ambitionen / Die liegen im Weg rum in der ganzen Wohnung / Bin ein alter Schwamm, den man mal wechseln müsste / Ich schreib' mich minus eins auf die Gästeliste / Wurde von 'nem Sorgenkind zum Sorgenking / Ich penn' ein und weiß nicht, wer ich morgen bin`
+**English:**
+Depressive ground zero: the saturated sponge crystallizes internal contamination. Crowning himself "problem king" asserts cynical triumph over personal ruin.
 
-Die Passage in [[Part 1]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Kratze jede Wunde zu 'ner Narbe“:
+Ambitions lie scattered like garbage; identity dissolves each night.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+---
 
-### Karte 3: `Seit wie viel'n Tagen steht die Zeit still? / War nie weiter weg von was ich sein will / Halte mich nicht aus, wenn ich allein bin / Sorry, dass mein Leben dein'n Vibe killt`
+### Karte 2: `Die Couch schluckt mich und spuckt mich nie mehr aus / Die Lähmung`
 
-Die Passage in [[Pre-Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Seit wie viel'n Tagen steht die Zeit still?“:
+**Deutsch:**
+Die Couch wird zum schwarzen Loch der Katatonie. Die verbrauchte Energie und das Fallen im Fiebertraum markieren den unausweichlichen dopaminergen Absturz nach dem Höhenflug.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+Der Körper verliert jede Spannkraft und erstarrt in völliger Handlungsunfähigkeit.
 
-### Karte 4: `Die Couch schluckt mich und spuckt mich nie mehr aus / Alle Energie verbraucht / Falle durch die Welt, bin im Fiebertraum / Zwischen Höhenflug und Tiefenrausch (Oh, ja)`
+**English:**
+The sofa mutates into a black hole of catatonia. Depleted energy and fever-dream descent chart the inevitable post-high neurochemical crash.
 
-Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Die Couch schluckt mich und spuckt mich nie mehr aus“:
+Physical tone evaporates into total immobility.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+---
 
-### Karte 5: `Kann mich nicht bewegen, alles klemmt / Konnte man sich gegen alles stemm'n? / Sorry, dass ich dir so lang was vorgemacht hab' / Hing nur mit dir rum, weil ich dich so gehasst hab' / Alkohol macht mich zu einer fetten Schnecke / Verkriech' mich am nächsten Tag in die letzte Ecke / Hundert Meter tief in mein'n Augenhöhl'n / Lieg' in der Wanne, versuch' mich aufzulösen`
+### Karte 3: `Hing nur mit dir rum, weil ich dich so gehasst hab' / Die Projektionsfläche`
 
-Die Passage in [[Part 2]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Kann mich nicht bewegen, alles klemmt“:
+**Deutsch:**
+Schonungslose Demaskierung vergangener Beziehungen: Der Partner diente lediglich als Blitzableiter für den unerträglichen eigenen Selbsthass. In der Badewanne liegend, fantasiert das Ich über die molekulare Auflösung der eigenen Existenz.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+Die Flucht in den Alkohol verwandelt den Körper in eine langsame „fette Schnecke“, die sich vor dem Licht verkriecht.
 
-### Karte 6: `Seit wie viel'n Tagen steht die Zeit still? / War nie weiter weg von was ich sein will / Halte mich nicht aus, wenn ich allein bin / Sorry, dass mein Leben dein'n Vibe killt`
+**English:**
+Unmasking relational cruelty: the partner mirrored disowned self-hatred. Submerged in the tub, the speaker craves molecular dissolution.
 
-Die Passage in [[Pre-Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Seit wie viel'n Tagen steht die Zeit still?“:
+Alcohol reduces the organism to a sluggish snail fleeing daylight.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+---
 
-### Karte 7: `Die Couch schluckt mich und spuckt mich nie mehr aus / Alle Energie verbraucht / Falle durch die Welt, bin im Fiebertraum / Zwischen Höhenflug und Tiefenrausch / Die Couch schluckt mich und spuckt mich nie mehr aus / Alle Energie verbraucht / Falle durch die Welt, bin im Fiebertraum / Zwischen Höhenflug und Tiefenrausch (Oh, ja)`
+### Karte 4: `Hör' jetzt Stimmen schweigen, der Heldensaal ist leer / Das Ende des Theaters`
 
-Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Die Couch schluckt mich und spuckt mich nie mehr aus“:
+**Deutsch:**
+Totenstille im imaginierten Heldensaal: Die jubelnden Stimmen sind verstummt, die Wände rücken unerbittlich näher. Der springende Zeiger visualisiert das Gefangensein im neurotischen Wiederholungszwang.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+Nichts lenkt mehr von der nackten existenziellen Leere ab.
 
-### Karte 8: `Hör' jetzt Stimmen schweigen, der Heldensaal ist leer / Unendlich Langeweile, die Wände kommen näher / Und ständig springt der Zeiger auf der Stelle hin und her / Und her, und her, und her`
+**English:**
+Silence inside the hall of heroes: phantom applause fades as walls contract. Erratic clock hand portrays compulsory repetition.
 
-Die Passage in [[Bridge]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Hör' jetzt Stimmen schweigen, der Heldensaal ist leer“:
+Barren existential void left completely exposed.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
-
-### Karte 9: `Seit wie viel'n Tagen steht die Zeit still? / War nie weiter weg von was ich sein will / Halte mich nicht aus, wenn ich allein bin / Sorry, dass mein Leben dein'n Vibe killt / Seit wie viel'n Tagen steht die Zeit still? / War nie weiter weg von was ich sein will / Halte mich nicht aus, wenn ich allein bin / Sorry, dass mein Leben dein'n Vibe killt`
-
-Die Passage in [[Outro]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Seit wie viel'n Tagen steht die Zeit still?“:
-
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+---
 

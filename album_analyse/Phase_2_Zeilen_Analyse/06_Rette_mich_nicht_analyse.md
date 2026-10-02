@@ -10,74 +10,61 @@
 <p>In <strong>“Rette mich nicht”</strong> (Do Not Save Me), the speaker rejects every relational rescue attempt, celebrating his autodestructive autonomy. In restless mania, the protagonist races through the night (<span class="lyric-quote-highlight">“Always on the move with the enemies / Veins full of poison / Kickdown, smoking tires / Mercadona parking lot drift”</span>) testing the limits of endurance. All offers of help are met with cynical defiance: <span class="lyric-quote-highlight">“To ruin myself, I don't need anyone / I can do that on my own”</span>.</p>
 <p>The chorus declares complete affective flattening: <span class="lyric-quote-highlight">“Do not save me / I don't hate you, you just don't matter to me / I run through no man's land larger than life / Dive into twilight and hope I get lost”</span>. In the second verse, the speaker addresses the abandoned partner directly (<span class="lyric-quote-highlight">“I am the problem and I know it / But that doesn't make it smaller, Gianna”</span>), before the bridge dismantles all romanticized illusion: <span class="lyric-quote-highlight">“We don't live in the same reality / You don't love me, you just don't get what you lack / You should just forget me / Like light promises on white tablets in time-lapse nights”</span>.</p>
 
-## Zeilen-Genaue Karten-Dekonstruktion (4 Säulen nach SKILL.md)
+## Zeilen-Genaue Karten-Dekonstruktion (Tomora Standard)
 
-### Karte 1: `Immer unterwegs mit den Feinden / Adern voller Gift / Kickdown, rauchende Reifen / Mercadona, Parkplatz-Drift / So kurz vorm Zuweitgeh'n / Lächel' in ein leeres Gesicht / Ich bin nicht gekomm'n, um zu bleiben / Um mich zu ruinier'n, brauch' ich keinen / Das schaff' ich auch alleine, ah`
+### Karte 1: `Um mich zu ruinier'n, brauch' ich keinen / Das schaff' ich auch alleine / Die beanspruchte Selbstzerstörung`
 
 **Deutsch:**
-Autodestruktive Raserei als Beweis souveräner Selbstbestimmung: Das Verweilen „mit den Feinden“ und der Drift auf dem Supermarkt-Parkplatz dramatisieren die permanente Grenzüberschreitung. Die zynische Maxime „Um mich zu ruinier'n, brauch' ich keinen / Das schaff' ich auch alleine“ schlägt dem Gegenüber jede therapeutische Hand aus. Die Zerstörung des eigenen Lebens wird als letztes unantastbares Eigentum beansprucht.
+Das Ich rast mit Feinden durch die Nacht und beansprucht den eigenen Ruin als exklusives Hoheitsgebiet. Das Hilfsangebot des Partners wird mit zynischem Stolz abgewehrt: Wer sich selbst zerstört, behält die letzte Kontrolle und verweigert dem anderen die Retterrolle.
 
-Gehetzte, getriebene Phonation mit schneidender Härte auf den Endsilben. Somatisch: Zusammengepresste Lippen, Adrenalinkick, Tunnelblick am Steuer.
-
-Verzerrte Bassdrums und quietschende Synth-Texturen spiegeln den Parkplatz-Drift akustisch wider.
+Die Raserei auf dem Parkplatz und das Gift in den Adern dramatisieren den Drang, sich über das Ausreizen der Schmerzgrenze überhaupt noch zu spüren.
 
 **English:**
-Autodestructive frenzy as proof of absolute autonomy: keeping company "with enemies" and drifting across a supermarket parking lot dramatizes chronic boundary violation. The cynical maxim "to ruin myself, I don't need anyone / I can do that on my own" slaps away any therapeutic lifeline. Personal ruin is reclaimed as the last unassailable possession.
+Racing through the night with enemies, reclaiming ruin as sovereign property. Rejecting assistance preserves absolute control and frustrates the partner's savior complex.
 
-Agitated, driven vocal cadence with sharp stress on terminal consonants. Somatically: tightly compressed lips, adrenaline surge, tunnel vision behind the wheel.
-
-Distorted bass kicks and shrieking synth textures sonically recreate the parking lot drift.
+Parking lot drifts and poisoned veins dramatize the impulse to breach pain thresholds to feel alive.
 
 ---
 
-### Karte 2: `Rette mich nicht / Ich bin nicht wie die andern, die sich fühl'n wie normal / Rette mich nicht / Ich hass' dich nicht, du bist mir bloß egal / Ich laufe durch das Niemandsland in überlebensgroß / Tauche in die Zwielichter und hoff', ich geh' verlor'n`
+### Karte 2: `Ich hass' dich nicht, du bist mir bloß egal / Die vollkommene Entwertung`
 
 **Deutsch:**
-Die Hook als Deklaration radikaler Gleichgültigkeit: Die Zurückweisung („Ich hass' dich nicht, du bist mir bloß egal“) trifft tiefer als Hass, da sie dem Gegenüber jede Bedeutung aberkennt. Das Selbst wandert „überlebensgroß“ durch das Niemandsland – eine grandiose Entrückung, die den Wunsch nach dem eigenen Verschwinden („hoff', ich geh' verlor'n“) in heroische Einsamkeit kleidet.
+Die Hook trifft mit eisiger Kälte: Gleichgültigkeit ist grausamer als Hass, da sie dem Gegenüber jede Existenzberechtigung abspricht. Das Wandern als „überlebensgroße“ Gestalt im Niemandsland überhöht das seelische Verschwinden zu einem heroischen Mythos.
 
-Eiskalte, melodisch abgeflachte Phonation; die Stimme verweigert jedes Mitgefühl. Somatisch: Abgewandter Blick, lockere Schultern, absolute emotionale Taubheit.
-
-Hymnische, düstere Synthesizer-Pads breiten sich im Stereofeld aus.
+Der Wunsch, verloren zu gehen („hoff', ich geh' verlor'n“), artikuliert den unausgesprochenen Todes- und Auflösungstrieb (Thanatos) hinter der manischen Fassade.
 
 **English:**
-The chorus as declaration of radical apathy: the rejection ("I don't hate you, you just don't matter to me") cuts deeper than hatred by stripping the other of all significance. Wandering "larger than life" through no man's land cloaks the desire for personal disappearance ("hope I get lost") in heroic isolation.
+Indifference cuts deeper than hatred, stripping the other of meaning. Roaming "larger than life" romanticizes psychic disintegration into heroic myth.
 
-Ice-cold, melodically flattened vocalization; total withholding of empathy. Somatically: averted gaze, relaxed shoulders, affective numbness.
-
-Anthemic, dark synthesizer pads billow across the stereo panorama.
+Craving disappearance ("hope I get lost") expresses latent Thanatos beneath mania.
 
 ---
 
-### Karte 3: `Go-go-Girls geh'n private / Die Dämmerung glüht / Während du vorm Handy daheim sitzt / Und überlegst, was du fühlst / So kurz, bevor du einknickst / Nur was genau wünschst du dir zurück? / Lass mich einfach sein, wer ich sein will / Ich bin das Problem und ich weiß es / Nur macht es das nicht kleiner, Gianna`
+### Karte 3: `Ich bin das Problem und ich weiß es / Nur macht es das nicht kleiner, Gianna / Die entwaffnende Schulddeklaration`
 
 **Deutsch:**
-Grausamer Kontrast zwischen Insel-Hedonismus und häuslicher Verzweiflung: Während im Club die Go-go-Girls verschwinden, imaginiert das Ich die verlassene Partnerin („Gianna“) daheim vor dem Smartphone. Die Selbsterkenntnis „Ich bin das Problem und ich weiß es“ ist kein Schuldeingeständnis im therapeutischen Sinne, sondern eine Waffe: Indem das Ich seine eigene Toxizität proaktiv deklariert, entzieht es sich jeder Verpflichtung zur Veränderung.
+Der direkte Appell an die verlassene Partnerin: Indem das Ich seine eigene Schuld proaktiv deklariert („Ich bin das Problem“), schlägt es dem Gegenüber jede therapeutische Argumentation aus der Hand. Selbsterkenntnis wird zur Waffe, die jede Veränderung blockiert.
 
-Ruhige, fast unbeteiligte Sprechhaltung, die bei der Nennung des Namens „Gianna“ eine kurze, private Intimität aufblitzen lässt. Somatisch: Fixieren des Smartphones, tiefes Ausatmen.
-
-Trockener Breakbeat, der den pochenden Herzschlag simuliert.
+Der Kontrast zwischen den Go-go-Girls im Club und der wartenden Frau am Smartphone zeichnet das zynische Gefälle der Bindung.
 
 **English:**
-Cruel contrast between island hedonism and domestic despair: while dancers go private in the club, the speaker visualizes the abandoned partner ("Gianna") waiting by her phone at home. The realization "I am the problem and I know it" is no therapeutic admission, but a weapon: by proactively claiming toxicity, the ego absolves itself of any obligation to change.
+Direct address to the partner: proactively admitting fault disarms therapeutic confrontation. Self-awareness is weaponized to stall transformation.
 
-Calm, almost detached diction that flashes brief, private intimacy on the name "Gianna". Somatically: staring down at a glowing screen, slow exhalation.
-
-Dry breakbeat simulating a relentless internal pulse.
+Contrasting dancers with the woman waiting by her phone underscores relational asymmetry.
 
 ---
 
-### Karte 4: `Wir leben nicht in derselben Realität / Du liebst mich nicht, du kriegst nur nicht, was dir fehlt / Du solltest mich einfach vergessen / Wie leichte Versprechen auf weißen Tabletten in Zeitraffer-Nächten`
+### Karte 4: `Wie leichte Versprechen auf weißen Tabletten / Die chemische Vergänglichkeit`
 
 **Deutsch:**
-Die Dekonstruktion der romantischen Projektion: Die Zeile „Du liebst mich nicht, du kriegst nur nicht, was dir fehlt“ seziert das Helfersyndrom und die ungesunde Bindung des Partners mit chirurgischer Härte. Das Gleichnis der „leichten Versprechen auf weißen Tabletten in Zeitraffer-Nächten“ verbindet chemische Flüchtigkeit mit zwischenmenschlichem Verrat: Worte im Rausch haben kein Gewicht und keine Zukunft.
+Die Bridge demontiert alle verbliebenen Bindungsillusionen: „Du liebst mich nicht, du kriegst nur nicht, was dir fehlt“ dekonstruiert das Helfersyndrom als eigene Bedürftigkeit. Worte und Schwüre werden mit weißen Tabletten verglichen – flüchtig, chemisch erzeugt und bei Tagesanbruch wertlos.
 
-Präzise, fast sezierende Phonation ohne Zögern. Somatisch: Kühle Distanz, aufrechter Oberkörper, unbewegtes Gesicht.
-
-Filternde Synth-Chords lassen den Raum kurzzeitig wie unter Wasser erscheinen.
+Das Subjekt fordert das Vergessenwerden ein, um sich endgültig aus dem moralischen Koordinatensystem zu verabschieden.
 
 **English:**
-Deconstructing romantic projection: the line "you don't love me, you just don't get what you lack" surgically exposes the partner's savior complex and codependency. The simile of "light promises on white tablets in time-lapse nights" binds chemical transience to relational betrayal: drug-fueled words carry zero weight and zero future.
+Dismantling romantic projection: "you don't love me, you just lack what you need" unmasks codependency. Vows are equated to pills—ephemeral, synthetic, dissolving by dawn.
 
-Precise, dissecting delivery without hesitation. Somatically: cool composure, erect posture, motionless face.
+Demanding to be forgotten completes exit from moral accountability.
 
-Filtered synth sweeps submerge the acoustic environment as if under water.
+---
+

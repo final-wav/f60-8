@@ -1,222 +1,50 @@
 {
-  "track_num": "02",
-  "track_title": "Wiedersehen",
-  "review_de": "<p>In <strong>„Wiedersehen“</strong> vollzieht der Protagonist den radikalen Bruch mit seiner Herkunft und formuliert sein rücksichtsloses Autarkie-Credo. Mit schnoddriger Verachtung wischt das Ich alle moralischen Bewertungen der alten Heimat beiseite: <span class=\"lyric-quote-highlight\">„Dann bin ich jede Story, die dein Dorf sich erzählt / Weine keinem eine scheiß Träne hinterher / Wo ich hingehe, ist das Licht dir zu hell“</span>. Die Arroganz fungiert als hermetischer Schutzschild gegen Schuld und Beschämung.</p>\n<p>Die Grausamkeit der Abspaltung erreicht im zweiten Vers ihren Höhepunkt: <span class=\"lyric-quote-highlight\">„Ich hab' dich nie geliebt, sondern war dich nur gewohnt / Ich wein' dir nicht mal eine scheiß Träne hinterher“</span>. Intimität wird nachträglich entwertet, um jeden Trennungsschmerz zu ersticken. Auf der Mittelmeerfähre stehend, blickt der Protagonist im Outro auf die schäumende Heckwelle und pervertiert die Seligpreisungen in ein raubtierhaftes Gesetz: <span class=\"lyric-quote-highlight\">„Ich steh' auf einer Fähre übers Mittelmeer / Seh' der weißen Spur im Wasser hinterher / Selig sind die Diebe / Ich nehme, was ich kriege“</span>. Bindung ist für ihn kein Dialog, sondern ein Beutezug vor dem nächsten Transit.</p>",
+  "num": "02",
+  "title": "Wiedersehen",
+  "review_de": "<p>In <strong>„Wiedersehen“</strong> vollzieht der Protagonist den radikalen Bruch mit seiner Herkunft und formuliert sein rücksichtsloses Autarkie-Credo. Mit schnoddriger Verachtung wischt das Ich alle moralischen Bewertungen der alten Heimat beiseite: <span class=\"lyric-quote-highlight\">„Dann bin ich jede Story, die dein Dorf sich erzählt / Weine keinem eine scheiß Träne hinterher / Wo ich hingehe, ist das Licht dir zu hell“</span>. Die Arroganz fungiert hier als hermetischer Schutzschild gegen Schuld und Beschämung.</p>\n<p>Die Grausamkeit der Abspaltung erreicht im zweiten Vers ihren Höhepunkt: <span class=\"lyric-quote-highlight\">„Ich hab' dich nie geliebt, sondern war dich nur gewohnt / Ich wein' dir nicht mal eine scheiß Träne hinterher“</span>. Intimität wird nachträglich entwertet, um jeden Trennungsschmerz zu ersticken. Auf der Mittelmeerfähre stehend, blickt der Protagonist im Outro auf die schäumende Heckwelle und pervertiert die Seligpreisungen in ein raubtierhaftes Gesetz: <span class=\"lyric-quote-highlight\">„Ich steh' auf einer Fähre übers Mittelmeer / Seh' der weißen Spur im Wasser hinterher / Selig sind die Diebe / Ich nehme, was ich kriege“</span>. Bindung ist für ihn kein Dialog, sondern ein Beutezug vor dem nächsten Transit.</p>",
   "review_en": "<p>In <strong>“Wiedersehen”</strong> (Farewell / Parting), the protagonist executes a radical rupture with his origins, formalizing a ruthless ethos of predatory self-reliance. With dismissive contempt, the speaker discards provincial judgments: <span class=\"lyric-quote-highlight\">“Then I am every rumor your village tells / Won't shed a single fucking tear / Where I'm going, the light is too bright for you”</span>. Arrogance operates as a hermetic firewall insulating against guilt and shame.</p>\n<p>The cruelty of detachment culminates in the second verse: <span class=\"lyric-quote-highlight\">“I never loved you, I was only used to you / Won't even shed a fucking tear for you”</span>. Past intimacy is retroactively incinerated to pre-empt any experience of mourning. Standing on the Mediterranean ferry in the outro, Tua subverts the Beatitudes into a pirate manifesto: <span class=\"lyric-quote-highlight\">“Standing on a ferry across the Mediterranean / Watching the white wake in the water / Blessed are the thieves / I take what I get”</span>. Attachment is reduced to an extraction prior to the next departure.</p>",
   "cards_de": [
     {
-      "quote": "Jup, jup, juckt, juckt, was mein Herz dort von mir hält / Dann bin ich jede Story, die dein Dorf sich erzählt / Weine keinem eine scheiß Träne hinterher / Wo ich hingehe, ist das Licht dir zu hell",
-      "body": "Die Passage in [[Part 1]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Jup, jup, juckt, juckt, was mein Herz dort von mir hält“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Dann bin ich jede Story, die dein Dorf sich erzählt / Der arrogante Schutzwall",
+      "body": "Mit schnoddriger Verachtung wischt das Ich alle Gerüchte der alten Heimat beiseite. Die trotzige Behauptung, das eigene Licht sei für die Zurückgebliebenen „zu hell“, projiziert Minderwertigkeit auf das Umfeld, um die eigene fundamentale Scham abzuwehren.\n\nArroganz fungiert hier als Exoskelett: Wer die anderen zuerst entwertet und auslacht, kann von ihren Urteilen nicht mehr getroffen werden."
     },
     {
-      "quote": "Sorry für die Wahrheit, tut vielleicht kurz weh / Auf Wiederseh'n, auf Wiederseh'n, auf Nimmerwiederseh'n / Mache euer Drama nicht zu mei'm Problem / Auf Wiedersеh'n, auf Wiederseh'n, auf Nimmеrwiederseh'n",
-      "body": "Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Sorry für die Wahrheit, tut vielleicht kurz weh“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Sorry für die Wahrheit / Der zynische Beziehungsabbruch",
+      "body": "Die Hook zelebriert die Trennung als befreiende Selbstermächtigung. Indem das Leiden des Gegenübers als fremdes „Drama“ abqualifiziert wird, entzieht sich das Ich jeder emotionalen Verantwortung. Das dreifache „Auf Nimmerwiederseh'n“ schlägt die Tür mit administrativer Kälte zu.\n\nDie vorgetäuschte Reue („Sorry für die Wahrheit“) ist eine rhetorische Waffe, die Grausamkeit als angebliche Ehrlichkeit tarnt."
     },
     {
-      "quote": "Mache meine Augen zu und alles wird rot / Ich hab' dich nie geliebt, sondern war dich nur gewohnt / Ich wein' dir nicht mal eine scheiß Träne hinterher / Wo ich hingeh', sind Geschichten dir zu groß",
-      "body": "Die Passage in [[Part 2]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Mache meine Augen zu und alles wird rot“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Ich hab' dich nie geliebt, sondern war dich nur gewohnt / Die Tilgung der Intimität",
+      "body": "Das radikale Eingeständnis beraubt den Partner nachträglich jeglicher Bedeutung. Um keinen Trennungsschmerz empfinden zu müssen, wird die gesamte gemeinsame Vergangenheit als bloße „Gewohnheit“ entwertet.\n\nDas somatische Bild des „Rotwerdens“ hinter geschlossenen Augen verrät jedoch die krampfhafte Anstrengung dieser Abspaltung: Die Wut dient als Betäubungsmittel gegen das unausweichliche Schuldbewusstsein."
     },
     {
-      "quote": "Sorry für die Wahrheit, tut vielleicht kurz weh / Auf Wiederseh'n, auf Wiederseh'n, auf Nimmerwiederseh'n / Mache euer Drama nicht zu mei'm Problem / Auf Wiederseh'n, auf Wiederseh'n, auf Nimmerwiederseh'n",
-      "body": "Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Sorry für die Wahrheit, tut vielleicht kurz weh“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Die Welt gehört denen, die sie sich nehmen / Das Raubtier-Dogma",
+      "body": "Das sozialdarwinistische Bekenntnis als moralische Rechtfertigung: Das Ich erklärt Ausbeutung und Rücksichtslosigkeit zum universellen Naturgesetz. Wer Skrupel zeigt, geht unter; wer nimmt, behält die Kontrolle.\n\nDiese Ideologie fungiert als letzte Bastion gegen die eigene Verletzlichkeit. Die Wiederholung wirkt wie eine Autosuggestion, um das nagende Gewissen mundtot zu machen."
     },
     {
-      "quote": "Die Welt gehört denen, die sie sich nehmen / Die Welt gehört denen, die sie sich nehmen",
-      "body": "Die Passage in [[Bridge]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Die Welt gehört denen, die sie sich nehmen“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
-    },
-    {
-      "quote": "Ich steh' auf einer Fähre übers Mittelmeer / Seh' der weißen Spur im Wasser hinterher / Selig sind die Diebe / Ich nehme, was ich kriege",
-      "body": "Die Passage in [[Outro]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Ich steh' auf einer Fähre übers Mittelmeer“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Selig sind die Diebe / Die Pervertierung der Gnade",
+      "body": "Auf der Mittelmeerfähre stehend, blickt der Protagonist auf die schäumende Heckwelle und pervertiert die biblischen Seligpreisungen in ein Gesetz des Diebstahls. Die weiße Spur im Wasser wird zum Sinnbild für die Vergänglichkeit und Entsorgung aller vergangenen Bindungen.\n\nDas Nehmen ohne Wiederkehr wird zum heiligen Überlebensprinzip erhoben. Das Subjekt flieht auf dem Wasser vor jeder Bindung in das selbstgewählte Exil."
     }
   ],
   "cards_en": [
     {
-      "quote": "Jup, jup, juckt, juckt, was mein Herz dort von mir hält / Dann bin ich jede Story, die dein Dorf sich erzählt / Weine keinem eine scheiß Träne hinterher / Wo ich hingehe, ist das Licht dir zu hell",
-      "body": "The passage in [[Part 1]] deconstructs the core psychodynamic conflict around the line “Jup, jup, juckt, juckt, was mein Herz dort von mir hält”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Then I am every rumor your village tells / Arrogant firewall",
+      "body": "Dismissing provincial gossip with nonchalant contempt. Proclaiming personal radiance \"too bright\" projects inadequacy outward, defending against deep-seated shame.\n\nArrogance serves as exoskeleton: devaluing and mocking others pre-empts vulnerability to their judgment."
     },
     {
-      "quote": "Sorry für die Wahrheit, tut vielleicht kurz weh / Auf Wiederseh'n, auf Wiederseh'n, auf Nimmerwiederseh'n / Mache euer Drama nicht zu mei'm Problem / Auf Wiedersеh'n, auf Wiederseh'n, auf Nimmеrwiederseh'n",
-      "body": "The passage in [[Hook]] deconstructs the core psychodynamic conflict around the line “Sorry für die Wahrheit, tut vielleicht kurz weh”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Sorry for the truth / Cynical rupture",
+      "body": "The chorus celebrates relational termination as triumphant emancipation. Labelling partner anguish as external \"drama\" absolves the ego of accountability.\n\nFeigned remorse (\"sorry for the truth\") weaponizes cruelty as alleged authenticity."
     },
     {
-      "quote": "Mache meine Augen zu und alles wird rot / Ich hab' dich nie geliebt, sondern war dich nur gewohnt / Ich wein' dir nicht mal eine scheiß Träne hinterher / Wo ich hingeh', sind Geschichten dir zu groß",
-      "body": "The passage in [[Part 2]] deconstructs the core psychodynamic conflict around the line “Mache meine Augen zu und alles wird rot”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Never loved you, was only used to you / Erasure of intimacy",
+      "body": "Confessing past intimacy was merely \"habit\" retroactively strips the bond of value to extinguish mourning.\n\nInternal \"redness\" behind closed eyelids betrays the immense strain of repression: rage numbs guilt."
     },
     {
-      "quote": "Sorry für die Wahrheit, tut vielleicht kurz weh / Auf Wiederseh'n, auf Wiederseh'n, auf Nimmerwiederseh'n / Mache euer Drama nicht zu mei'm Problem / Auf Wiederseh'n, auf Wiederseh'n, auf Nimmerwiederseh'n",
-      "body": "The passage in [[Hook]] deconstructs the core psychodynamic conflict around the line “Sorry für die Wahrheit, tut vielleicht kurz weh”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "The world belongs to those who take it / Predator dogma",
+      "body": "Social-Darwinist doctrine rationalizing extraction: ruthlessness framed as natural law. Reluctance invites destruction; taking asserts control.\n\nIdeology serves as defense against vulnerability. Repetition operates as autosuggestion to silence conscience."
     },
     {
-      "quote": "Die Welt gehört denen, die sie sich nehmen / Die Welt gehört denen, die sie sich nehmen",
-      "body": "The passage in [[Bridge]] deconstructs the core psychodynamic conflict around the line “Die Welt gehört denen, die sie sich nehmen”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    },
-    {
-      "quote": "Ich steh' auf einer Fähre übers Mittelmeer / Seh' der weißen Spur im Wasser hinterher / Selig sind die Diebe / Ich nehme, was ich kriege",
-      "body": "The passage in [[Outro]] deconstructs the core psychodynamic conflict around the line “Ich steh' auf einer Fähre übers Mittelmeer”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    }
-  ],
-  "stanzas": [
-    {
-      "title": "[Part 1]",
-      "lines": [
-        {
-          "line_idx": 0,
-          "text": "Jup, jup, juckt, juckt, was mein Herz dort von mir hält",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 1,
-          "text": "Dann bin ich jede Story, die dein Dorf sich erzählt",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 2,
-          "text": "Weine keinem eine scheiß Träne hinterher",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 3,
-          "text": "Wo ich hingehe, ist das Licht dir zu hell",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
-    },
-    {
-      "title": "[Hook]",
-      "lines": [
-        {
-          "line_idx": 4,
-          "text": "Sorry für die Wahrheit, tut vielleicht kurz weh",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 5,
-          "text": "Auf Wiederseh'n, auf Wiederseh'n, auf Nimmerwiederseh'n",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 6,
-          "text": "Mache euer Drama nicht zu mei'm Problem",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 7,
-          "text": "Auf Wiedersеh'n, auf Wiederseh'n, auf Nimmеrwiederseh'n",
-          "annotated": true,
-          "card_idx": 1
-        }
-      ]
-    },
-    {
-      "title": "[Part 2]",
-      "lines": [
-        {
-          "line_idx": 8,
-          "text": "Mache meine Augen zu und alles wird rot",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 9,
-          "text": "Ich hab' dich nie geliebt, sondern war dich nur gewohnt",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 10,
-          "text": "Ich wein' dir nicht mal eine scheiß Träne hinterher",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 11,
-          "text": "Wo ich hingeh', sind Geschichten dir zu groß",
-          "annotated": true,
-          "card_idx": 2
-        }
-      ]
-    },
-    {
-      "title": "[Hook]",
-      "lines": [
-        {
-          "line_idx": 12,
-          "text": "Sorry für die Wahrheit, tut vielleicht kurz weh",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 13,
-          "text": "Auf Wiederseh'n, auf Wiederseh'n, auf Nimmerwiederseh'n",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 14,
-          "text": "Mache euer Drama nicht zu mei'm Problem",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 15,
-          "text": "Auf Wiederseh'n, auf Wiederseh'n, auf Nimmerwiederseh'n",
-          "annotated": true,
-          "card_idx": 1
-        }
-      ]
-    },
-    {
-      "title": "[Bridge]",
-      "lines": [
-        {
-          "line_idx": 16,
-          "text": "Die Welt gehört denen, die sie sich nehmen",
-          "annotated": true,
-          "card_idx": 4
-        },
-        {
-          "line_idx": 17,
-          "text": "Die Welt gehört denen, die sie sich nehmen",
-          "annotated": true,
-          "card_idx": 4
-        }
-      ]
-    },
-    {
-      "title": "[Outro]",
-      "lines": [
-        {
-          "line_idx": 18,
-          "text": "Ich steh' auf einer Fähre übers Mittelmeer",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 19,
-          "text": "Seh' der weißen Spur im Wasser hinterher",
-          "annotated": true,
-          "card_idx": 5
-        },
-        {
-          "line_idx": 20,
-          "text": "Selig sind die Diebe",
-          "annotated": true,
-          "card_idx": 5
-        },
-        {
-          "line_idx": 21,
-          "text": "Ich nehme, was ich kriege",
-          "annotated": true,
-          "card_idx": 5
-        }
-      ]
+      "quote": "Blessed are the thieves / Inversion of grace",
+      "body": "Aboard the Mediterranean ferry, surveying the churning wake, the Beatitudes are inverted into a pirate code. The fading wake symbolizes the disposal of past attachment.\n\nUnilateral extraction becomes sovereign survival law. The subject flees across water into self-imposed exile."
     }
   ]
 }

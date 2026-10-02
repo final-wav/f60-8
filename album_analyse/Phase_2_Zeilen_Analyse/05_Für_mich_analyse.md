@@ -10,77 +10,61 @@
 <p><strong>“Für mich”</strong> (For Myself) exposes the eroticized machinery of narcissistic attachment. Behind the intimate staging (<span class="lyric-quote-highlight">“Behind a blue door / Under a canopy of silk / Moonlight wants to touch skin / On the inside of your legs”</span>), the speaker frames sexual encounter as an act of absolute subjugation: <span class="lyric-quote-highlight">“Under you I am beside myself / Until you sound like you're despairing / Let me be the greatest for you / Let it be the greatest thing for me to achieve”</span>. Intimacy is reduced to fuel for the speaker's supremacy.</p>
 <p>The hook demands the partner's total self-surrender (<span class="lyric-quote-highlight">“Give yourself up, up for me / Giving myself up, up for you”</span>), while mutuality is merely simulated. In the second verse, Tua formulates this fatal symbiosis: <span class="lyric-quote-highlight">“We belong together like megalomania and failure”</span>. In the bridge, the speaker justifies his need for control with mathematical finality: <span class="lyric-quote-highlight">“What I need is security / You cannot divide by zero”</span>.</p>
 
-## Zeilen-Genaue Karten-Dekonstruktion
+## Zeilen-Genaue Karten-Dekonstruktion (Tomora Standard)
 
-### Karte 1: `Gebe`
+### Karte 1: `Hinter einer blauen Tür / Das erotische Machtspiel`
 
-Die Passage in [[Intro]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Gebe“:
+**Deutsch:**
+Hinter der ästhetisierten Kulisse aus Seide und Mondlicht inszeniert das Ich die sexuelle Vereinigung als totalen Unterwerfungsakt. Die Zeile „Bis du klingst, als würdest du verzweifeln“ entlarvt die fatale Verwechslung von Schmerz und Intimität: Dominanz wird als Beweis eigener Lebendigkeit konsumiert.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+Die Bitte „Lass mich das Größte für dich sein“ offenbart die absolute Abhängigkeit des Egos: Es existiert nur im Spiegel der vollständigen Hingabe des gequälten Anderen.
 
-### Karte 2: `Hinter einer blauen Tür / Unter einem Baldachin aus Seide / Will das Mondlicht Haut berühr'n / Auf der Innenseite deiner Beine / Unter dir bin ich außer mir / Bis du klingst, als würdest du verzweifeln / Lass mich das Größte für dich sein / Lass es das Größte für mich sein, das ich erreiche`
+**English:**
+Beneath silk canopies and moonlight, intimacy is weaponized as subjugation. "Until you sound like you're despairing" conflates agony and ecstasy: dominance serves as proof of aliveness.
 
-Die Passage in [[Part 1]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Hinter einer blauen Tür“:
+"Let me be the greatest for you" exposes total reliance on being mirrored through the other's surrender.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+---
 
-### Karte 3: `Gib dich auf, auf für mich / Geb' mich, geb' mich auf, auf für dich / Gib dich, gib dich auf, auf für mich / Geb' mich, geb' mich auf, auf für dich / Gib dich auf für mich`
+### Karte 2: `Gib dich auf, auf für mich / Die geforderte Selbstaufgabe`
 
-Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Gib dich auf, auf für mich“:
+**Deutsch:**
+Die Hook verlangt die bedingungslose Kapitulation des Partners. Das scheinbare Zugeständnis „Geb' mich auf für dich“ ist eine mimische Farce; echte Reziprozität findet nicht statt.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+Die Beziehung wird zum parasitären Konstrukt, in dem die Identität des Partners ausgelöscht wird, um das schwankende Selbstwertgefühl des Protagonisten zu stabilisieren.
 
-### Karte 4: `Gebe / Gebe / (Ah) Gеbe`
+**English:**
+The chorus demands unconditional capitulation. Reciprocity ("giving myself up for you") is pure mimicry.
 
-Die Passage in [[Post-Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Gebe“:
+The bond mutates into a parasitic dynamic where partner identity is erased to stabilize the fragile ego.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+---
 
-### Karte 5: `Wir beide gеhör'n zusamm'n / Wir gehör'n zusamm'n wie Größenwahn und Scheitern / Lass mich das Größte für dich sein / Und wenn es alles für mich bleibt, was ich erreicht hab'`
+### Karte 3: `Wir gehör'n zusamm'n wie Größenwahn und Scheitern / Das toxische Band`
 
-Die Passage in [[Part 2]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Wir beide gеhör'n zusamm'n“:
+**Deutsch:**
+Die treffende Selbsterkenntnis der eigenen Zerstörungskraft: Die Paarung von Größenwahn und Scheitern beschreibt die unausweichliche Dynamik pathologischer Beziehungen. Das Geständnis, dass diese destruktive Macht vielleicht „alles ist, was ich erreicht hab'“, legt die innere Verwüstung schonungslos offen.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+Das Ich begreift seine eigene Toxizität, nutzt dieses Wissen jedoch nicht zur Umkehr, sondern als melancholische Rechtfertigung für das Weitermachen.
 
-### Karte 6: `Gib dich auf, auf für mich / Geb' mich, geb' mich auf, auf für dich / Gib dich, gib dich auf, auf für mich / Geb' mich, geb' mich auf, auf für dich / Gib dich auf für mich`
+**English:**
+Self-diagnosis of destructive capacity: megalomania and failure define the trajectory of malignant attachment. Admitting dominance may be "all I have achieved" unmasks spiritual ruin.
 
-Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Gib dich auf, auf für mich“:
+Awareness brings no repentance, functioning instead as a melancholic rationale to persist.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+---
 
-### Karte 7: `Es mag egoistisch sein / Doch ich will dich für mich allein / Was ich brauch', ist Sicherheit (Mh) / Durch null kann man nicht mehr teil'n`
+### Karte 4: `Was ich brauch', ist Sicherheit / Durch null kann man nicht mehr teil'n / Die mathematische Kälte`
 
-Die Passage in [[Bridge]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Es mag egoistisch sein“:
+**Deutsch:**
+Der Kontrollzwang wird mit mathematischer Unerbittlichkeit begründet. Indem der Partner auf den Wert Null reduziert (entmachtet und isoliert) wird, wird jedes weitere Teilen mit der Außenwelt unmöglich.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+Sicherheit entsteht hier nicht aus Vertrauen, sondern aus der totalen Ausschaltung jeder Autonomie des Gegenübers.
 
-### Karte 8: `Gib dich auf, auf für mich / Geb' mich auf, auf für dich / Gib dich auf, auf für mich / Geb' mich auf, auf für dich`
+**English:**
+Compulsive control expressed with mathematical rigor: reducing the partner to zero (isolated and disempowered) makes sharing with the world impossible.
 
-Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Gib dich auf, auf für mich“:
+Security is engineered through total suppression of partner autonomy.
 
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
-
-### Karte 9: `Gebe / Gebe, gebe`
-
-Die Passage in [[Outro]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Gebe“:
-
-1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.
-2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.
-3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion.
+---
 

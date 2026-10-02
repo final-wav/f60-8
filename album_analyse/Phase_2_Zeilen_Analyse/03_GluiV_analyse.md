@@ -10,92 +10,75 @@
 <p><strong>“GluiV”</strong> dissects the vulgar veneer of jet-set materialism, forging luxury markers into a rigid psychological exoskeleton. The pounding staccato hook <span class="lyric-quote-highlight">“G, Louis V, waist bag, cocaine, I fuck everyone”</span> is no naive boast, but the frantic incantation of invulnerable omnipotence. The protagonist defines himself through perpetual motion and chemical fuel (<span class="lyric-quote-highlight">“Always moving, always on duty / Vitamin Zieh”</span>) to ward off introspective stillness.</p>
 <p>The Airbnb tableau (<span class="lyric-quote-highlight">“Marble tiles in the Airbnb / Your rented paradise”</span>) exposes the total interchangeability of the actors. Yet beneath the aggressive grandiosity, the pre-hook reveals core vulnerability: <span class="lyric-quote-highlight">“And nevertheless, I'm not her type / Just the guy who brings the gear, she thinks”</span>. The luxury facade fractures against reality: the speaker is reduced to a disposable purveyor of chemical fuel.</p>
 
-## Zeilen-Genaue Karten-Dekonstruktion (4 Säulen nach SKILL.md)
+## Zeilen-Genaue Karten-Dekonstruktion (Tomora Standard)
 
-### Karte 1: `Ego FM Ibiza / Only the big stories, only the big tunes / Trayéndote el fuego`
+### Karte 1: `Ego FM Ibiza / Die synthetische Kulisse`
 
 **Deutsch:**
-Der spanischsprachige Radio-Jingle rahmt das Geschehen in die künstliche Welt kommerzieller Urlaubs-Beschallung ein. Die mediale Inszenierung („big stories, big tunes“) etabliert die Insel als Hyperrealität, in der persönliche Identität durch Lifestyle-Templates ersetzt wird.
+Der Radio-Jingle rahmt den Track in die künstliche Welt kommerzieller Party-Euphorie ein. Die mediale Inszenierung großer Geschichten („big stories, big tunes“) etabliert die Insel als Hyperrealität, in der authentische Gefühle durch standardisierte Lifestyle-Formeln ersetzt werden.
 
-Die Radiostimme wirkt glatt, euphorisch und steril. Sie spiegelt die manipulative Werbeästhetik wider, die den emotionalen Zusammenbruch mit Sommerparty-Parolen übertönt.
-
-Gefilterte Frequenzen und UKW-Rauschen erzeugen den Eindruck, das Geschehen aus einem Mietwagen oder über eine Pool-Anlage mitzuhören.
+Die Fassade der Daueranimation übertönt die innere Zerrüttung und zwingt das Subjekt in die Rolle des funktionierenden Rausch-Darstellers.
 
 **English:**
-The Spanish-language radio drop situates the narrative within the synthetic atmosphere of commercial vacation broadcasting. The media framing ("big stories, big tunes") establishes the island as hyperreality, where authentic identity is supplanted by lifestyle templates.
+The radio drop frames the track inside commercial vacation euphoria. Framing events as "big stories, big tunes" establishes hyperreality where authentic feelings are replaced by lifestyle templates.
 
-The radio voice is slick, euphoric, and sterile—mirroring advertising aesthetics designed to drown out psychological decay with summer party slogans.
-
-Filtered EQ and FM radio hiss evoke the sensation of listening through a rental car stereo or poolside sound system.
+Perpetual broadcast cheer drowns internal distress, locking the subject into performative euphoria.
 
 ---
 
-### Karte 2: `G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V, Bauchtasche, Kokain, ich fick' alle / G, Louis V`
+### Karte 2: `G, Louis V, Bauchtasche, Kokain, ich fick' alle / Das materielle Exoskelett`
 
 **Deutsch:**
-Die Hook fungiert als aggressives Abwehr-Mantra: Die Aneinanderreihung von Statussymbolen (Mercedes G-Klasse, Louis Vuitton, Bauchtasche) und Rauschmitteln wird mit der Allmachtsformel „ich fick' alle“ zementiert. Das Ich versucht, seine existenzielle Wertlosigkeit durch demonstrierte Dominanz und materielle Panzerung zu kompensieren.
+Die repetitive Stakkato-Hook reiht Statussymbole und Drogen aneinander, um mit der Allmachtsformel „ich fick' alle“ ein unverwundbares Schutzschild zu errichten. Die Vulgarität ist kein naiver Protz, sondern der krampfhafte Versuch, Ohnmachtsgefühle durch demonstrierte Härte zu ersticken.
 
-Stakkato-Rhythmik, trockene Konsonanten und eine schneidend kalte Stimmführung verdeutlichen den hyper-vigilanten, getriebenen Zustand.
-
-Harte 808-Bässe und metallische Hi-Hats verleihen der Phrase die Wucht einer mechanischen Stanze.
+Jedes Markenemblem wird zur Rüstung gegen die eigene Bedeutungslosigkeit. Das Ich definiert seinen Wert ausschließlich über Konsum und Einschüchterung.
 
 **English:**
-The chorus operates as an aggressive defense mantra: concatenating status markers (G-Wagon, Louis Vuitton, waist bag) and chemical stimulants with the omnipotence claim "I fuck everyone". The ego attempts to compensate for core worthlessness via demonstrated dominance and material armoring.
+Concatenating luxury markers and chemical fuel under the battle cry "I fuck everyone" fabricates an impenetrable armor. Vulgarity masks vulnerability with theatrical dominance.
 
-Staccato cadence, crisp consonants, and cutting delivery convey hyper-vigilant adrenaline drive.
-
-Heavy 808 subs and metallic trap hi-hats imbue the phrase with mechanical, punch-press impact.
+Brand emblems function as shields against insignificance. Worth is asserted strictly through consumption and intimidation.
 
 ---
 
-### Karte 3: `Immer in Bewegung, immer im Dienst / Vitamin Zieh / Die Schönsten wollen das Biest / Vitamin Zieh / Für das hungrige Mädchen in Low-Waist-Jeans / Ibiza Hadid / Die zickig aussieht im geleasten Jeep / Ich bin verliebt`
+### Karte 3: `Immer in Bewegung, immer im Dienst / Die Flucht vor dem Stillstand`
 
 **Deutsch:**
-Kinetische Rastlosigkeit als Schutz vor Introspektion: Das Subjekt muss „immer in Bewegung, immer im Dienst“ bleiben, weil jeder Stillstand das unerträgliche Grundgefühl von Leere freisetzen würde. Die Reduktion von Kokain auf „Vitamin Zieh“ bagatellisiert die chemische Selbstmedikation. Die zynische Inszenierung der Frauen als austauschbare Instagram-Stereotypen („Ibiza Hadid“) demaskiert die emotionale Verarmung.
+Kinetische Rastlosigkeit als seelischer Überlebensreflex: Das Subjekt muss ununterbrochen „in Bewegung“ und „im Dienst“ bleiben, weil jeder Moment der Ruhe das unerträgliche Grundgefühl von Leere freisetzen würde. Kokain wird als „Vitamin Zieh“ verharmlost, um die Abhängigkeit als reine Leistungssteigerung zu verbuchen.
 
-Schnelle, präzise Artikulation mit überheblicher Färbung. Somatisch äußert sich dies in Kiefermahlen, Rastlosigkeit und sprunghaften Bewegungen.
-
-Treibende Bassläufe und perkussive Clicks betonen das unaufhaltsame Vorwärtsjagen.
+Die Reduktion der Frauen auf austauschbare Klischees („Ibiza Hadid“) entlarvt die vollständige Unfähigkeit zu echter zwischenmenschlicher Resonanz.
 
 **English:**
-Kinetic restlessness as defense against introspection: the subject must stay "always moving, always on duty" because stillness would expose unbearable emptiness. Reducing cocaine to "Vitamin Zieh" trivializes chemical self-medication. Cynically reducing women to Instagram archetypes ("Ibiza Hadid") reveals profound emotional impoverishment.
+Kinetic restlessness as survival reflex: remaining "always on duty" prevents introspective stillness from unearthing core emptiness. Cocaine trivialized as "Vitamin Zieh" recasts addiction as performance enhancement.
 
-Rapid, precise articulation with an arrogant edge. Somatically: jaw clenching, fidgeting, and erratic kinetic agitation.
-
-Driving basslines and percussive clicks accentuate relentless forward momentum.
+Reducing companions to Instagram tropes ("Ibiza Hadid") underscores affective impoverishment.
 
 ---
 
-### Karte 4: `Sonne im Zenit, ballert den Kopf weg / Pool türkis wie bei David Hockney / Versuch's subtil, damit ich kein'n Korb krieg' / Und trotzdem, denn ich bin nicht ihr Typ / Nur der Typ, der den Stoff bringt, glaubt sie, ah`
+### Karte 4: `Pool türkis wie bei David Hockney / Die gekränkte Eitelkeit`
 
 **Deutsch:**
-Der Einbruch der narzisstischen Kränkung: Trotz Hockney-Ästhetik und blendendem Sonnenlicht bricht die reale soziale Hierarchie durch. Das Ich erkennt, dass es für die glamouröse Clique lediglich der funktionale Drogenkurier ist („der Typ, der den Stoff bringt“). Das Begehren scheitert an der Realitätsprüfung; die gekränkte Eitelkeit wird mit zynischer Bitterkeit quittiert.
+Mitten in der sonnendurchfluteten Hockney-Kulisse bricht die soziale Realität ein: Das Ich erkennt, dass es für die glamouröse Clique lediglich der funktionale Drogenlieferant ist („nur der Typ, der den Stoff bringt“). Das narzisstische Begehren scheitert an der Gleichgültigkeit des Gegenübers.
 
-Die Stimme kippt von prahlerischer Härte in resignative Ernüchterung. Somatisch drückt sich dies in einem kurzen Muskelnachlassen und abgewandtem Blick aus.
-
-Die Begleitmusik reduziert sich kurzzeitig und lässt die Verwundbarkeit der Textzeile isoliert im Raum stehen.
+Die glamouröse Illusion zerschellt an der harten Tatsache, dass Reichtum und Rausch die fundamentale Einsamkeit des Dienstleisters nicht aufheben können.
 
 **English:**
-The eruption of narcissistic injury: despite Hockney aesthetics and blinding sun, harsh social hierarchy surfaces. The speaker realizes he is merely the disposable drug runner ("the guy who brings the gear"). Desire collides with reality; wounded vanity is processed with cynical bitterness.
+Amid sun-drenched Hockney aesthetics, social reality pierces the fantasy: the speaker is reduced to a disposable drug runner ("just the guy who brings the gear"). Desire fractures against indifference.
 
-The delivery falters from boastful firmness into deflated disillusionment. Somatically: transient loss of muscle tone and averted eyes.
-
-The arrangement strips back momentarily, leaving the vulnerability of the confession exposed in the stereo field.
+Luxury veneers cannot obscure the isolation of the service provider.
 
 ---
 
-### Karte 5: `Marmorfliesen im Airbnb / Ihr Leihparadies / Riecht nach OP Summer Breeze / Sie ist im One Piece / Indigoblau, Tropic of C / Alkohol fließt / Ihre mollige Freundin findet mich mies / Und ich seh', sie sieht's`
+### Karte 5: `Marmorfliesen im Airbnb / Das geliehene Paradies`
 
 **Deutsch:**
-Scharfe soziologische Milieustudie: Das Setting im „Leihparadies“ aus Marmorfliesen und Designer-Badeanzügen entlarvt den parasitären Charakter der Szenerie. Nichts ist dauerhaft, alles gemietet oder geliehen. Der prüfende Blick der Freundin droht die Maske zu lüften („findet mich mies / Und ich seh', sie sieht's“) und erzeugt sofortige Paranoia und Vigilanz.
+Das Setting im „Leihparadies“ entlarvt den parasitären Charakter der Szene: Nichts gehört einem selbst, alles ist gemietet, geborgt oder auf Zeit gekauft. Der misstrauische Blick der Freundin („findet mich mies / Und ich seh', sie sieht's“) droht die Maske zu lüften und erzeugt sofortige Paranoia.
 
-Kühle, distanzierte Diktion mit lauernder Tonhöhe. Somatisch: Erstarren der Gesichtszüge unter Beobachtung, seitliche Blicke.
-
-Minimalistische Synth-Chords und ein trockener Beat betonen die Kälte des Raumes.
+Die Kälte der Marmorfliesen spiegelt die emotionale Temperatur der Beziehungen wider: Austauschbare Körper in einer gemieteten Kulisse auf Abruf.
 
 **English:**
-Sharp sociological critique: the setting in a "rented paradise" of marble floors and designer swimwear unmasks the parasitic core of the scene. Nothing is permanent; everything is leased. The inspecting glare of the companion threatens to drop the mask ("finds me awful / and I see she sees it"), triggering instant paranoia and surveillance vigilance.
+The "rented paradise" tableau exposes the parasitic core: everything is leased, borrowed, or temporary. The companion's suspicious glare ("finds me awful / and I see she sees it") triggers hyper-vigilance.
 
-Cool, detached diction with a predatory pitch. Somatically: facial freeze under scrutiny, sideways scanning.
+Cold marble reflects relational climate: interchangeable bodies staged within temporary sets.
 
-Sparse synthesizer chords and dry percussion underscore the physical chill of the environment.
+---
+

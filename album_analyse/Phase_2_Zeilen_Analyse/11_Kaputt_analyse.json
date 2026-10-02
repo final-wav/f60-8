@@ -1,330 +1,42 @@
 {
-  "track_num": "11",
-  "track_title": "Kaputt",
+  "num": "11",
+  "title": "Kaputt",
   "review_de": "<p><strong>„Kaputt“</strong> bildet das monumentale Finale und die radikale Selbstdemontage des Albums. Eingerahmt von der Totenstarre des Intros (<span class=\"lyric-quote-highlight\">„Springmesser-Tattoo auf meiner Brust / Tu nicht so, als hast du nichts gewusst / Hand aufs Herz, ich spüre kein'n Puls / Deine Liebe blieb für immer im August“</span>) steht der Protagonist am Hafen zwischen Bauruinen und Schutt. Das Bild des verendeten Tieres spiegelt den Ruin des eigenen Charakters: <span class=\"lyric-quote-highlight\">„Ein toter Hund liegt zwischen dem Bauschutt / Ich war nie viel mehr als 'ne Behauptung“</span>.</p>\n<p>Die namensgebende Formel <span class=\"lyric-quote-highlight\">„Was ich berühr', das geht kaputt / Ganzes Leben zerleg' ich zu Schutt“</span> artikuliert den Fluch des malignen Narzissmus: Die Unfähigkeit, Verbindung einzugehen, ohne sie zu vernichten. Der Schlusssatz des Albums – <span class=\"lyric-quote-highlight\">„Und ich kam immer davon, aber niemals an“</span> – verweigert jede billige Erlösung. Das Werk endet in der glasklaren, unerbittlichen Erkenntnis der eigenen ewigen Entwurzelung.</p>",
   "review_en": "<p><strong>“Kaputt”</strong> (Broken / Destroyed) stands as the monumental finale and radical self-demolition of the album. Framed by somatic rigor mortis in the intro (<span class=\"lyric-quote-highlight\">“Switchblade tattoo on my chest / Don't act like you didn't know anything / Hand on my heart, I feel no pulse / Your love remained forever in August”</span>), the protagonist surveys coastal ruins. The carcass in the debris reflects the ruin of the false self: <span class=\"lyric-quote-highlight\">“A dead dog lies in the rubble / I was never much more than an assertion”</span>.</p>\n<p>The titular refrain <span class=\"lyric-quote-highlight\">“Whatever I touch breaks / My whole life I smash into rubble”</span> articulates the tragedy of pathological narcissism: the inability to touch beauty without reducing it to ash. The closing realization—<span class=\"lyric-quote-highlight\">“And I always got away, but never arrived”</span>—denies therapeutic resolution, terminating in the unsparing clarity of eternal self-exile.</p>",
   "cards_de": [
     {
-      "quote": "Springmesser-Tattoo auf meiner Brust / Tu nicht so, als hast du nichts gewusst / Hand aufs Herz, ich spüre kein'n Puls / Deine Liebe blieb für immer im August / Eine goldene Stunde im Hyperloop / Zu viel des Guten, aber nie genug",
-      "body": "Die Passage in [[Intro]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Springmesser-Tattoo auf meiner Brust“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Hand aufs Herz, ich spüre kein'n Puls / Die seelische Nekrose",
+      "body": "Das Springmesser-Tattoo auf der Brust als Waffe und Schutzschild: Das Ich stellt nüchtern fest, dass sein Herz nicht mehr schlägt. Die Liebe blieb unwiderruflich im „August“ zurück; übrig bleibt die Kälte des Hyperloops, in dem kein Gefühl mehr Fuß fassen kann.\n\nDie Persona diagnostiziert ihren eigenen emotionalen Tod ohne Selbstmitleid."
     },
     {
-      "quote": "Was ich berühr', das geht kaputt / Ganzes Leben zerleg' ich zu Schutt / Was ich berühr', das geht kaputt / Unerklärlich, als wär ich verflucht / Und du bist weit, weit weg, währ'nd ich ein Fehltritt bleib' / Ich stеck' für eine Ewigkeit in 'nеm Loop / Ich kann versteh'n, dass du gehst, weil du musst (Heh) / Was ich berühr', das geht kaputt",
-      "body": "Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Was ich berühr', das geht kaputt“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Was ich berühr', das geht kaputt / Der Fluch des Midas",
+      "body": "Die zentrale Erkenntnis des Werks: Die namensgebende Formel artikuliert die Unfähigkeit, Schönes zu berühren, ohne es in Schutt zu verwandeln. Das Ich begreift sich als Gefangener einer ewigen Wiederholungsschleife („steck' für eine Ewigkeit in 'nem Loop“).\n\nDie Einsicht, dass der Partner gehen muss („weil du musst“), ist der einzige Moment uneigennütziger Klarheit."
     },
     {
-      "quote": "Hitze liegt auf allem wie eine Decke aus Teer / Lauf' am Hafen nach vorne zur letzten Ecke am Meer / Bauruin'n und Zäune, ein Platz, so schäbig und leer / Schätze, seine Geschichte wäre der Rede nicht wert / Ein toter Hund liegt zwischen dem Bauschutt / Ich war nie viel mehr als 'ne Behauptung / Und das ist offenbar, was dabei rauskommt / Lebenslanger Aufbruch",
-      "body": "Die Passage in [[Part]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Hitze liegt auf allem wie eine Decke aus Teer“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Ein toter Hund liegt zwischen dem Bauschutt / Ich war nie viel mehr als 'ne Behauptung / Die Demontage des Falschen Selbst",
+      "body": "Die Trostlosigkeit des Industriehafens zwischen Bauruinen und Schutt spiegelt den Zustand des Protagonisten. Der Schlüsselsatz „Ich war nie viel mehr als 'ne Behauptung“ zertrümmert das gesamte narzisstische Gebäude: Hinter der Maske lag keine wahre Identität, sondern nur die leere Behauptung von Größe.\n\nDas Leben erweist sich als permanenter, zielloser „Aufbruch“ ohne Fundament."
     },
     {
-      "quote": "Was ich berühr', das geht kaputt / Ganzes Leben zerleg' ich zu Schutt / Was ich berühr', das geht kaputt / Umso schwerer, je mehr ich's versuch' / Und du bist weit, weit weg, währ'nd ich ein Fehltritt bleib' / Ich steck' für eine Ewigkeit in 'nem Loop / Ich kann versteh'n, dass du gehst, weil du musst (Heh) / Was ich berühr', das geht kaputt",
-      "body": "Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Was ich berühr', das geht kaputt“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
-    },
-    {
-      "quote": "Und ich kam immer davon, aber niemals an / Ich kam immer davon, aber niemals an / Was ich berühr', das geht kaputt / Was ich berühr', das geht kaputt / Was ich berühr', das geht kaputt / Was ich berühr', das geht kaputt",
-      "body": "Die Passage in [[Bridge]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Und ich kam immer davon, aber niemals an“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
-    },
-    {
-      "quote": "Springmesser-Tattoo auf meiner Brust / Tu nicht so, als hast du nichts gewusst / Hand aufs Herz, ich spüre kein'n Puls / Deine Liebe blieb für immer im August",
-      "body": "Die Passage in [[Outro]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Springmesser-Tattoo auf meiner Brust“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Und ich kam immer davon, aber niemals an / Das ewige Exil",
+      "body": "Das Schlusswort des Albums: Das Ich entging jeder Strafe, jeder Bindung und jeder Rechenschaft („kam immer davon“), fand aber nirgendwo Heimat oder Frieden („niemals an“).\n\nDas Werk schließt in der unbarmherzigen Erkenntnis der eigenen ewigen Heimatlosigkeit."
     }
   ],
   "cards_en": [
     {
-      "quote": "Springmesser-Tattoo auf meiner Brust / Tu nicht so, als hast du nichts gewusst / Hand aufs Herz, ich spüre kein'n Puls / Deine Liebe blieb für immer im August / Eine goldene Stunde im Hyperloop / Zu viel des Guten, aber nie genug",
-      "body": "The passage in [[Intro]] deconstructs the core psychodynamic conflict around the line “Springmesser-Tattoo auf meiner Brust”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Hand on heart, no pulse / Emotional necrosis",
+      "body": "Switchblade tattoo as armor: calculating cold diagnosis that no pulse remains. Love vanished in August; only synthetic hyperloop momentum remains.\n\nThe persona records internal death without self-pity."
     },
     {
-      "quote": "Was ich berühr', das geht kaputt / Ganzes Leben zerleg' ich zu Schutt / Was ich berühr', das geht kaputt / Unerklärlich, als wär ich verflucht / Und du bist weit, weit weg, währ'nd ich ein Fehltritt bleib' / Ich stеck' für eine Ewigkeit in 'nеm Loop / Ich kann versteh'n, dass du gehst, weil du musst (Heh) / Was ich berühr', das geht kaputt",
-      "body": "The passage in [[Hook]] deconstructs the core psychodynamic conflict around the line “Was ich berühr', das geht kaputt”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Whatever I touch breaks / Compulsive ruin",
+      "body": "The central revelation: touching beauty reduces it to rubble. The speaker recognizes entrapment within chronic repetition loops.\n\nAcknowledging the partner must leave represents rare authentic maturity."
     },
     {
-      "quote": "Hitze liegt auf allem wie eine Decke aus Teer / Lauf' am Hafen nach vorne zur letzten Ecke am Meer / Bauruin'n und Zäune, ein Platz, so schäbig und leer / Schätze, seine Geschichte wäre der Rede nicht wert / Ein toter Hund liegt zwischen dem Bauschutt / Ich war nie viel mehr als 'ne Behauptung / Und das ist offenbar, was dabei rauskommt / Lebenslanger Aufbruch",
-      "body": "The passage in [[Part]] deconstructs the core psychodynamic conflict around the line “Hitze liegt auf allem wie eine Decke aus Teer”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Dead dog in rubble / I was only an assertion / Shattering the False Self",
+      "body": "Harbor rubble mirrors psychic wreckage. \"I was never much more than an assertion\" annihilates the false self: behind grandiosity lay no authentic identity.\n\nExistence revealed as perpetual, homeless departure."
     },
     {
-      "quote": "Was ich berühr', das geht kaputt / Ganzes Leben zerleg' ich zu Schutt / Was ich berühr', das geht kaputt / Umso schwerer, je mehr ich's versuch' / Und du bist weit, weit weg, währ'nd ich ein Fehltritt bleib' / Ich steck' für eine Ewigkeit in 'nem Loop / Ich kann versteh'n, dass du gehst, weil du musst (Heh) / Was ich berühr', das geht kaputt",
-      "body": "The passage in [[Hook]] deconstructs the core psychodynamic conflict around the line “Was ich berühr', das geht kaputt”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    },
-    {
-      "quote": "Und ich kam immer davon, aber niemals an / Ich kam immer davon, aber niemals an / Was ich berühr', das geht kaputt / Was ich berühr', das geht kaputt / Was ich berühr', das geht kaputt / Was ich berühr', das geht kaputt",
-      "body": "The passage in [[Bridge]] deconstructs the core psychodynamic conflict around the line “Und ich kam immer davon, aber niemals an”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    },
-    {
-      "quote": "Springmesser-Tattoo auf meiner Brust / Tu nicht so, als hast du nichts gewusst / Hand aufs Herz, ich spüre kein'n Puls / Deine Liebe blieb für immer im August",
-      "body": "The passage in [[Outro]] deconstructs the core psychodynamic conflict around the line “Springmesser-Tattoo auf meiner Brust”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    }
-  ],
-  "stanzas": [
-    {
-      "title": "[Intro]",
-      "lines": [
-        {
-          "line_idx": 0,
-          "text": "Springmesser-Tattoo auf meiner Brust",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 1,
-          "text": "Tu nicht so, als hast du nichts gewusst",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 2,
-          "text": "Hand aufs Herz, ich spüre kein'n Puls",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 3,
-          "text": "Deine Liebe blieb für immer im August",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 4,
-          "text": "Eine goldene Stunde im Hyperloop",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 5,
-          "text": "Zu viel des Guten, aber nie genug",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
-    },
-    {
-      "title": "[Hook]",
-      "lines": [
-        {
-          "line_idx": 6,
-          "text": "Was ich berühr', das geht kaputt",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 7,
-          "text": "Ganzes Leben zerleg' ich zu Schutt",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 8,
-          "text": "Was ich berühr', das geht kaputt",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 9,
-          "text": "Unerklärlich, als wär ich verflucht",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 10,
-          "text": "Und du bist weit, weit weg, währ'nd ich ein Fehltritt bleib'",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 11,
-          "text": "Ich stеck' für eine Ewigkeit in 'nеm Loop",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 12,
-          "text": "Ich kann versteh'n, dass du gehst, weil du musst (Heh)",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 13,
-          "text": "Was ich berühr', das geht kaputt",
-          "annotated": true,
-          "card_idx": 1
-        }
-      ]
-    },
-    {
-      "title": "[Part]",
-      "lines": [
-        {
-          "line_idx": 14,
-          "text": "Hitze liegt auf allem wie eine Decke aus Teer",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 15,
-          "text": "Lauf' am Hafen nach vorne zur letzten Ecke am Meer",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 16,
-          "text": "Bauruin'n und Zäune, ein Platz, so schäbig und leer",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 17,
-          "text": "Schätze, seine Geschichte wäre der Rede nicht wert",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 18,
-          "text": "Ein toter Hund liegt zwischen dem Bauschutt",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 19,
-          "text": "Ich war nie viel mehr als 'ne Behauptung",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 20,
-          "text": "Und das ist offenbar, was dabei rauskommt",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 21,
-          "text": "Lebenslanger Aufbruch",
-          "annotated": true,
-          "card_idx": 2
-        }
-      ]
-    },
-    {
-      "title": "[Hook]",
-      "lines": [
-        {
-          "line_idx": 22,
-          "text": "Was ich berühr', das geht kaputt",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 23,
-          "text": "Ganzes Leben zerleg' ich zu Schutt",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 24,
-          "text": "Was ich berühr', das geht kaputt",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 25,
-          "text": "Umso schwerer, je mehr ich's versuch'",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 26,
-          "text": "Und du bist weit, weit weg, währ'nd ich ein Fehltritt bleib'",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 27,
-          "text": "Ich steck' für eine Ewigkeit in 'nem Loop",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 28,
-          "text": "Ich kann versteh'n, dass du gehst, weil du musst (Heh)",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 29,
-          "text": "Was ich berühr', das geht kaputt",
-          "annotated": true,
-          "card_idx": 1
-        }
-      ]
-    },
-    {
-      "title": "[Bridge]",
-      "lines": [
-        {
-          "line_idx": 30,
-          "text": "Und ich kam immer davon, aber niemals an",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 31,
-          "text": "Ich kam immer davon, aber niemals an",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 32,
-          "text": "Was ich berühr', das geht kaputt",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 33,
-          "text": "Was ich berühr', das geht kaputt",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 34,
-          "text": "Was ich berühr', das geht kaputt",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 35,
-          "text": "Was ich berühr', das geht kaputt",
-          "annotated": true,
-          "card_idx": 1
-        }
-      ]
-    },
-    {
-      "title": "[Outro]",
-      "lines": [
-        {
-          "line_idx": 36,
-          "text": "Springmesser-Tattoo auf meiner Brust",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 37,
-          "text": "Tu nicht so, als hast du nichts gewusst",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 38,
-          "text": "Hand aufs Herz, ich spüre kein'n Puls",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 39,
-          "text": "Deine Liebe blieb für immer im August",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
+      "quote": "Always got away, never arrived / Eternal exile",
+      "body": "Final album testament: escaping accountability (\"got away\") without ever discovering peace (\"never arrived\").\n\nThe record terminates in unsparing ontological exile."
     }
   ]
 }

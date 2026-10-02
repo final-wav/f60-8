@@ -1,184 +1,42 @@
 {
-  "track_num": "01",
-  "track_title": "1996",
+  "num": "01",
+  "title": "1996",
   "review_de": "<p>Das Album eröffnet mit der Inszenierung des Ursprungsmythos: <strong>„1996“</strong> markiert den biografischen und psychologischen Nullpunkt der Persona. Eingerahmt von mediterraner Hitze und der schwebenden Erwartung eines Sommers auf Ibiza entfaltet Tua das Leitmotiv des Werks: Der <span class=\"lyric-quote-highlight\">„Panoramablick übers Paradies / Während warme Luft auf dem Garten liegt“</span> ist kein Ort inneren Friedens, sondern die erhabene Bastion eines Ichs, das die Welt nur aus sicherer Distanz erträgt. Doch bereits im zweiten Teil bricht das Verdrängte unaufhaltsam ein: <span class=\"lyric-quote-highlight\">„Etwas fehlt, vielleicht ist es aufgewacht / Das Gegenteil, das Außerhalb“</span>. Das heraufziehende Rauschen in den Palmen kündigt den existenziellen Mangel an.</p>\n<p>Im sakral aufgeladenen Refrain (<span class=\"lyric-quote-highlight\">„Ob die Welt hält, was sie verspricht? / Steig' herab in strahlendem Licht / Und ganz in Weiß gekleidet“</span>) wird der narzisstische Abstieg als messianischer Auftritt inszeniert. Doch das Outro vollzieht die schonungslose Demaskierung: Als <span class=\"lyric-quote-highlight\">„Ikarus, Fantasieprodukt / Entfliehst dem Druck hoch in die Fieberluft“</span> flieht die Kunstfigur vor der Realität. Der Flug über den <span class=\"lyric-quote-highlight\">„tiefsten Bruch“</span> ist keine Freiheit, sondern die manische Flucht vor dem unausweichlichen Aufprall.</p>",
   "review_en": "<p>The album opens with the staging of the origin myth: <strong>“1996”</strong> marks the biographical and psychological baseline of the persona. Framed by Mediterranean heat and the suspended anticipation of an Ibiza summer, Tua unveils the central motif: <span class=\"lyric-quote-highlight\">“Panoramic view over paradise / While warm air lies on the garden”</span> is no sanctuary of peace, but the elevated fortress of an ego that tolerates reality only from a detached distance. Yet in the second part, the repressed core erupts: <span class=\"lyric-quote-highlight\">“Something is missing, maybe it woke up / The opposite, the outside”</span>. The rising rustle in the palms announces foundational lack.</p>\n<p>In the sacral chorus (<span class=\"lyric-quote-highlight\">“Will the world deliver what it promised? / Step down in radiant light / Dressed in white”</span>), narcissistic descent is choreographed as a messianic arrival. Yet the outro executes an unsparing demystification: as <span class=\"lyric-quote-highlight\">“Icarus, fantasy product / Fleeing the pressure into the fever air”</span>, the persona retreats from reality. The flight over the <span class=\"lyric-quote-highlight\">“deepest fracture”</span> is no sovereign emancipation, but a manic escape preceding the inevitable impact.</p>",
   "cards_de": [
     {
-      "quote": "Panoramablick übers Paradies / Während warme Luft auf dem Garten liegt / Wie der Tag sich zieht und Erwartung kriecht / Unter die Palmen, die überm Haus steh'n, 1996",
-      "body": "Die Passage in [[Part 1]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Panoramablick übers Paradies“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Panoramablick übers Paradies / Die erhabene Isolation",
+      "body": "Die Inszenierung des Luxus-Panoramas über das „Paradies“ dient als hermetische Barriere: Wer ganz oben steht und auf die Szenerie herabblickt, entzieht sich jeder unkontrollierten Nähe. Die Erwartung, die „unter die Palmen kriecht“, anthropomorphisiert die quälende innere Unruhe zu einem schleichenden Eindringling, der die scheinbare Idylle bedroht.\n\nEs entsteht das Bild eines Ichs, das seinen Schmerz in luxuriöser Ferne betäubt. Die Hitze und die Weite des Gartens spenden keinen Trost, sondern bilden das sterile Bühnenbild für eine chronische Alarmbereitschaft."
     },
     {
-      "quote": "Etwas fehlt, vielleicht ist es aufgewacht / Das Gegenteil, das Außerhalb / Und zum ersten Mal schwillt ein Rauschen an / In den Palmen, die überm Haus weh'n, 1996",
-      "body": "Die Passage in [[Part 2]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Etwas fehlt, vielleicht ist es aufgewacht“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Etwas fehlt, vielleicht ist es aufgewacht / Der Einbruch des Mangels",
+      "body": "Trotz maximaler äußerer Reizsättigung bricht das verdrängte Reale ein: „Das Gegenteil, das Außerhalb“ ist der unausweichliche Mangel, der sich nicht länger wegerklären lässt. Das anschwellende Rauschen in den Palmen markiert den Moment, in dem die Fassade der Sorglosigkeit Risse bekommt.\n\nDas Subjekt spürt die Kälte des eigenen Vakuums mitten im Hochsommer. Der Versuch, sich im Paradies zu verbarrikadieren, scheitert an der Unfähigkeit, inneren Frieden zu finden."
     },
     {
-      "quote": "Ob die Welt hält, was sie verspricht? / Steig' herab in strahlendem Licht / Und ganz in Weiß gekleidet / Diese Stufen tragen dich / Ob die Welt hält, was sie verspricht? / Steig' herab in strahlendem Licht / Und ganz in Weiß gekleidet / Diese Stufen tragen dich",
-      "body": "Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Ob die Welt hält, was sie verspricht?“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Ob die Welt hält, was sie verspricht? / Der messianische Abstieg",
+      "body": "Die Frage an die Welt formuliert einen infantilen Allmachtsanspruch: Das Ich verlangt die bedingungslose Erfüllung seiner Grandiositätsfantasien. Der Auftritt „ganz in Weiß gekleidet“ auf Stufen, die einen scheinbar von selbst tragen, inszeniert den Eintritt in die Welt als sakrale Apotheose.\n\nHinter der strahlenden Geste verbirgt sich die panische Angst vor der Realitätsprüfung. Das weiße Gewand ist keine Reinheit, sondern die Rüstung eines Narzissten, der jede Berührung mit dem Boden scheut."
     },
     {
-      "quote": "Ikarus, Fantasieprodukt / Entfliehst dem Druck hoch in die Fieberluft / Flieg, wenn du musst über den tiefsten Bruch / Und die Palmen, die überm Haus weh'n, 1996",
-      "body": "Die Passage in [[Outro]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Ikarus, Fantasieprodukt“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Ikarus, Fantasieprodukt / Der manische Höhenflug",
+      "body": "Die schonungslose Demaskierung im Outro: Das Ich erkennt sich selbst als rein artifizielles „Fantasieprodukt“. Der mythologische Flug des Ikarus in die „Fieberluft“ ist kein heroischer Akt der Freiheit, sondern die verzweifelte Flucht vor dem unerträglichen inneren Druck.\n\nDas Überfliegen des „tiefsten Bruchs“ schiebt den fatalen Aufprall lediglich auf. Die Konstruktion der Persona kollabiert in der Erkenntnis ihrer eigenen Hohlheit."
     }
   ],
   "cards_en": [
     {
-      "quote": "Panoramablick übers Paradies / Während warme Luft auf dem Garten liegt / Wie der Tag sich zieht und Erwartung kriecht / Unter die Palmen, die überm Haus steh'n, 1996",
-      "body": "The passage in [[Part 1]] deconstructs the core psychodynamic conflict around the line “Panoramablick übers Paradies”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Panoramic view over paradise / Sublime isolation",
+      "body": "The luxury panorama over \"paradise\" serves as a hermetic barrier: surveying reality from above precludes unmediated vulnerability. Anticipation \"creeping under the palms\" anthropomorphizes chronic anxiety into an encroaching intruder threatening serenity.\n\nA portrait of a self sedating pain through elevated detachment. The garden's warmth offers no comfort, but provides the sterile set piece for chronic vigilance."
     },
     {
-      "quote": "Etwas fehlt, vielleicht ist es aufgewacht / Das Gegenteil, das Außerhalb / Und zum ersten Mal schwillt ein Rauschen an / In den Palmen, die überm Haus weh'n, 1996",
-      "body": "The passage in [[Part 2]] deconstructs the core psychodynamic conflict around the line “Etwas fehlt, vielleicht ist es aufgewacht”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Something is missing, maybe it woke up / Incursion of lack",
+      "body": "Despite maximum sensory saturation, the repressed real erupts: \"the opposite, the outside\" is the unavoidable void that resists rationalization. The swelling rustle in the palms signals the collapse of the carefree facade.\n\nThe subject encounters internal cold in high summer. Barricading inside paradise fails against the inability to sustain inner peace."
     },
     {
-      "quote": "Ob die Welt hält, was sie verspricht? / Steig' herab in strahlendem Licht / Und ganz in Weiß gekleidet / Diese Stufen tragen dich / Ob die Welt hält, was sie verspricht? / Steig' herab in strahlendem Licht / Und ganz in Weiß gekleidet / Diese Stufen tragen dich",
-      "body": "The passage in [[Hook]] deconstructs the core psychodynamic conflict around the line “Ob die Welt hält, was sie verspricht?”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Will the world deliver what it promised? / Messianic descent",
+      "body": "The query directed at the world articulates infantile entitlement: demanding total validation of omnipotent fantasies. Descending \"dressed in white\" on stairs that seemingly carry the body stages entry into reality as sacral apotheosis.\n\nBehind the radiant posture lurks acute terror of reality testing. The white attire is no emblem of purity, but armor warding off ground friction."
     },
     {
-      "quote": "Ikarus, Fantasieprodukt / Entfliehst dem Druck hoch in die Fieberluft / Flieg, wenn du musst über den tiefsten Bruch / Und die Palmen, die überm Haus weh'n, 1996",
-      "body": "The passage in [[Outro]] deconstructs the core psychodynamic conflict around the line “Ikarus, Fantasieprodukt”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    }
-  ],
-  "stanzas": [
-    {
-      "title": "[Part 1]",
-      "lines": [
-        {
-          "line_idx": 0,
-          "text": "Panoramablick übers Paradies",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 1,
-          "text": "Während warme Luft auf dem Garten liegt",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 2,
-          "text": "Wie der Tag sich zieht und Erwartung kriecht",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 3,
-          "text": "Unter die Palmen, die überm Haus steh'n, 1996",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
-    },
-    {
-      "title": "[Part 2]",
-      "lines": [
-        {
-          "line_idx": 4,
-          "text": "Etwas fehlt, vielleicht ist es aufgewacht",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 5,
-          "text": "Das Gegenteil, das Außerhalb",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 6,
-          "text": "Und zum ersten Mal schwillt ein Rauschen an",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 7,
-          "text": "In den Palmen, die überm Haus weh'n, 1996",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
-    },
-    {
-      "title": "[Hook]",
-      "lines": [
-        {
-          "line_idx": 8,
-          "text": "Ob die Welt hält, was sie verspricht?",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 9,
-          "text": "Steig' herab in strahlendem Licht",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 10,
-          "text": "Und ganz in Weiß gekleidet",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 11,
-          "text": "Diese Stufen tragen dich",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 12,
-          "text": "Ob die Welt hält, was sie verspricht?",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 13,
-          "text": "Steig' herab in strahlendem Licht",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 14,
-          "text": "Und ganz in Weiß gekleidet",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 15,
-          "text": "Diese Stufen tragen dich",
-          "annotated": true,
-          "card_idx": 2
-        }
-      ]
-    },
-    {
-      "title": "[Outro]",
-      "lines": [
-        {
-          "line_idx": 16,
-          "text": "Ikarus, Fantasieprodukt",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 17,
-          "text": "Entfliehst dem Druck hoch in die Fieberluft",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 18,
-          "text": "Flieg, wenn du musst über den tiefsten Bruch",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 19,
-          "text": "Und die Palmen, die überm Haus weh'n, 1996",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
+      "quote": "Icarus, fantasy product / Manic flight",
+      "body": "Unsparing demystification in the outro: the persona confronts its constructed identity as an artificial \"fantasy product\". The flight of Icarus into \"fever air\" is not heroism, but frantic flight from internal pressure.\n\nSoaring over the \"deepest fracture\" merely defers impact. The persona fractures under the weight of its own hollowness."
     }
   ]
 }

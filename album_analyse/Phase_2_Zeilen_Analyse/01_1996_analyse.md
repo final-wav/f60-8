@@ -10,74 +10,61 @@
 <p>The album opens with the staging of the origin myth: <strong>“1996”</strong> marks the biographical and psychological baseline of the persona. Framed by Mediterranean heat and the suspended anticipation of an Ibiza summer, Tua unveils the central motif: <span class="lyric-quote-highlight">“Panoramic view over paradise / While warm air lies on the garden”</span> is no sanctuary of peace, but the elevated fortress of an ego that tolerates reality only from a detached distance. Yet in the second part, the repressed core erupts: <span class="lyric-quote-highlight">“Something is missing, maybe it woke up / The opposite, the outside”</span>. The rising rustle in the palms announces foundational lack.</p>
 <p>In the sacral chorus (<span class="lyric-quote-highlight">“Will the world deliver what it promised? / Step down in radiant light / Dressed in white”</span>), narcissistic descent is choreographed as a messianic arrival. Yet the outro executes an unsparing demystification: as <span class="lyric-quote-highlight">“Icarus, fantasy product / Fleeing the pressure into the fever air”</span>, the persona retreats from reality. The flight over the <span class="lyric-quote-highlight">“deepest fracture”</span> is no sovereign emancipation, but a manic escape preceding the inevitable impact.</p>
 
-## Zeilen-Genaue Karten-Dekonstruktion (4 Säulen nach SKILL.md)
+## Zeilen-Genaue Karten-Dekonstruktion (Tomora Standard)
 
-### Karte 1: `Panoramablick übers Paradies / Während warme Luft auf dem Garten liegt / Wie der Tag sich zieht und Erwartung kriecht / Unter die Palmen, die überm Haus steh'n, 1996`
+### Karte 1: `Panoramablick übers Paradies / Die erhabene Isolation`
 
 **Deutsch:**
-Die Exposition des Albums verortet das Subjekt in einem luxuriösen Insel-Refugium auf Ibiza 1996. Der „Panoramablick“ ist die architektonische Verkörperung des narzisstischen Schutzwalls: Wer erhöht steht und auf das „Paradies“ herabblickt, schirmt sich gegen unkontrollierte emotionale Verstrickungen ab. Das Verbum „kriecht“ bricht jedoch die sommerliche Statik und anthropomorphisiert die Erwartung zu einem schleichenden, bedrohlichen Fremdkörper.
+Die Inszenierung des Luxus-Panoramas über das „Paradies“ dient als hermetische Barriere: Wer ganz oben steht und auf die Szenerie herabblickt, entzieht sich jeder unkontrollierten Nähe. Die Erwartung, die „unter die Palmen kriecht“, anthropomorphisiert die quälende innere Unruhe zu einem schleichenden Eindringling, der die scheinbare Idylle bedroht.
 
-Vortragsweise und Phonation vermitteln eine trügerische Ruhe: Gedehnte Vokale und ein fast meditativer Atemrhythmus maskieren die unterschwellige Anspannung. Körperlich korrespondiert dies mit fixiertem Blick und erhöhter Wachsamkeit.
-
-Klanglich legen sich warme Synthesizer-Pads über den akustischen Raum, bevor ein subtiler 2-Step-Breakbeat das Vorwärtsdrängen des Bewusstseins ankündigt.
+Es entsteht das Bild eines Ichs, das seinen Schmerz in luxuriöser Ferne betäubt. Die Hitze und die Weite des Gartens spenden keinen Trost, sondern bilden das sterile Bühnenbild für eine chronische Alarmbereitschaft.
 
 **English:**
-The album's exposition establishes the subject within a luxury island sanctuary in Ibiza 1996. The "panoramic view" serves as the architectural embodiment of a narcissistic firewall: looking down upon paradise prevents unmediated emotional vulnerability. However, the verb "creeps" fractures the tranquil tableau, personifying anticipation into an encroaching, unsettling intruder.
+The luxury panorama over "paradise" serves as a hermetic barrier: surveying reality from above precludes unmediated vulnerability. Anticipation "creeping under the palms" anthropomorphizes chronic anxiety into an encroaching intruder threatening serenity.
 
-Vocal delivery projects deceptive serenity: elongated vowels and measured respiration mask acute vigilance. Somatically, this corresponds to an elevated spinal alignment and an unblinking horizon gaze.
-
-Acoustically, warm ambient synth textures envelope the stereo field before subtle garage breakbeats propel the psyche into forward momentum.
+A portrait of a self sedating pain through elevated detachment. The garden's warmth offers no comfort, but provides the sterile set piece for chronic vigilance.
 
 ---
 
-### Karte 2: `Etwas fehlt, vielleicht ist es aufgewacht / Das Gegenteil, das Außerhalb / Und zum ersten Mal schwillt ein Rauschen an / In den Palmen, die überm Haus weh'n, 1996`
+### Karte 2: `Etwas fehlt, vielleicht ist es aufgewacht / Der Einbruch des Mangels`
 
 **Deutsch:**
-Der fundamentale Mangel bricht mitten in die hedonistische Reizüberflutung ein. Das „Gegenteil“, das „Außerhalb“ bezeichnet das verdrängte Reale – jene innere Leere, die durch keinen äußeren Luxus betäubt werden kann. Das anschwellende „Rauschen“ in den Palmen kündigt das Versagen der Verleugnung (Denial) an.
+Trotz maximaler äußerer Reizsättigung bricht das verdrängte Reale ein: „Das Gegenteil, das Außerhalb“ ist der unausweichliche Mangel, der sich nicht länger wegerklären lässt. Das anschwellende Rauschen in den Palmen markiert den Moment, in dem die Fassade der Sorglosigkeit Risse bekommt.
 
-Die Phonation verliert ihre Gleichmäßigkeit: Ein kurzes Stocken im Atemfluss und eine kältere, isoliertere Artikulation machen das somatische Erstarren greifbar. Das Ich erlebt einen plötzlichen Kälteschauer trotz warmer Mittelmeerluft.
-
-Im Arrangement wird die Stimme durch einen Hochpassfilter verengt und in einen weiten Nachhall eingebettet, der das Gefühl plötzlicher seelischer Kapselung abbildet.
+Das Subjekt spürt die Kälte des eigenen Vakuums mitten im Hochsommer. Der Versuch, sich im Paradies zu verbarrikadieren, scheitert an der Unfähigkeit, inneren Frieden zu finden.
 
 **English:**
-The foundational void erupts directly through the sensory saturation of hedonism. The "opposite", the "outside" represents the repressed real—an existential vacancy that no external aesthetic luxury can soothe. The swelling rustle in the palm leaves signals the collapse of denial.
+Despite maximum sensory saturation, the repressed real erupts: "the opposite, the outside" is the unavoidable void that resists rationalization. The swelling rustle in the palms signals the collapse of the carefree facade.
 
-The delivery loses its smooth equilibrium: a subtle hitch in respiration and colder, drier vocal articulation convey sudden somatic freezing. The organism experiences internal chills despite warm Mediterranean air.
-
-In the arrangement, high-pass filtering and cavernous reverb decays simulate acute psychological encapsulation.
+The subject encounters internal cold in high summer. Barricading inside paradise fails against the inability to sustain inner peace.
 
 ---
 
-### Karte 3: `Ob die Welt hält, was sie verspricht? / Steig' herab in strahlendem Licht / Und ganz in Weiß gekleidet / Diese Stufen tragen dich`
+### Karte 3: `Ob die Welt hält, was sie verspricht? / Der messianische Abstieg`
 
 **Deutsch:**
-Die Hook inszeniert den Eintritt in die Welt als sakralen, messianischen Triumphzug. Das Subjekt formuliert den unausweichlichen Anspruch an die Realität („Ob die Welt hält, was sie verspricht?“) und entwirft sich als makellose, ganz in Weiß gekleidete Lichtgestalt. Die Vorstellung, dass die Stufen das Ich aktiv „tragen“, artikuliert den infantilen Wunsch nach müheloser Allmacht ohne Bodenkontakt.
+Die Frage an die Welt formuliert einen infantilen Allmachtsanspruch: Das Ich verlangt die bedingungslose Erfüllung seiner Grandiositätsfantasien. Der Auftritt „ganz in Weiß gekleidet“ auf Stufen, die einen scheinbar von selbst tragen, inszeniert den Eintritt in die Welt als sakrale Apotheose.
 
-Mehrstimmige, hymnische Gesangsschichten erzeugen eine sakrale Resonanz. Somatisch spiegelt sich dies in einer maximal aufgerichteten Brust und majestätisch verlangsamten Bewegungen wider – ein demonstratives Panzern gegen die Furcht vor dem Scheitern.
-
-Chorale Synth-Fanfaren heben den Gesang in den Mittelpunkt und verleihen der Szene die Erhabenheit einer antiken Apotheose.
+Hinter der strahlenden Geste verbirgt sich die panische Angst vor der Realitätsprüfung. Das weiße Gewand ist keine Reinheit, sondern die Rüstung eines Narzissten, der jede Berührung mit dem Boden scheut.
 
 **English:**
-The chorus choreographs entry into the world as a messianic triumph. The persona directs an absolute entitlement toward reality ("Will the world deliver what it promised?") and envisions itself as an immaculate figure in white descending into light. The stairs "carrying" the subject articulate an infantile fantasy of effortless omnipotence without ground friction.
+The query directed at the world articulates infantile entitlement: demanding total validation of omnipotent fantasies. Descending "dressed in white" on stairs that seemingly carry the body stages entry into reality as sacral apotheosis.
 
-Layered anthemic harmonies establish sacral acoustic scale. Somatically, this manifests as an expanded chest posture and decelerated stride—armoring against fear of failure.
-
-Choral synth sweeps frame the vocal performance, staging an antique apotheosis.
+Behind the radiant posture lurks acute terror of reality testing. The white attire is no emblem of purity, but armor warding off ground friction.
 
 ---
 
-### Karte 4: `Ikarus, Fantasieprodukt / Entfliehst dem Druck hoch in die Fieberluft / Flieg, wenn du musst über den tiefsten Bruch / Und die Palmen, die überm Haus weh'n, 1996`
+### Karte 4: `Ikarus, Fantasieprodukt / Der manische Höhenflug`
 
 **Deutsch:**
-Das Outro vollzieht die gnadenlose Demaskierung: Das Ich erkennt seine eigene Identität als rein artifizielles „Fantasieprodukt“. Der mythologische Flug des Ikarus in die „Fieberluft“ ist keine Befreiung, sondern panische Flucht vor dem unerträglichen inneren Druck. Das Überfliegen des „tiefsten Bruchs“ symbolisiert die seelische Spaltung zwischen Grandiosität und Zusammenbruch.
+Die schonungslose Demaskierung im Outro: Das Ich erkennt sich selbst als rein artifizielles „Fantasieprodukt“. Der mythologische Flug des Ikarus in die „Fieberluft“ ist kein heroischer Akt der Freiheit, sondern die verzweifelte Flucht vor dem unerträglichen inneren Druck.
 
-Die Gesangsstimme wird dünner und hechelnder; der Atem verkürzt sich unter dem Einfluss auditiver Beschleunigung. Somatisch drückt sich dies in Tachykardie und Schwindelgefühl aus.
-
-Ausfasernde Delay-Echos lassen die Silben über dem ausklingenden Beat verwehen und inszenieren das drohende Abdriften ins Bodenlose.
+Das Überfliegen des „tiefsten Bruchs“ schiebt den fatalen Aufprall lediglich auf. Die Konstruktion der Persona kollabiert in der Erkenntnis ihrer eigenen Hohlheit.
 
 **English:**
-The outro executes an unsparing demystification: the persona confronts its constructed nature as a purely artificial "fantasy product". The mythological flight of Icarus into the "fever air" is not liberation, but desperate escape from crushing psychic pressure. Soaring over the "deepest fracture" marks the internal split between grandiosity and collapse.
+Unsparing demystification in the outro: the persona confronts its constructed identity as an artificial "fantasy product". The flight of Icarus into "fever air" is not heroism, but frantic flight from internal pressure.
 
-The vocal timbre thins into shallower, breathier articulation. Somatically, this registers as rapid pulse and vertigo.
+Soaring over the "deepest fracture" merely defers impact. The persona fractures under the weight of its own hollowness.
 
-Dispersing delay repeats scatter the syllables across the fading rhythm, illustrating imminent drift into the abyss.
+---
+

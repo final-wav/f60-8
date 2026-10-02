@@ -1,247 +1,50 @@
 {
-  "track_num": "04",
-  "track_title": "Dachterrasse",
+  "num": "04",
+  "title": "Dachterrasse",
   "review_de": "<p>In <strong>„Dachterrasse“</strong> kippt der Rausch in die bleierne Kälte der Morgendämmerung. Vom Dach einer Luxusresidenz blickt der Protagonist auf die schlafenden Hotelburgen herab – isoliert in der Illusion, <span class=\"lyric-quote-highlight\">„Auf der Dachterrasse weit oben, allem überlegen“</span> zu sein. Doch im Pre-Hook bricht das fundamentale Kindheitstrauma ungefiltert durch: <span class=\"lyric-quote-highlight\">„Bis keiner mehr da ist, so wie damals meine Mutter / Glorreich, glorreich geh'n wir unter“</span>. Der narzisstische Höhenflug wird als desperate Bewältigung frühkindlicher Verlassenheit demaskiert.</p>\n<p>Der zweite Vers formuliert die absolute Abwehr von Intimität: <span class=\"lyric-quote-highlight\">„Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst / Diese Existenz ist nicht mehr als ein One-Night-Stand“</span>. Das Mantra des Refrains – <span class=\"lyric-quote-highlight\">„Man muss aufhör'n, wenn's am besten ist / Denn mit der Zeit wird alles lächerlich“</span> – ist kein Zeichen von Vernunft, sondern die panische Flucht vor dem Moment, in dem die Maske verrutscht und die eigene Bedürftigkeit sichtbar wird.</p>",
   "review_en": "<p>In <strong>“Dachterrasse”</strong> (Rooftop), nocturnal ecstasy crashes into the leaden dawn. Suspended above sleeping hotel monoliths, the protagonist clings to the delusion of being <span class=\"lyric-quote-highlight\">“On the rooftop terrace high above, superior to everything”</span>. Yet in the pre-hook, primary maternal abandonment erupts without defense: <span class=\"lyric-quote-highlight\">“Until no one is left, just like my mother back then / Gloriously, gloriously we go down”</span>. Manic altitude is unmasked as an emergency response to foundational neglect.</p>\n<p>The second verse articulates the absolute rejection of intimacy: <span class=\"lyric-quote-highlight\">“If you knew what I think, I don't want you to know me / This existence is nothing more than a one-night stand”</span>. The recurring hook—<span class=\"lyric-quote-highlight\">“You have to stop when it's best / Because in time everything turns ridiculous”</span>—is not wisdom, but the phobic compulsion to exit before the mask slips and dependency is exposed.</p>",
   "cards_de": [
     {
-      "quote": "Das erste Licht über den Bergen, langsam wird es hell / Häuser steh'n weiß, Häuser liegen bleich unter Scheinwerfern in Gelb / Hotelburgen schlafen, Stille überm Hafen / Die Superjacht träumt, sie pennt ein und wacht auf in eintausend Jahren",
-      "body": "Die Passage in [[Part 1]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Das erste Licht über den Bergen, langsam wird es hell“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Das erste Licht über den Bergen / Das bleierne Erwachen",
+      "body": "Die Morgendämmerung entzieht dem nächtlichen Exzess seinen Schutzraum. Die Hotelburgen und die träumende Superjacht wirken wie leblose Monumente einer erstarrten Welt. Das Ich blickt von oben herab auf eine Szenerie, die jede Magie verloren hat.\n\nMit dem Verblassen der Nacht weicht die Euphorie einer körperlichen und seelischen Erschöpfung. Das Licht spendet keine Wärme, sondern beleuchtet die Trümmer der Nacht."
     },
     {
-      "quote": "Auf der Dachterrasse weit oben, allem überlegen / Zweiter Joint, sie ist immer noch wach, aber nicht mehr anwesend / Bis keiner mehr da ist, so wie damals meine Mutter / Glorreich, glorreich geh'n wir unter",
-      "body": "Die Passage in [[Pre-Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Auf der Dachterrasse weit oben, allem überlegen“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Bis keiner mehr da ist, so wie damals meine Mutter / Das Urtrauma",
+      "body": "Der Höhepunkt des Tracks reißt die tiefste Wunde auf: Das Gefühl, hoch über allem „überlegen“ zu sein, kippt unvermittelt in das unverarbeitete Trauma frühkindlicher Verlassenheit. Die Erinnerung an die Mutter entlarvt den gesamten Höhenflug als verzweifelten Versuch, den Schmerz des Verlassenwerdens durch aktive Distanzierung zu kontrollieren.\n\nDer herannahende Absturz wird zynisch als „glorreich“ verbrämt, um der eigenen Ohnmacht einen heroischen Anstrich zu verleihen."
     },
     {
-      "quote": "Man muss aufhör'n, wenn's am besten ist / Aufhör'n, wenn's am besten ist / Man muss aufhör'n, wenn's am besten ist",
-      "body": "Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Man muss aufhör'n, wenn's am besten ist“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Man muss aufhör'n, wenn's am besten ist / Der Fluchtreflex",
+      "body": "Die Hook formuliert die phobische Angst vor dem Moment, in dem die Illusion kollabiert. Was wie rationale Lebensklugheit klingt, ist in Wahrheit die panische Flucht vor dem unausweichlichen Verfall und der Demaskierung.\n\nDas Subjekt bricht Beziehungen und Momente ab, bevor das Gegenüber die Schwäche hinter der Fassade entdecken kann. Flucht wird zur einzigen verbleibenden Kontrollstrategie."
     },
     {
-      "quote": "Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst / Ich will Sonne, die mich blendet, Sommer, der nie endet, nur die Exzellenz / Greif' in jedes Fenster, nehme mir, was glänzt / Diese Existenz ist nicht mehr als ein One-Night-Stand",
-      "body": "Die Passage in [[Part 2]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst / Die Barriere",
+      "body": "Das radikale Verbot von Nähe: Der Satz „ich will nicht, dass du mich kennst“ zieht eine unüberwindbare Grenze. Die Sehnsucht nach einer „Sonne, die mich blendet“ und einem „Sommer, der nie endet“ verlangt nach permanenter Betäubung durch Reize.\n\nIndem das gesamte Dasein zum flüchtigen „One-Night-Stand“ erklärt wird, schützt sich das Ich vor jeder verbindlichen Verantwortung und Bindung."
     },
     {
-      "quote": "Auf der Dachterrasse weit oben, allem überlegen / Dritter Joint, sie ist immer noch wach, aber nicht mehr anwesend / Bis keiner mehr da ist, so wie damals meine Mutter / Glorreich, glorreich geh'n wir unter",
-      "body": "Die Passage in [[Pre-Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Auf der Dachterrasse weit oben, allem überlegen“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
-    },
-    {
-      "quote": "Man muss aufhör'n, wenn's am besten ist / Aufhör'n, wenn's am besten ist / Man muss aufhör'n, wenn's am besten ist",
-      "body": "Die Passage in [[Hook]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Man muss aufhör'n, wenn's am besten ist“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
-    },
-    {
-      "quote": "Man muss aufhör'n, wenn's am besten ist / Denn mit der Zeit wird alles lächerlich",
-      "body": "Die Passage in [[Outro]] dekonstruiert das psychodynamische Kernthema des Tracks anhand der Textzeile „Man muss aufhör'n, wenn's am besten ist“:\n\n1. Semiotik & Hermeneutik: Die Verse entfalten die narzisstische Abwehrstruktur und spiegeln den Konflikt zwischen dem idealisierten Selbstbild und der drohenden Dekompensation wider.\n2. Phonation & Somatik: Die Stimmführung changiert zwischen kontrollierter Härte und affektiver Erstarrung; der Körper panzert sich gegen jede unkontrollierte Regung ab.\n3. Produktion: Treibende Rhythmik und präzise platzierte Frequenzräume verstärken den Eindruck einer rastlosen Flucht vor der Introspektion."
+      "quote": "Denn mit der Zeit wird alles lächerlich / Die Angst vor der Entblößung",
+      "body": "Die bittere Schlusspointe: Die Furcht vor der Lächerlichkeit entlarvt die Fragilität des narzisstischen Selbstbildes. Dauer und Gewöhnung bedrohen das Image der Souveränität.\n\nWer rechtzeitig geht, hinterlässt das Bild eines Unnahbaren. Zurück bleibt die selbstgewählte Isolation als Preis für den Erhalt der Maske."
     }
   ],
   "cards_en": [
     {
-      "quote": "Das erste Licht über den Bergen, langsam wird es hell / Häuser steh'n weiß, Häuser liegen bleich unter Scheinwerfern in Gelb / Hotelburgen schlafen, Stille überm Hafen / Die Superjacht träumt, sie pennt ein und wacht auf in eintausend Jahren",
-      "body": "The passage in [[Part 1]] deconstructs the core psychodynamic conflict around the line “Das erste Licht über den Bergen, langsam wird es hell”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "First light over mountains / Leaden dawn",
+      "body": "Dawn strips nocturnal intoxication of its sanctuary. Sleeping monoliths and superyachts resemble petrified relics. Surveying the landscape from above reveals exhausted stillness.\n\nEuphoria gives way to physical depletion. Daylight offers no warmth, illuminating wreckage."
     },
     {
-      "quote": "Auf der Dachterrasse weit oben, allem überlegen / Zweiter Joint, sie ist immer noch wach, aber nicht mehr anwesend / Bis keiner mehr da ist, so wie damals meine Mutter / Glorreich, glorreich geh'n wir unter",
-      "body": "The passage in [[Pre-Hook]] deconstructs the core psychodynamic conflict around the line “Auf der Dachterrasse weit oben, allem überlegen”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "Until no one is left, like my mother / Primal wound",
+      "body": "The track's emotional core: claimed supremacy fractures into maternal abandonment. Grandiosity is unmasked as an emergency attempt to master abandonment through pre-emptive isolation.\n\nImpending ruin is romanticized as \"glorious\" to salvage heroic agency."
     },
     {
-      "quote": "Man muss aufhör'n, wenn's am besten ist / Aufhör'n, wenn's am besten ist / Man muss aufhör'n, wenn's am besten ist",
-      "body": "The passage in [[Hook]] deconstructs the core psychodynamic conflict around the line “Man muss aufhör'n, wenn's am besten ist”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "You have to stop when it's best / Exit reflex",
+      "body": "The chorus articulates phobic terror of disillusionment. Mimicking life advice, it masks compulsive departure before vulnerability is exposed.\n\nSevering intimacy first preserves control over the narrative."
     },
     {
-      "quote": "Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst / Ich will Sonne, die mich blendet, Sommer, der nie endet, nur die Exzellenz / Greif' in jedes Fenster, nehme mir, was glänzt / Diese Existenz ist nicht mehr als ein One-Night-Stand",
-      "body": "The passage in [[Part 2]] deconstructs the core psychodynamic conflict around the line “Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
+      "quote": "I don't want you to know me / Fortress wall",
+      "body": "Absolute intimacy taboo: \"I don't want you to know me\" bars genuine contact. Craving perpetual sunlight demands sensory blinding.\n\nReducing existence to a \"one-night stand\" inoculates against emotional permanence."
     },
     {
-      "quote": "Auf der Dachterrasse weit oben, allem überlegen / Dritter Joint, sie ist immer noch wach, aber nicht mehr anwesend / Bis keiner mehr da ist, so wie damals meine Mutter / Glorreich, glorreich geh'n wir unter",
-      "body": "The passage in [[Pre-Hook]] deconstructs the core psychodynamic conflict around the line “Auf der Dachterrasse weit oben, allem überlegen”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    },
-    {
-      "quote": "Man muss aufhör'n, wenn's am besten ist / Aufhör'n, wenn's am besten ist / Man muss aufhör'n, wenn's am besten ist",
-      "body": "The passage in [[Hook]] deconstructs the core psychodynamic conflict around the line “Man muss aufhör'n, wenn's am besten ist”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    },
-    {
-      "quote": "Man muss aufhör'n, wenn's am besten ist / Denn mit der Zeit wird alles lächerlich",
-      "body": "The passage in [[Outro]] deconstructs the core psychodynamic conflict around the line “Man muss aufhör'n, wenn's am besten ist”:\n\n1. Semiotics & Hermeneutics: The verses lay bare the narcissistic defense architecture, charting tension between grandiosity and impending affective decompensation.\n2. Phonation & Somatics: Vocal delivery shifts between rigid detachment and repressed strain; the physical organism armors itself against unmastered vulnerability.\n3. Production: Driving percussive textures and focused acoustic spaces accentuate the relentless flight from stillness."
-    }
-  ],
-  "stanzas": [
-    {
-      "title": "[Part 1]",
-      "lines": [
-        {
-          "line_idx": 0,
-          "text": "Das erste Licht über den Bergen, langsam wird es hell",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 1,
-          "text": "Häuser steh'n weiß, Häuser liegen bleich unter Scheinwerfern in Gelb",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 2,
-          "text": "Hotelburgen schlafen, Stille überm Hafen",
-          "annotated": true,
-          "card_idx": 0
-        },
-        {
-          "line_idx": 3,
-          "text": "Die Superjacht träumt, sie pennt ein und wacht auf in eintausend Jahren",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
-    },
-    {
-      "title": "[Pre-Hook]",
-      "lines": [
-        {
-          "line_idx": 4,
-          "text": "Auf der Dachterrasse weit oben, allem überlegen",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 5,
-          "text": "Zweiter Joint, sie ist immer noch wach, aber nicht mehr anwesend",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 6,
-          "text": "Bis keiner mehr da ist, so wie damals meine Mutter",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 7,
-          "text": "Glorreich, glorreich geh'n wir unter",
-          "annotated": true,
-          "card_idx": 1
-        }
-      ]
-    },
-    {
-      "title": "[Hook]",
-      "lines": [
-        {
-          "line_idx": 8,
-          "text": "Man muss aufhör'n, wenn's am besten ist",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 9,
-          "text": "Aufhör'n, wenn's am besten ist",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 10,
-          "text": "Man muss aufhör'n, wenn's am besten ist",
-          "annotated": true,
-          "card_idx": 2
-        }
-      ]
-    },
-    {
-      "title": "[Part 2]",
-      "lines": [
-        {
-          "line_idx": 11,
-          "text": "Wenn du wüsstest, was ich denk', ich will nicht, dass du mich kennst",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 12,
-          "text": "Ich will Sonne, die mich blendet, Sommer, der nie endet, nur die Exzellenz",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 13,
-          "text": "Greif' in jedes Fenster, nehme mir, was glänzt",
-          "annotated": true,
-          "card_idx": 3
-        },
-        {
-          "line_idx": 14,
-          "text": "Diese Existenz ist nicht mehr als ein One-Night-Stand",
-          "annotated": true,
-          "card_idx": 3
-        }
-      ]
-    },
-    {
-      "title": "[Pre-Hook]",
-      "lines": [
-        {
-          "line_idx": 15,
-          "text": "Auf der Dachterrasse weit oben, allem überlegen",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 16,
-          "text": "Dritter Joint, sie ist immer noch wach, aber nicht mehr anwesend",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 17,
-          "text": "Bis keiner mehr da ist, so wie damals meine Mutter",
-          "annotated": true,
-          "card_idx": 1
-        },
-        {
-          "line_idx": 18,
-          "text": "Glorreich, glorreich geh'n wir unter",
-          "annotated": true,
-          "card_idx": 1
-        }
-      ]
-    },
-    {
-      "title": "[Hook]",
-      "lines": [
-        {
-          "line_idx": 19,
-          "text": "Man muss aufhör'n, wenn's am besten ist",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 20,
-          "text": "Aufhör'n, wenn's am besten ist",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 21,
-          "text": "Man muss aufhör'n, wenn's am besten ist",
-          "annotated": true,
-          "card_idx": 2
-        }
-      ]
-    },
-    {
-      "title": "[Outro]",
-      "lines": [
-        {
-          "line_idx": 22,
-          "text": "Man muss aufhör'n, wenn's am besten ist",
-          "annotated": true,
-          "card_idx": 2
-        },
-        {
-          "line_idx": 23,
-          "text": "Denn mit der Zeit wird alles lächerlich",
-          "annotated": true,
-          "card_idx": 0
-        }
-      ]
+      "quote": "In time everything turns ridiculous / Terror of exposure",
+      "body": "Cynical conclusion: dread of humiliation reveals narcissistic fragility. Familiarity threatens the illusion of supremacy.\n\nExiting pre-emptively preserves the aloof persona at the cost of total isolation."
     }
   ]
 }

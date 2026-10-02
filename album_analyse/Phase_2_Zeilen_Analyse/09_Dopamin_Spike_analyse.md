@@ -10,56 +10,47 @@
 <p><strong>“Dopamin Spike”</strong> celebrates the triumph of biochemical simulation over empirical reality. As the chemical surge hits, all relational obligation evaporates: <span class="lyric-quote-highlight">“Dopamine spike and my heart races / Since I stopped carrying it after you / Blasting myself higher than gravity / Had 1g, loading more / Every sentence sounds legendary / And doesn't need to be true / Just needs to feel like it”</span>. Tua articulates the core manifesto of post-truth hedonism: empirical truth is obsolete as long as neurotransmitters fire.</p>
 <p>Wearing <span class="lyric-quote-highlight">“sunglasses at night, because I'm in the Matrix”</span> not only conceals dilated pupils, but seals the speaker inside a private bunker. In the second verse, the speaker devalues the moral compass of the sober: <span class="lyric-quote-highlight">“High on morals, but I don't buy it / Because it's your truth / That makes you so deaf / Until you're high on it”</span>. Ethics are dismissed as cowardly self-abnegation.</p>
 
-## Zeilen-Genaue Karten-Dekonstruktion (4 Säulen nach SKILL.md)
+## Zeilen-Genaue Karten-Dekonstruktion (Tomora Standard)
 
-### Karte 1: `Dopamin-Spike und mein Herz rast / Seit ich es dir nicht mehr hinterhertrag' / Leben so leicht, wie man's nimmt / Baller' mich höher als die Schwerkraft / Hatte 1g, lege mehr nach / Jeder Satz hört sich legendär an / Und muss gar nicht wahr sein / Muss sich nur so anfühl'n / Auch wenn du mich anlügst`
+### Karte 1: `Jeder Satz hört sich legendär an / Und muss gar nicht wahr sein / Das postfaktische Hochgefühl`
 
 **Deutsch:**
-Die Apotheose des biochemischen Selbstbetrugs: Mit dem Neurotransmitter-Schub löst sich jede seelische Bindung auf („Seit ich es dir nicht mehr hinterhertrag'“). Der Satz „Jeder Satz hört sich legendär an / Und muss gar nicht wahr sein / Muss sich nur so anfühl'n“ ist das radikalste Credo des Albums: Wahrheit und Lüge verlieren jede Bedeutung, solange das Belohnungszentrum im Gehirn maximal stimuliert wird.
+Die Feier der chemischen Simulation: Wahrheit und Realität werden bedeutungslos, solange der „Dopamin-Spike“ das Belohnungszentrum flutet. Das Gefühl von Größe („baller' mich höher als die Schwerkraft“) ersetzt jede reale Substanz.
 
-Ekstatische, druckvolle Phonation mit hyperaktiver Beschleunigung. Somatisch: Rasender Puls, geweitete Pupillen, Euphoriegefühl im Brustkorb.
-
-Treibende Trap-Beats und funkelnde Synthesizer-Arpeggios spiegeln den neurochemischen Rausch auditiv wider.
+Lügen und Täuschungen stören nicht mehr, solange sie sich im Rausch „legendär“ anfühlen.
 
 **English:**
-Apotheosis of biochemical self-delusion: with the neurotransmitter surge, relational obligations evaporate ("since I stopped carrying it after you"). The line "every sentence sounds legendary / and doesn't need to be true / just needs to feel like it" articulates the record's most radical doctrine: truth and deception become irrelevant so long as the reward circuitry fires at maximum capacity.
+Chemical simulation celebrated: objective reality vanishes while dopamine inundates receptors. Artificial grandiosity replaces substance.
 
-Ecstatic, pressurized delivery with hyperactive acceleration. Somatically: racing pulse, dilated pupils, euphoric chest expansion.
-
-Driving trap drums and sparkling synth arpeggios mirror the neurochemical high across the stereo spectrum.
+Deception causes no friction so long as it feels legendary in intoxication.
 
 ---
 
-### Karte 2: `Sag, fühlst du das auch? / Die Schmetterlinge im Bauch / Und mir ist alles egal, auch wenn nichts davon wahr ist / Fühlst du das auch? / Die Schmetterlinge im Bauch / Sonnenbrille bei Nacht, denn ich bin in der Matrix`
+### Karte 2: `Sonnenbrille bei Nacht, denn ich bin in der Matrix / Die hermetische Kapsel`
 
 **Deutsch:**
-Die Hook als Tanz auf dem Vulkan: Die „Schmetterlinge im Bauch“ sind keine romantische Verliebtheit, sondern das physische Kribbeln des chemischen Aufputsches. Das Tragen der „Sonnenbrille bei Nacht“ erfüllt eine doppelte Funktion: Sie verbirgt die Mydriasis der Augen vor fremden Blicken und schirmt das Ich wie in einer geschlossenen „Matrix“ hermetisch gegen die Außenwelt ab.
+Die Sonnenbrille schützt nicht nur die geweiteten Pupillen, sondern schirmt das Ich wie in einer geschlossenen „Matrix“ gegen die Realität ab. Die Schmetterlinge im Bauch sind kein Zeichen von Liebe, sondern die körperliche Vibration des Rausches.
 
-Melodischer Singsang, der von hedonistischer Sorglosigkeit getragen wird. Somatisch: Tänzerische Entspannung, Aufsetzen der Brille, Ausblenden der Umgebung.
-
-Flirrende Synthie-Texturen und ein pumpender Bass lassen den Raum vibrieren.
+Das Subjekt lebt in seiner privaten Simulation, in der niemand mehr an es heranreicht.
 
 **English:**
-The chorus as dancing on the brink: "butterflies in the stomach" denote no romantic infatuation, but the visceral visceral flutter of chemical stimulation. Wearing "sunglasses at night" serves dual duty: concealing pupil dilation from external judgment and sealing the self inside a private "Matrix" firewall against reality.
+Sunglasses conceal pupil dilation while sealing consciousness inside a Matrix firewall. Butterflies represent somatic drug vibration rather than romance.
 
-Melodic sing-song delivery buoyed by hedonistic abandon. Somatically: rhythmic swaying, sliding sunglasses over the bridge of the nose, tuning out context.
-
-Shimmering synth textures and pumping low-end make the room vibrate.
+The persona resides inside private simulation where contact is impossible.
 
 ---
 
-### Karte 3: `Wartest auf Erlaubnis / Für all die Dinge, die du nicht mal aussprichst / Leben so schwer, wie man's nimmt / Besser bist du deshalb auch nicht / Nur weil du dich freiwillig aufgibst / High auf Moral, doch ich glaub's nicht / Denn es ist deine Wahrheit / Wegen der du so taub bist / Solang, bis du drauf bist`
+### Karte 3: `High auf Moral, doch ich glaub's nicht / Der Angriff auf die Nüchternheit`
 
 **Deutsch:**
-Der zynische Angriff auf bürgerliche Moral: Das Ich wirft dem nüchternen Gegenüber Feigheit und unbewusste Selbstaufgabe vor. Der Begriff „High auf Moral“ entwertet ethische Integrität als bloße Ersatzsucht der Unfreien. Die These, man sei erst dann sehend, wenn man „drauf ist“, vollzieht die totale Umkehrung aller Werte.
+Zynische Entwertung bürgerlicher Tugenden: Nüchterne Moral wird als bloße feige Ersatzsucht verspottet. Das Ich behauptet, die Moralisten seien taub für das wirkliche Leben, „solang, bis du drauf bist“.
 
-Aggressiv-belehrende Phonation mit spöttischem Grinsen. Somatisch: Fixierender Blick über den Brillenrand, vorwurfsvolle Gestik.
-
-Schneidende Percussions und harte Synths unterstreichen die Schärfe des Angriffs.
+Hier vollzieht die Persona die vollständige Pervertierung aller ethischen Maßstäbe.
 
 **English:**
-Cynical assault on conventional morality: the speaker accuses the sober observer of cowardice and subconscious self-surrender. Labeling them "high on morals" devalues ethical integrity as an inferior substitute addiction for the unfree. Insisting that perception only clarifies when "high" enacts total transvaluation of values.
+Moral integrity mocked as cowardly substitution. Claiming sober observers are blind until chemically altered inverts ethical norms.
 
-Aggressive, patronizing delivery with a sardonic smirk. Somatically: peering over the rim of the sunglasses, accusatory posturing.
+Complete transvaluation of values through hedonistic cynicism.
 
-Cutting percussion and abrasive synthesizers punctuate the attack.
+---
+
